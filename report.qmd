@@ -1,29 +1,50 @@
 ---
 title: "report"
 format: html
+engine: knitr
+css: main.css
 ---
 
-# **Data feminism**
+```{css}
+#| echo: false
+p {
+  text-align: justify
+}
+```
 
-## *introduction*
+# **Data Feminism**
 
-## *Problem Statement*
+## introduction
 
-### • what?
+## Problem Statement
 
-• The political impression over public space caused gender discrimination for women over socio-political activities that affected their response and caused social and spatial inequalities in a collective trauma that was not taken into account through a digital aspect
+### What?
 
-• Political impression and dominance over space and its effects on society through studying the collective digital memories and trauma
+::: justify
+The idea is based on analyzing the data of urban emotions regarding collective memories and traumas caused by the aftermath of conflicts between the citizens and the oppressive government forces within a specific urban context. The study is followed by the events in Iran, 2023, when a nationwide feminist movement emerged, specifically among women as a response to gender discrimination and suppression by the government. There was a large number of online activities by citizens on social media, reflecting the emotions, impressions, expressions and collective memories that usually were concentrated in the same locations of the cities.
 
-### • Who?
+These data can be spatialized in the city, like a main street, to assess its spatial qualities in terms of being democratic, safe, secure and open to all citizens and revealing the political dominance of spatial interventions. The method is a combination of data collection, text analysis, semantic analysis and maybe topic modeling using machine learning, programming, and analytic tools to fulfill the understanding of the context through shared data.
+
+The case study would be a main street or a public square in Tehran, Iran. The path to approach the problem would be a combination of spatial strategies, policies, or general space design.
+
+The political impression over public space caused gender discrimination for women over socio-political activities that affected their response and caused social and spatial inequalities in a collective trauma that was not taken into account thoroughly. However, social media and online platforms were powerful tools for civilians to cry out for their rights, engage and share their feelings about any space or action that was being taken within it.
+
+To make it straightforward, space can be transformed by political powers. Spatial interventions are not always a matter of local governance or municipal activities. It can be molded by political ideology. From a social context, the policies made by a higher governance of top-bottom system, space can become a tool to lay control over the daily life of civilians. This manipulation doesn't end here, it can grow further and one other possible outcome of it, would be discrimination.
+
+Spatial discrimination was a tangible obstacle in the way of civilians to take over the space that originally belongs to them, the public space. During Woman, Life, Freedom events, it was bright as daylight that the public space was reaching its threshold of holding the civilians as controlled pedestrians in streets and walkways to a ground for expressing a political disagreement.
+
+Political impression and dominance over space and its effects on society through studying the collective digital memories and trauma.
+:::
+
+### Who?
 
 • The women rights activists and citizens themselves. The women and everyone involved in gender discrimination and citizens involved in socio-political activities
 
-### • Where?
+### Where?
 
 • In Tehran’s heart there is public space that was the battle ground for citizens to cry out their rights against suppression
 
-### • Why?
+### Why?
 
 • It’s a matter of agency over space and daily life, knowing what would affect people’s daily lives and how they would perceive their living environment is a matter of right to the city. The public space should not be controlled by a single entity other than civic society or public. It’s human rights.
 
@@ -31,9 +52,9 @@ format: html
 
 1\. What are the political effects/outcomes over space?
 
-2\. How politics affect the daily life of citizens / women through spatial interventions?
+1.  **How politics affect the daily life of citizens / women through spatial interventions?**
 
-3\. How women are affected by spatial discrimination in public space e.g. Vali’asr Sqr. Or Teatré Shahr Sqr.
+2.  **How women are affected by spatial discrimination in public space e.g. Vali’asr Sqr. Or Teatré Shahr Sqr.?**
 
 4\. What are feminist values?\
 1. What are spatial qualities of feminist values?
@@ -49,10 +70,6 @@ format: html
 
 1.  How the space affects the daily life of citizens and vice versa?
 
-2.  How the public space design or spatial intervention could be redefined / re-imagined / re-introduced by feminist values?
+2.  **How the public space design or spatial intervention could be redefined / re-imagined / re-introduced by feminist values?**
 
-3.  The spatial qualities and design of the space for having open values / private space as an online platform and a domestic space to take into account
-
-4.  Reserve a slot every week for meet-ups in the beginning periods (Tue. mornings)
-
-5.  Next week : an intro of the way we work, advantages of working data-informed
+The spatial qualities and design of the space for having open values / private space as an online platform and a domestic space to take into account
