@@ -3,6 +3,7 @@ title: "report"
 format: html
 engine: knitr
 css: main.css
+bibliography: references.bib
 ---
 
 ```{css}
@@ -20,7 +21,6 @@ p {
 
 ### What?
 
-::: justify
 The idea is based on analyzing the data of urban emotions regarding collective memories and traumas caused by the aftermath of conflicts between the citizens and the oppressive government forces within a specific urban context. The study is followed by the events in Iran, 2023, when a nationwide feminist movement emerged, specifically among women as a response to gender discrimination and suppression by the government. There was a large number of online activities by citizens on social media, reflecting the emotions, impressions, expressions and collective memories that usually were concentrated in the same locations of the cities.
 
 These data can be spatialized in the city, like a main street, to assess its spatial qualities in terms of being democratic, safe, secure and open to all citizens and revealing the political dominance of spatial interventions. The method is a combination of data collection, text analysis, semantic analysis and maybe topic modeling using machine learning, programming, and analytic tools to fulfill the understanding of the context through shared data.
@@ -34,7 +34,26 @@ To make it straightforward, space can be transformed by political powers. Spatia
 Spatial discrimination was a tangible obstacle in the way of civilians to take over the space that originally belongs to them, the public space. During Woman, Life, Freedom events, it was bright as daylight that the public space was reaching its threshold of holding the civilians as controlled pedestrians in streets and walkways to a ground for expressing a political disagreement.
 
 Political impression and dominance over space and its effects on society through studying the collective digital memories and trauma.
-:::
+
+## Problems
+
+### Space, a lost right (lack of agency over space)
+
+-   The agency of citizens is underestimated by the local governments. How they find themselves within a space, especially a public one, it turns them around from being an active citizen who has rights to create, move, and stand on the space known as public asset. People are unable to contribute to their space creation or autonomous presence. In one hand, this inability roots even deeper to the awareness stage in which citizens don't consider the public space as a common good. On the other hand, the higher scale government considers the citizens only as a commuter that should walk through the path ways to reach their specified locations, mostly indoors space, and not overpass the defined space otherwise it is uncivilized or sometimes even illegal.
+
+### Spaces of Trauma
+
+-   Spaces that make you avoid from going to based on traumatic events that you experienced there. Especially, with women in certain public spaces that feel unsafe or avoid visiting them again after experiencing an unpleasant or even tragic incidents caused by social or spatial factors. It is a matter of how to design or re-think the design of such spaces based on feminist values that redefines what a safe public space is or at least, how it should be perceived. Example; Keshavarz blvd. Incidents and harrasments to young ladies and women.
+
+### Right to the memory
+
+-   There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparantly doesn't have any right or authority over the space considered as a common property. There are spaces that get manipulated, transformed or even demolished by government affected by economic or political interests. The citizens don't have any agency over the space to make decision or at least be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience within that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
+
+### Non-democratic space through memories
+
+-   There were socio-political events happened in Iran, 2023 that shaped a collective memory and even a trauma. A conflict between the civic society and government that caused several tragic events within the cities. In Tehran, the lack of open and democratic space was a phenomena caused by mostly political factors that made the equitable demonstration and protesting way more difficult and even unsafe to citizens. This is based on the evidence that the public space was controlled and policed by the secutiry forces most of the time which they could become dominant over space. Even the infrastructure in some ways was utilized by counter-riot forces (counter-riot trucks going on the BRT, a public transport way, to reach a specific point in the city). The public space is manipulated by defining fences and borders around buildings, squares, streets, and even walking paths. These interventions somehow reflect a mindset considering the citizen as merely a pedestrian that should only commute through the spaces defined by higher authorities and decision makers. Otherwise, it is considered as a disobey or breaking the law and an act of uncivilized people.
+
+------------------------------------------------------------------------
 
 ### Who?
 
@@ -73,3 +92,9 @@ Political impression and dominance over space and its effects on society through
 2.  **How the public space design or spatial intervention could be redefined / re-imagined / re-introduced by feminist values?**
 
 The spatial qualities and design of the space for having open values / private space as an online platform and a domestic space to take into account
+
+## References
+
+-   [@elwood2021; @fletcher2022; @jefferson2020]
+
+-   
