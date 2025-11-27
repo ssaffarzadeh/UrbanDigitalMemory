@@ -1,0 +1,90 @@
+---
+title: "report"
+format: html
+engine: knitr
+bibliography: references.bib
+---
+
+# **Themes**
+
+### Space, a missing right: agency interference by restricting autonomous (creative) activities in Teatré Shahr sq., Tehran.
+
+-   The agency of citizens is underestimated by the local governments. How they find themselves within a space, especially a public one, it turns them around from being an active citizen who has rights to create, move, and stand on the space known as public asset. People are unable to contribute to their space creation or autonomous presence. In one hand, this inability roots even deeper to the awareness stage in which citizens don't consider the public space as a common good. On the other hand, the higher scale government considers the citizens only as a commuter that should walk through the path ways to reach their specified locations, mostly indoors space, and not overpass the defined space otherwise it is uncivilized or sometimes even illegal.
+
+#### Problem in a sentence
+
+Spatial restrictions and security measures inhibit the autonomous (creative) activities in the City Theater sq. as a public space.
+
+#### Questions
+
+1.  How spatial restrictions inhibit autonomous activities in daily life?
+
+    1.1. How putting the fences around the square limits the mobility of citizens?
+
+    1.2. How removing the sitting spaces limits the self-directed presence in the square?
+
+    1.3. How spatial restrictions can be identified through the social media data?
+
+2.  How security measures prohibit autonomous activities in the City Theater square?
+
+    2.1. What are the conflicts made between creative activists and security officers in the City Theater's square?
+
+    2.1.1 How the conflicts could be traced / identified through the data shared on social media?
+
+3.  What is the approach that gives the agency to citizens over the public space?
+
+    3.1. How to design the public square as a neutral space for autonomous activities?
+
+    3.1.1. What are the spatial qualities of a neutral space?
+
+------------------------------------------------------------------------
+
+### Urban Digital Memory: The tool to monitor / evaluate spatial interventions on the public space - a study of Teatré Shahr sq., Tehran.
+
+-   There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government inforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
+
+Traces of urban space transformation through digital memory.
+
+#### Problem in a sentence
+
+The spatial memories are valuable intakes of a space that are taken for granted by the designers / decision-makers in their interventions causing erasure of the public space.
+
+**How to prevent spatial-memorial erasure using the digital memories that validate a public space.**
+
+#### Questions
+
+1.  How the digital memory can raise awareness regarding a public space affected by spatial interventions?
+
+    1.1. What values do citizens share about the City Theater square transformation throughout time (before and after the latest intervention) on the social media ?
+
+2.  How digital memory (social media data) can define spatial boundaries of intervention for policy-makers and designers?
+
+3.  How the quality of spatial interventions can be assessed and evaluated through analyzing the digital memories concerning a public space?
+
+4.  What are the planning / policy / design principles (standards) driven or adapted from digital memories regarding City Theater square?
+
+5.  How can social media help as a passive-digital-participatory platform to identify the valuable spaces in terms of right to the memory(city)?
+
+6.  What values can be adapted from digital memories of City Theater sq. to be used for spatial quality validation for interventions?
+
+7.  How digital memories can help to set values and rights to public space to prevent memorial erasures?
+
+    9.1. How digital memories narrate the lived-experiences of citizens in the City Theater's square?
+
+8.  How the past and present condition of City Theater square can be evaluated using the digital memories?
+
+9.  What are the spatial qualities (aspects) of digital memories regarding a public space?
+
+10. What is the right to the memory - of space - based on the notions of right to the city?
+
+11. What are the relations between the collective or individual memory over a space and the right to them?
+
+    1.  How the space and memory are related to each other? OR What is a spatial memory?
+
+------------------------------------------------------------------------
+
+## References
+
+-   [@elwood2021; @fletcher2022; @jefferson2020]
+
+-   
