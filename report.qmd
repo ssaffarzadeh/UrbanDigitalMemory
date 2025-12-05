@@ -7,15 +7,16 @@ bibliography: references.bib
 
 # **Themes**
 
-## Digital Memory
+# Introduction
 
-## Right to the city
+# Research Importance
 
-## Social Media
+# Research Objectives
 
-## Public Engagement
+# Problem Statement
 
-## Digital Participatory
+## Digital Memory Right to the city Social Media Public Engagement Digital Participation
+
 
 ### Urban Digital Memory: A tool to monitor / evaluate spatial interventions over the public space - a study of Teatré Shahr sq., Tehran.
 
@@ -27,7 +28,7 @@ Traces of urban space transformation through digital memory.
 
 The spatial memories are valuable intakes of a space that are taken for granted by the designers / decision-makers in their interventions causing erasure of the public space.
 
-#### Questions
+# Research Questions
 
 **How can digital memories shared by citizens help identify spatial boundaries for future interventions in Teatré Shahr Square?**
 
@@ -46,6 +47,9 @@ The spatial memories are valuable intakes of a space that are taken for granted 
     3.1. How recurring emotions and experiences expressed by the citizens on social media reflect the sensitivity of specific locations (sitting spaces, fountain area, frontage space of City Theater building) within the square?
 
 4.  How do digital memories narrate the lived-experiences of citizens in the City Theater square and how do these narratives indicate which spatial features should be preserved? \# in the support of identifying boundary-sensitive areas
+
+
+
 
 ------------------------------------------------------------------------
 
