@@ -9,7 +9,7 @@ bibliography: references.bib
 
 # Introduction
 
-# Research Importance
+# Relevance
 
 # Research Objectives
 
@@ -49,7 +49,15 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 4.  How do digital memories narrate the lived-experiences of citizens in the City Theater square and how do these narratives indicate which spatial features should be preserved? \# in the support of identifying boundary-sensitive areas
 
 
+# Scope (Case Study)
 
+
+----
+
+# Methodology (methods and planning)
+
+
+# Theoretical Framework
 
 ------------------------------------------------------------------------
 
