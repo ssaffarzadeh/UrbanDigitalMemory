@@ -72,9 +72,3 @@ One of the public squares which has always been under drastic tension between it
 # Theoretical Framework
 
 ------------------------------------------------------------------------
-
-## References
-
--   [@elwood2021; @fletcher2022; @jefferson2020]
-
--   
