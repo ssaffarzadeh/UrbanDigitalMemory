@@ -11,16 +11,24 @@ bibliography: references.bib
 
 # Relevance
 
+## Right to the memory as a right to the city
+
+## Digital era (arhival memories)
+The power of media is an obvious phenomena that 
+
+## Public Engagement
+
 # Research Objectives
 
 # Problem Statement
 
-## Digital Memory Right to the city Social Media Public Engagement Digital Participation
+## Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation
 
 
 ### Urban Digital Memory: A tool to monitor / evaluate spatial interventions over the public space - a study of Teatré Shahr sq., Tehran.
 
--   There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests. The memory is a valuable lived-experience that holds evidences of a lived, conceived and perceived physical space for each individual (@shaw2017).
+-   There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests. 
+The memory is a valuable lived-experience that holds evidences of a lived, conceived and perceived physical space for each individual (@shaw2017).
 
 Traces of urban space transformation through digital memory.
 
@@ -30,21 +38,19 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 # Research Questions
 
-**How can digital memories shared by citizens help identify spatial boundaries for future interventions in Teatré Shahr Square?**
+**How can digital memories shared by citizens help identify spatial values as potential guidelines (regulations) for interventions in Teatré Shahr Square?**
 
-1.  How the digital memory can raise awareness regarding Teatré Shahr square affected by redesign and redevelopment projects?
+1.  How the memories of Teatré Shahr square shared on social media can raise public awareness regarding the redesign projects that affect it as a public space?
 
-    1.1. What values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media ?
+    1.1. What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media ?
 
-2.  How can digital memory (social media data) define boundaries of intervention for policy-makers and designers?
+2.  How can digital memories of a physical space can define intervention limits as valuable spatial features for policy-makers and designers?
 
-    2.1. What planning / policy / design principles (standards) can be driven or adapted from digital memories regarding City Theater square as a public space?
-
-    2.2.How can social media help as a passive-digital-participatory platform to identify the valuable spaces within the square (open space, sitting spaces, front of City Theater building) in terms of right to the memory(city)?
+    2.2.How can social media help as a passive-digital-participatory platform to identify the valuable spaces within the square (meeting spots, sitting spaces, open frontage of City Theater building) in terms of right to the memory(city)?
 
 3.  How spatial interventions can be assessed and evaluated through analyzing the digital memories concerning a public space? #not sure about this question yet.
 
-    3.1. How recurring emotions and experiences expressed by the citizens on social media reflect the sensitivity of specific locations (sitting spaces, fountain area, frontage space of City Theater building) within the square?
+    3.1. How recurring emotions and experiences expressed by the citizens on social media reflect the sensitivity of specific locations (sitting spaces, fountain area, frontage space of City Theater building, meeting spots) within the square?
 
 4.  How do digital memories narrate the lived-experiences of citizens in the City Theater square and how do these narratives indicate which spatial features should be preserved? \# in the support of identifying boundary-sensitive areas
 
