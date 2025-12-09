@@ -5,29 +5,32 @@ engine: knitr
 bibliography: references.bib
 ---
 
-# **Themes**
+# **Urban Digital Memory: A tool to monitor / evaluate spatial interventions over the public space - a study of Teatré Shahr sqr., Tehran**
+
+*Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
 
 # Introduction
 
 # Relevance
 
-## Right to the memory as a right to the city
+### Right to the memory as a right to the city
 
-## Digital era (arhival memories)
-The power of media is an obvious phenomena that 
+If we consider the right over public space derived from the concept of the right to the city. Once people have their lived-experiences on a space, it forms their memories of that space. Since memory and physical space can be imagined as intertwined existences, the memories are attached to the physical space while the space holds the memories within its boundaries as well (notions of sense of place etc.). Thus, having the right over a public space, automatically gives the right to the memories towards it at the same time. In other words, policy makers, designers or any other entity that holds the authority or power to change the space has to take into account the sensitivity of a public space not only based on general spatial values and qualities, but also with memories embedded within that space. It should be acknowledged that citizens have a right to the space, and they have right to their memories of that space as common goods too.
 
-## Public Engagement
+### Digital era (archival memories)
+
+In the digital age, the media has become a tool for any individual to express their thoughts, talk about their feelings, bring up ideas, share experiences and memories or cry out for their right as critical matter. One major feature of digital media is their archival potential. They are the database of memories of many individual and collective activities or events in a various set of contexts.
+
+What archival memories can bring is not comparable to a curated, centrally organised museum set up excluded to visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet (@haskins2007).
+
+### Public Engagement (digital participation)
 
 # Research Objectives
 
 # Problem Statement
 
-## Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
 
-
-### Urban Digital Memory: A tool to monitor / evaluate spatial interventions over the public space - a study of Teatré Shahr sq., Tehran.
-
--   There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests. 
 The memory is a valuable lived-experience that holds evidences of a lived, conceived and perceived physical space for each individual (@shaw2017).
 
 Traces of urban space transformation through digital memory.
@@ -54,14 +57,17 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 4.  How do digital memories narrate the lived-experiences of citizens in the City Theater square and how do these narratives indicate which spatial features should be preserved? \# in the support of identifying boundary-sensitive areas
 
-
 # Scope (Case Study)
 
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater^[\[1\]](#_ftn1)^ square[\[2\]](#_ftn2). As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets which are the longest vertical and horizontal armatures of Tehran.
 
-----
+^[\[1\]](#_ftnref1)^ Teatré Shahr in Persian \[Translated by the author\]
+
+[\[2\]](#_ftnref2) The square holds the city theater building within its space that could be considered as a semi-open public space in Tehran with all of the activities and events that take place downtown.
+
+------------------------------------------------------------------------
 
 # Methodology (methods and planning)
-
 
 # Theoretical Framework
 
