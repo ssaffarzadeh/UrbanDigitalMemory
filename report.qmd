@@ -61,6 +61,12 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater^[\[1\]](#_ftn1)^ square[\[2\]](#_ftn2). As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets which are the longest vertical and horizontal armatures of Tehran.
 
+![*Figure 1. Tehran’s overview and City Theater’s location within it \
+Source: Google Earth, 2024*](images/teatre shahr.jpg)
+
+![*Figure 2. City Theater's building and plaza\
+Source: Hamshahri Online, 2024.*](images/4811609.jpg)
+
 ^[\[1\]](#_ftnref1)^ Teatré Shahr in Persian \[Translated by the author\]
 
 [\[2\]](#_ftnref2) The square holds the city theater building within its space that could be considered as a semi-open public space in Tehran with all of the activities and events that take place downtown.
@@ -69,6 +75,42 @@ One of the public squares which has always been under drastic tension between it
 
 # Methodology (methods and planning)
 
+The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
+
+The main variable that will be collected is the text strings within tweets and post captions on Instagram using scraping application specialized for these platforms considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
+
 # Theoretical Framework
 
 ------------------------------------------------------------------------
+
+The initial conceptual framework will help to extract necessary criteria to run the semantic analysis on collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
+
+The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors.
+
+![*Figure 3. Space to place transformation Diagram*](images/CamScanner 12-19-2024 19.48_10-01.jpg)
+
+The belonging factors can be identified as below in Fig. 4 which represents a very initial draft of spatial and contextual aspects that would make direct and in-direct impact of ones sense of belonging towards the environment in which they have been to and interacted within it.
+
+![*Figure 4. Sense of belonging spatial and contextual affecting factors*](images/CamScanner 12-19-2024 19.48_9.jpg)
+
+-   Ecology: green & blue elements, living species
+
+-   Accessibility: sidewalk, pathways, entrances, gateways
+
+-   Openness: open space, tiling, profile details
+
+-   Sitting space: edges, fountain, benches
+
+-   Landmarks: City Theater building, statues, fountain
+
+-   Visibility: Eye view sheds, landmarks, corridors,
+
+-   Safety: pedestrian priority, traffic control
+
+-   Security: active presence, observer eye (eyes on the street)
+
+-   Geography: topography, location
+
+-   Climate: temperature, humidity, sun angle
+
+-   Identity: symbols, culture, language, lifestyle
