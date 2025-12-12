@@ -77,7 +77,11 @@ Source: Hamshahri Online, 2024.*](images/4811609.jpg)
 
 The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
 
-The main variable that will be collected is the text strings within tweets and post captions on Instagram using scraping application specialized for these platforms considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
+The main variable that will be collected is the text strings within tweets on X and post captions on Instagram using scraping application specialized for these platforms [^1] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
+
+[^1]: Tweet scraper V2-X for Twitter and Instagram scraper
+
+After that, the data needed to be cleaned and classified based on semantic values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
 
 # Theoretical Framework
 
