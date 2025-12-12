@@ -61,8 +61,8 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater^[\[1\]](#_ftn1)^ square[\[2\]](#_ftn2). As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets which are the longest vertical and horizontal armatures of Tehran.
 
-![*Figure 1. Tehran’s overview and City Theater’s location within it \
-Source: Google Earth, 2024*](images/teatre shahr.jpg)
+![*Figure 1. Tehran’s overview and City Theater’s location within it\
+Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
 
 ![*Figure 2. City Theater's building and plaza\
 Source: Hamshahri Online, 2024.*](images/4811609.jpg)
@@ -91,11 +91,11 @@ The initial conceptual framework will help to extract necessary criteria to run 
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors.
 
-![*Figure 3. Space to place transformation Diagram*](images/CamScanner 12-19-2024 19.48_10-01.jpg)
+![*Figure 3. Space to place transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
 
 The belonging factors can be identified as below in Fig. 4 which represents a very initial draft of spatial and contextual aspects that would make direct and in-direct impact of ones sense of belonging towards the environment in which they have been to and interacted within it.
 
-![*Figure 4. Sense of belonging spatial and contextual affecting factors*](images/CamScanner 12-19-2024 19.48_9.jpg)
+![*Figure 4. Sense of belonging spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
 
 -   Ecology: green & blue elements, living species
 
