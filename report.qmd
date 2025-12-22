@@ -17,21 +17,41 @@ bibliography: references.bib
 
 If we consider the right over public space derived from the concept of the right to the city. Once people have their lived-experiences on a space, it forms their memories of that space. Since memory and physical space can be imagined as intertwined existences, the memories are attached to the physical space while the space holds the memories within its boundaries as well (notions of sense of place etc.). Thus, having the right over a public space, automatically gives the right to the memories towards it at the same time. In other words, policy makers, designers or any other entity that holds the authority or power to change the space has to take into account the sensitivity of a public space not only based on general spatial values and qualities, but also with memories embedded within that space. It should be acknowledged that citizens have a right to the space, and they have right to their memories of that space as common goods too.
 
+Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having accessibility to the resources (@tedeschi2024).
+
+The abstract space described by Lefebvre (1991) limited to planning and design perspectives has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly-changing information @shaw2017.
+
+The technological development has brought new definitions of the right to the city concept. @tedeschi2024 argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing with which leading them to negotiate their social intakes and power over space with such non-human entity. This creates a different level of inequality in a digital dimension.
+
+inequalities of digital space
+
 ### Digital era (archival memories)
 
 In the digital age, the media has become a tool for any individual to express their thoughts, talk about their feelings, bring up ideas, share experiences and memories or cry out for their right as critical matter. One major feature of digital media is their archival potential. They are the database of memories of many individual and collective activities or events in a various set of contexts.
 
-What archival memories can bring is not comparable to a curated, centrally organised museum set up excluded to visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet (@haskins2007).
+What archival memories can bring is not comparable to a curated, centrally organised museum set up excluded to visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet (@haskins2007). Even such idea was somehow suggested by Lefebvre (2003) that having a self-management feature over a digital platform should be a right, even though it was considered as a right to urban resources and not something higher @tedeschi2024
+
+The importance of digital domain is not just about having horizontal archival memories made by numerous individuals, but the digital space itself as a phenomena that can trace the contents of a society regarding a physical space. @shaw2017 brings up the importance of data flows in urban studies:
+
+> "*Just as the urbanization of water is a processional notion which can uncover “stories about the city’s structure and development”, so can a reading of the city’s “political, social, and economic conduits” through which information flows also “carry the potential for an improved, more just, and more equitable right to the city”*"
 
 ### Public Engagement (digital participation)
+
+Again, from the right to the city, Mitchell (2003) highlights the right to the city which is *oeuvre*[^1], a piece of art, that each citizen contribute to it (@tedeschi2024:p.3). It is a piece of art with which city dwellers can create by sharing their lived experiences and lead that to actions (@tedeschi2024:p.6, Currie et al., 2022).
+
+[^1]: A piece of art \[in French\]
+
+Even re-framing the Right to the City is led to co-design from governmental perspective towards shaping public space rather than just having citizens gaining more power and rights over their space (@tedeschi2024).
+
+inequalities of digital power through the social media
 
 # Research Objectives
 
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary, City Theater's Square[^1] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary, City Theater's Square[^2] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
 
-[^1]: Teatré Shahr in Persian \[translated by the author\]
+[^2]: Teatré Shahr in Persian \[translated by the author\]
 
 The memory is a valuable lived-experience that holds evidences of a lived, conceived and perceived physical space for each individual (@shaw2017).
 
@@ -75,29 +95,17 @@ Source: Hamshahri Online, 2024.*](images/4811609.jpg)
 
 ------------------------------------------------------------------------
 
-# Methodology (methods and planning)
-
-The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
-
-The main variable that will be collected is the text strings within tweets on X and post captions on Instagram using scraping application specialized for these platforms [^2] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
-
-[^2]: Tweet scraper V2-X for Twitter and Instagram scraper
-
-After that, the data needed to be cleaned and classified based on semantic values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
-
 # Theoretical Framework
-
-------------------------------------------------------------------------
 
 The initial conceptual framework will help to extract necessary criteria to run the semantic analysis on collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors.
 
-![*Figure 3. Space to place transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
+![Figure 3. Space to place transformation Diagram](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
 
 The belonging factors can be identified as below in Fig. 4 which represents a very initial draft of spatial and contextual aspects that would make direct and in-direct impact of ones sense of belonging towards the environment in which they have been to and interacted within it.
 
-![*Figure 4. Sense of belonging spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
+![Figure 4. Sense of belonging spatial and contextual affecting factors](images/CamScanner%2012-19-2024%2019.48_9.jpg)
 
 -   Ecology: green & blue elements, living species
 
@@ -120,3 +128,13 @@ The belonging factors can be identified as below in Fig. 4 which represents a ve
 -   Climate: temperature, humidity, sun angle
 
 -   Identity: symbols, culture, language, lifestyle
+
+# Methodology (methods and planning)
+
+The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
+
+The main variable that will be collected is the text strings within tweets on X and post captions on Instagram using scraping application specialized for these platforms [^3] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
+
+[^3]: Tweet scraper V2-X for Twitter and Instagram scraper
+
+After that, the data needed to be cleaned and classified based on sentiment values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
