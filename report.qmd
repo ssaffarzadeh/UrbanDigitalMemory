@@ -73,7 +73,7 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 # Research Questions
 
-**How can digital memories shared by citizens help identify spatial values as potential guidelines for interventions in Teatré Shahr Square?**
+**How can digital memories shared by citizens help identify spatial values as potential conditions for interventions in Teatré Shahr Square?**
 
 1.  How recurring emotions and experiences expressed by the citizens on social media reflect the sensitivity of specific locations (sitting spaces, fountain area, frontage space of City Theater building, meeting spots) within the square?
 
@@ -85,13 +85,11 @@ The spatial memories are valuable intakes of a space that are taken for granted 
 
 5.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former twitter) and Instagram?
 
-6.  how do digital narratives indicate which spatial features should be preserved?
+6.  How the memories of Teatré Shahr square shared on social media can raise public awareness regarding the redesign projects that affect it as a public space?
 
-7.  How the memories of Teatré Shahr square shared on social media can raise public awareness regarding the redesign projects that affect it as a public space?
+7.  How spatial interventions can be assessed and evaluated through analyzing the digital memories concerning a public space? #not sure about this question yet.
 
-8.  How spatial interventions can be assessed and evaluated through analyzing the digital memories concerning a public space? #not sure about this question yet.
-
-9.  How can social media help as a passive-digital-participatory platform to identify the valuable spaces within the square (meeting spots, sitting spaces, open frontage of City Theater building)?
+8.  How can social media help as a passive-digital-participatory platform to identify the valuable spaces within the square (meeting spots, sitting spaces, open frontage of City Theater building)?
 
 # Scope (Case Study)
 
@@ -143,6 +141,40 @@ The belonging factors can be identified as below in Fig. 4 which represents a ve
 
 -   Identity: symbols, culture, language, lifestyle
 
+The memories of space or place that are turned to lived-experience and expressed through emotions on digital space are useful assets to analyze a space from a cognitive view.
+
+The users share different experiences of their presence and interaction within the lived space on social media. As mentioned before, their posts and tweets would hold various emotions. The main gap would be how to trace the spatial feature out of these shared emotions.
+
+Thanks to the Lynch’s (1964) @lynch cognitive analysis concepts ad methods of the perceived space or city, the spatial features could be tracked and recognized by how the individuals described their situation or position of the space ad their mentions could be classified to Lynch’s cognitive features of nodes, lines, areas, edges and landmarks. The further workflow would be focused on relating different sentiments to each corresponding spatial feature of the context. For example, someone could have gone angry due to presence in a specific area with edges.
+
+The semimetal classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design, and spaces that need improvement. This would help for further steps of design process and producing spatial conditions over spaces that are holding memories that can be recalled as a public good.
+
+## Framework
+
+Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as theoretical lens over the methodology and further steps of this study. The details and connections of each notion is illustrated in the following figure.
+
+![Figure 5. Conceptual Framework](images/Screenshot 2026-01-11 at 19.05.48.png)
+
+The memories shared on social media as available data will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
+
+1.  Anger
+
+2.  Sadness
+
+3.  Comfort
+
+4.  Happiness
+
+Based on @lynch 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
+
+1.  Line
+2.  Node
+3.  Edge
+4.  Area
+5.  Landmark
+
+After relating each emotion to their addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that are not correspondent. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already correspondent and have positive impacts on the society. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way but more interactive.
+
 # Methodology (methods and planning)
 
 The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
@@ -151,4 +183,4 @@ The main variable that will be collected is the text strings within tweets on X 
 
 [^3]: Tweet scraper V2-X for Twitter and Instagram scraper
 
-After that, the data needed to be cleaned and classified based on sentiment values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
+After that, the data needed to be cleaned from unnecessary details or non-relative expressions, so the analysis would be applied appropriately. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
