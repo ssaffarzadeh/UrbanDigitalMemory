@@ -15,7 +15,7 @@ bibliography: references.bib
 
 ### Right to the memory as a right to the city
 
-The Right to the City was coined by the French philosopher, Henry Lefebvre (1996), during the era in which the social movements became viral among the young intellectuals and labor activists who’d been seeking social justice within the urban areas (Mitchell, 2003; Habibi & Amiri, 2016: 11). After Modernism, the ownership over the land in urban areas through a capitalist monopoly, kicked off dramatically. At that time politicians, social activists, urbanists, and philosophers realized the need for a just city and a healthy environment in between the city blocks is something crucial and, in other words, could be considered a right for the citizens who live in there and use its space (Habibi & Amiri, 2016; Harvey, 2015, Lefebvre, 1996).
+The Right to the City was coined by the French philosopher, Henry @lefebvre1968/1996 during the era in which the social movements became viral among the young intellectuals and labor activists who’d been seeking social justice within the urban areas After Modernism, the ownership over the land in urban areas through a capitalist monopoly, kicked off dramatically. At that time politicians, social activists, urbanists, and philosophers realized the need for a just city and a healthy environment in between the city blocks is something crucial and, in other words, could be considered a right for the citizens who live in there and use its space (Habibi & Amiri, 2016; Harvey, 2015, Lefebvre, 1996).
 
 Furthermore, the notion was developed by David Harvey (2015) who argued that city dwellers can fight for their right over the space and generally, over the city. This act works against the manipulation and trespassing of the public domain by private developers and governments who attempt to carry out capitalism all over the vacant spaces for profit. Harvey (2015) suggested that this could be prevented by the public with social activities and demonstrations by knowing the Right to the City as their individual will to make a change in their living space and ultimately change themselves. Thus, the Right to the City is mostly interpreted as the right to public space. Who has access to it and who doesn’t, defines this right (Harvey, 2015; Habibi & Amiri, 2016; Moroni & Chiodelli, 2014).
 
@@ -23,9 +23,9 @@ If we consider the right over public space derived from the concept of the right
 
 Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having accessibility to the resources (@tedeschi2024).
 
-The abstract space described by Lefebvre (1991) limited to planning and design perspectives has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly-changing information @shaw2017.
+The abstract space described by Lefebvre (1991) limited to planning and design perspectives has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly-changing information (@shaw2017).
 
-The technological development has brought new definitions of the right to the city concept. @tedeschi2024 argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing with which leading them to negotiate their social intakes and power over space with such non-human entity. This creates a different level of inequality in a digital dimension.
+The technological development has brought new definitions of the right to the city concept. (@tedeschi2024) argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing with which leading them to negotiate their social intakes and power over space with such non-human entity. This creates a different level of inequality in a digital dimension.
 
 inequalities of digital space
 
@@ -147,7 +147,7 @@ The semimetal classification of each feature would help to come up with valuable
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as theoretical lens over the methodology and further steps of this study. The details and connections of each notion is illustrated in the following figure.
 
-![Figure 5. Conceptual Framework](images/Screenshot 2026-01-11 at 19.05.48.png)
+![Figure 5. Conceptual Framework](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
 The memories shared on social media as available data will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
 
