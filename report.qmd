@@ -49,7 +49,9 @@ Again, from the right to the city, @mitchell2003 highlights the right to the cit
 
 Even re-framing the Right to the City is led to co-design from governmental perspective towards shaping public space rather than just having citizens gaining more power and rights over their space [@tedeschi2024].
 
-Taking the notions explained about the archival media, the autonomous authorship would lead to having a democratized media [@haskins2007; @martin2025]. This can be recognized as first steps towards public participation before engaging the stakeholders, mostly citizens or vulnerable groups. based on @arnstein2019 's ladder of participation, having the shared lived experiences of citizens on digital platforms may be a lower step, yet passively engaging position that is needed to be updated. Because this is not about active interaction of the planner / designer with citizens but reading or tracing citizens' emotions on an autonomous semi survey publicly available [@martin2025].
+Taking the notions explained about the archival media, the autonomous authorship would lead to having a democratized media [@haskins2007; @martin2025]. This can be recognized as first steps towards public participation before engaging the stakeholders, mostly citizens or vulnerable groups. To understand the extent of participation, @arnstein2019 suggested the concept of "The Ladder of Participation" which indicates the level of public engagement and participation in the form of a ladder structure. This ladder starts with the least level of participation known as Therapy till the most ultimate form which is active citizen engagement on design process.
+
+Based on @arnstein2019 's ladder of participation, having the shared lived experiences of citizens on digital platforms may be a lower step, yet passively engaging position that is needed to be updated. Because this is not about active interaction of the planner / designer with citizens but reading or tracing citizens' emotions on an autonomous semi survey publicly available [@martin2025].
 
 One positive aspect of having the digital inputs, is the large scale of data. Despite of usually having limited number of active participants in urban projects, the digital platforms provide the opportunity to receive qualitative inputs from a larger scope and cover more citizens sharing their opinions and experiences [@martin2025; @fathullah2018].
 
@@ -111,6 +113,25 @@ The objectives can be defined as below:
 +---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : *Table 1. Research questions classification*
+
+For a clearer understanding of how each sub question is going to be tackled, the corresponding methodology is briefly described within the following table.
+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Question                                                                                                                                                                                  | Methodology                                                                                                      |
++:=========================================================================================================================================================================================:+:================================================================================================================:+
+| 1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former twitter) and Instagram?                                                     | Literature review, \                                                                                             |
+|                                                                                                                                                                                           | Data collection using scraping apps as strings of text, Topic modelling                                          |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 2.  What emotions can be traced from digital memories of City Theater square?                                                                                                             | Sentiment analysis to recognize and classify emotions from texts extracted from Tweets and Instagram posts       |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 3.  What spatial qualities could be referred to from the shared emotions?                                                                                                                 | Locating the spatial features referred by emotions through cognitive indicators                                  |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media? | Classifying the values of spatial features referred by emotions into positive and negative                       |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 5.  How shared memories on social media inform design guidelines for the City Theater square?                                                                                             | Creating design guidelines based on spatial qualities and interventions corresponding to negative spatial values |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+
+: *Table 2. Research questions and methodology*
 
 # Scope (Case Study)
 
