@@ -195,7 +195,15 @@ The sentimental classification of each feature would help to come up with valuab
 
 ## Conceptual Framework
 
-![*Figure 7. Conceptual Framework*](images/conceptual framework-01.jpeg)
+Furthermore, to integrate the adapted concepts out of the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
+
+![*Figure 7. Conceptual Framework*](images/conceptual framework_updated.jpeg)
+
+The diagram depicts the three main concepts of the study, social media, digital memory and space, and how they are related to each other based on the defined methods.
+
+Starting from the social media, the data within the Tweets and Instagram posts are based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only the emotions address each spatial feature, but also they validate them. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space.
+
+Each of these validated features have made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms such as Tweets and Instagram posts on the social media regarding the physical space sphere. In that way, the impressions of the physical space traverse to the digital space (e.g. social media) and create a clone of the existing space.
 
 ## Methodological Framework
 
