@@ -193,7 +193,11 @@ Thanks to the @lynch1964's cognitive analysis concepts and methods of the percei
 
 The sentimental classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design, and spaces that need improvement. This would help for further steps of design process and producing spatial conditions over spaces that are holding memories that can be recalled as a public good.
 
-## Framework
+## Conceptual Framework
+
+![*Figure 7. Conceptual Framework*](images/conceptual framework-01.jpeg)
+
+## Methodological Framework
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as theoretical lens over the methodology and further steps of this study. The details and connections of each notion is illustrated in the following figure.
 
