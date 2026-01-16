@@ -153,9 +153,9 @@ One of the public squares which has always been under drastic tension between it
 
 [^3]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
 
-![Figure 1. Tehran’s overview and City Theater’s location within itSource: Google Earth, 2024](images/teatre%20shahr.jpg)
+![Figure 1. Tehran’s overview and City Theater’s location within it. Source: Google Earth, 2024](images/teatre%20shahr.jpg)
 
-![Figure 2. City Theater's building and plazaSource: Hamshahri Online, 2024.](images/4811609.jpg)
+![Figure 2. City Theater's building and plaza. Source: Hamshahri Online, 2024.](images/4811609.jpg)
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
@@ -287,7 +287,7 @@ The main variable that will be collected is the text strings within tweets on X 
 
 [^6]: Tweet scraper V2-X for Twitter and Instagram scraper
 
-After that, the data needed to be cleaned of unnecessary details or non-relevant expressions, so the analysis would be applied appropriately. The unnecessary details it includes the personal information and opinions on highly-sensitive topics that may cause risk to data subjects. The necessary data would be related to sentiments, spatial features and memorial expressions that refer to the space (i.e., City Theater and its surroundings), which are all texts that will be collected in a string format. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework as qualitative content analysis[@williamson2020]. By overlapping the driven criteria with semantically classified data, classified as various expressions of anger, sadness, happiness, fear, etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved, and what might be the alternatives of design for such public spaces.
+After that, the data needed to be cleaned of unnecessary details or non-relevant expressions, so the analysis would be applied appropriately. The unnecessary details it includes the personal information and opinions on highly-sensitive topics that may cause risk to data subjects. The necessary data would be related to sentiments, spatial features, and memorial expressions that refer to the space (i.e., City Theater and its surroundings), which are all texts that will be collected in a string format. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework as qualitative content analysis[@williamson2020]. By overlapping the driven criteria with semantically classified data, classified as various expressions of anger, sadness, happiness, fear, etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved, and what might be the alternatives of design for such public spaces.
 
 ## Methodological Framework
 
@@ -331,4 +331,6 @@ On the spatial category, the outcomes are followed up on the analysis outputs. T
 
 {{< pagebreak >}}
 
-## Project timeframe
+## Project time frame
+
+# References
