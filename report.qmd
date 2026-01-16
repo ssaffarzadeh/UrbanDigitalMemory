@@ -21,52 +21,19 @@ This new accessibility can be considered as a shortcut to democracy. Sharing the
 
 This study aims to tackle the matter of how citizens' lived experiences shared on social media form as urban digital memories. The digital memory creates newer concepts on top of the right to the city notion that can be called right to the memory. The project focuses on how the right to the memory can become a significant tool to validate urban interventions on spatial features through a digital public engagement and participation perspective.
 
-# Scope (Case Study)
-
-## Teatré Shahr (City Theater)
-
-One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^1] Square[^2]. As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran.
-
-[^1]: Teatré Shahr in Persian \[Translated by the author\]
-
-[^2]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
-
-![*Figure 1. Tehran’s overview and City Theater’s location within it\
-Source: Google Earth, 2024*](images/teatre%20shahr.jpg){alt="Figure 1. Tehran’s overview and City Theater’s location within itSource: Google Earth, 2024"}
-
-![*Figure 2. City Theater's building and plaza\
-Source: Hamshahri Online, 2024.*](images/4811609.jpg){alt="Figure 2. City Theater's building and plazaSource: Hamshahri Online, 2024."}
-
-The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
-
-The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
-
-![*Figure 3. City Theater of Tehran Building in 1971\
-Source: [Wikimedia, 2026](https://upload.wikimedia.org/wikipedia/commons/4/40/City_Theater_of_Tehran_-_1971.jpg)*](images/City_Theater_of_Tehran_-_1971.jpg){alt="Figure 8. City Theater Building of Tehran in 1971"}
-
-As can be seen in Figs. 2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
-
-## X and Instagram
-
-Multiple social media platforms hold much data regarding digital memories. In the Iranian case, users are mostly active in the two platforms of X (formerly Twitter) and Meta's Instagram. The X has always been one of the most dynamic platforms for Iranians to share their social, political, and daily-life opinions about the state of the country or their living environments. Instagram is the most popular social media platform among Iranians by a percentage of 28.33%, and X holds the percentage of 5.4 throughout the last decade (Dec 2015 - Dec 2025) [@statcounter]. X may not be the most popular platform, but it's the space in which many users share their opinions on critical or general topics more straightforwardly and transparently. While other platforms like Instagram, Facebook, or Pinterest are concentrated on sharing media and general descriptions, X would bring more textual content that holds more individual or professional positionality regarding a topic.
-
-Based on these reasons, X and Instagram are chosen as the targeted social media platforms to collect their digital memories about the City Theater Square and analyze the texts stored in tweets and Instagram posts.
-
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary. City Theater's Square[^3] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary. City Theater's Square[^1] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
 
-[^3]: Teatré Shahr in Persian \[translated by the author\]
+[^1]: Teatré Shahr in Persian \[translated by the author\]
 
 The memory is a valuable lived-experience that holds evidence of a lived, conceived and perceived physical space for each individual [@shaw2017].
 
-![*Figure 1. Fence placement on the south of the City Theater plaza for reconstruction\
-Source: [Wikimedia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Th%C3%A9%C3%A2tre_municipal_de_T%C3%A9h%C3%A9ran_%281%29.jpg/1280px-Th%C3%A9%C3%A2tre_municipal_de_T%C3%A9h%C3%A9ran_%281%29.jpg?20250404071814), 2024*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){alt="Figure 1. Fence placement around City Theater for reconstruction" width="580"}
+![Figure 1. Fence placement around City Theater for reconstruction](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="580"}
 
 The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.2). As soon as the public found out about the intervention, a Twitter bombardment happened, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily wiped out without even asking about it.
 
-![*Figure 2. Demolishing the central space of City Theater's plaza for reconstruction\
-Source: [Didhonar.ir](https://didhonar.ir/project/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-%D8%AA%D8%AE%D8%B1%DB%8C%D8%A8-%D8%AD%D9%88%D8%B6-%D8%A7%D8%B5%D9%84%DB%8C-%D9%85%D8%AC%D9%85%D9%88%D8%B9%D9%87-%D8%AA%D8%A6%D8%A7%D8%AA%D8%B1-%D8%B4%D9%87%D8%B1/), 2026*](images/didhonar_2026-01.jfif){alt="Figure 2. Demolishing the central space of City Theater's plaza for reconstruction" width="527"}
+![Figure 2. Demolishing the central space of City Theater's plaza for reconstruction](images/didhonar_2026-01.jfif){width="527"}
 
 Traces of urban space transformation through digital memory.
 
@@ -134,6 +101,40 @@ For a clearer understanding of how each sub-question is going to be tackled, the
 
 : *Table 2. Research questions and methodology*
 
+------------------------------------------------------------------------
+
+# Scope (Case Study)
+
+## Teatré Shahr (City Theater)
+
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^2] Square[^3]. As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran.
+
+[^2]: Teatré Shahr in Persian \[Translated by the author\]
+
+[^3]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
+
+![Figure 1. Tehran’s overview and City Theater’s location within itSource: Google Earth, 2024](images/teatre%20shahr.jpg)
+
+![Figure 2. City Theater's building and plazaSource: Hamshahri Online, 2024.](images/4811609.jpg)
+
+The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
+
+The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
+
+![Figure 8. City Theater Building of Tehran in 1971](images/City_Theater_of_Tehran_-_1971.jpg)
+
+As can be seen in Figs. 2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
+
+## X and Instagram[^4]
+
+[^4]: Since the mentioned social media platforms are officially banned in Iran, there aren't precise data or information regarding the user accounts in Iran. The current descriptions are based on the author's experiences who was born and raised in Iran using the mentioned social media platforms that are popular among the existing internet users who access them via VPNs that change their IP addresses in Iran.
+
+Multiple social media platforms hold much data regarding digital memories. In the Iranian case, users are mostly active in the two platforms of X (formerly Twitter) and Meta's Instagram. The X has always been one of the most dynamic platforms for Iranians to share their social, political, and daily-life opinions about the state of the country or their living environments. Instagram is the most popular social media platform among Iranians by a percentage of 28.33%, and X holds the percentage of 5.4 throughout the last decade (Dec 2015 - Dec 2025) [@statcounter]. X may not be the most popular platform, but it's the space in which many users share their opinions on critical or general topics more straightforwardly and transparently. While other platforms like Instagram, Facebook, or Pinterest are concentrated on sharing media and general descriptions, X would bring more textual content that holds more individual or professional positionality regarding a topic.
+
+Based on these reasons, X and Instagram are chosen as the targeted social media platforms to collect their digital memories about the City Theater Square and analyze the texts stored in tweets and Instagram posts.
+
+------------------------------------------------------------------------
+
 # Relevance
 
 ### Right to the memory as a right to the city
@@ -164,9 +165,9 @@ The importance of the digital domain is not just about having horizontal archiva
 
 ### Public Engagement (digital participation)
 
-Again, from the right to the city, @mitchell2003 highlights the right to the city, which is *oeuvre*[^4], a piece of art, that each citizen contributes to [@tedeschi2024, pp.3]. It is a piece of art, like a tapestry, with which city dwellers can create by sharing their lived experiences and lead that to actions [@tedeschi2024, pp.6; @currie2022; @martin2025]. Taking citizens' lived experiences and emotions towards a space through the planning and design process would lead to a valued space, or the so-called place [@martin2025]. Moreover, the public participation has always better received with urban projects regardless of being effective or not [@martin2025].
+Again, from the right to the city, @mitchell2003 highlights the right to the city, which is *oeuvre*[^5], a piece of art, that each citizen contributes to [@tedeschi2024, pp.3]. It is a piece of art, like a tapestry, with which city dwellers can create by sharing their lived experiences and lead that to actions [@tedeschi2024, pp.6; @currie2022; @martin2025]. Taking citizens' lived experiences and emotions towards a space through the planning and design process would lead to a valued space, or the so-called place [@martin2025]. Moreover, the public participation has always better received with urban projects regardless of being effective or not [@martin2025].
 
-[^4]: A piece of art \[in French\]
+[^5]: A piece of art \[in French\]
 
 Even re-framing the Right to the City leads to co-design from a governmental perspective towards shaping public space rather than just having citizens gain more power and rights over their space [@tedeschi2024].
 
@@ -236,13 +237,15 @@ Starting from social media, the data within the Tweets and Instagram posts is ba
 
 Each of these validated features has made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
 
+{{< pagebreak >}}
+
 # Methodology (methods and planning)
 
 The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (formerly Twitter). The analysis frame will be concentrated on the latest interventions happened in the City Theater Square. There are pre-intervention and post-intervention phases in which the public shared their opinions, expressions, and impressions as lived experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project [@aleksandar].
 
-The main variable that will be collected is the text strings within tweets on X and post captions on Instagram, using a scraping application specialized for these platforms [^5] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specifically as possible. Names like "Teatré Shahr", "Teatré Shahr square", or "Vali'asr intersection" would be used as keywords to identify and collect any related text data to the chosen case study[@williamson2020].
+The main variable that will be collected is the text strings within tweets on X and post captions on Instagram, using a scraping application specialized for these platforms [^6] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specifically as possible. Names like "Teatré Shahr", "Teatré Shahr square", or "Vali'asr intersection" would be used as keywords to identify and collect any related text data to the chosen case study[@williamson2020].
 
-[^5]: Tweet scraper V2-X for Twitter and Instagram scraper
+[^6]: Tweet scraper V2-X for Twitter and Instagram scraper
 
 After that, the data needed to be cleaned of unnecessary details or non-relevant expressions, so the analysis would be applied appropriately. The unnecessary details it includes the personal information and opinions on highly-sensitive topics that may cause risk to data subjects. The necessary data would be related to sentiments, spatial features and memorial expressions that refer to the space (i.e., City Theater and its surroundings), which are all texts that will be collected in a string format. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework as qualitative content analysis[@williamson2020]. By overlapping the driven criteria with semantically classified data, classified as various expressions of anger, sadness, happiness, fear, etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved, and what might be the alternatives of design for such public spaces.
 
@@ -272,16 +275,20 @@ Based on @lynch1964 's perceptive urban elements, each shared emotion would have
 
 After relating each emotion to its addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that do not correspond. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already corresponding and have positive impacts on society. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way, but more interactive.
 
+{{< pagebreak >}}
+
 ## Expected Outcomes
 
 The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
 ![*Figure 7. Expected Outcomes*](images/Expected%20outcome.jpg)
 
-The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^6].
+The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^7].
 
-[^6]: An AI assistant platform meant for architectural design and presentation
+[^7]: An AI assistant platform meant for architectural design and presentation
 
 On the spatial category, the outcomes are followed up on the analysis outputs. The design guideline would be the first step in approaching the challenges by creating concise and straightforward guidelines for the public space that can also be used as a general design framework. After that, some detailed interventions followed by the structured guideline will be demonstrated using hand drawings, plans, sections, or bird-eye view drawings of the integrated design work. These outcomes will be presented as integration of manual drawings and AI-generated images, such as xFigura.
+
+{{< pagebreak >}}
 
 # Project timeframe
