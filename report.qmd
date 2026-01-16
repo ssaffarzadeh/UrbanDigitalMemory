@@ -5,85 +5,93 @@ engine: knitr
 bibliography: references.bib
 ---
 
-# **Urban Digital Memory: A tool to monitor / evaluate spatial interventions over the public space - a study of Teatré Shahr sqr., Tehran**
+# **Urban Digital Memory: A tool to evaluate spatial interventions over the public space - a study of Teatré Shahr sqr., Tehran**
 
 *Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
 
 # Introduction
 
-The urban
+The urban environments have always been transforming through different eras. The transformations caused by designers and planners have undergone a metamorphosis, starting from blueprints to co-design with citizens. In the past few years, the social justice approaches amplified the concentration on engaging the public in urban interventions. However, not all countries have a democratic structure to do so.
+
+In countries like Iran, despite following the theories and works of citizen engagement in academia, the practice is far behind this mindset. Many urban development projects are implemented with a top-down approach, regardless of the responsible party. Whether a contractor, developer, designer, planner, or policy maker, none ever approached the public for their opinions on an urban project. There are minimal practices that tried to include citizens within their work by running surveys or interviews. Nevertheless, the number of participators have barely met the satisfaction of the affected population. The planning and design approaches in countries with less democratic political systems would have the least amount of successful public engagement through their process.
+
+Although active participation has never been an easy practice, there have been tools and platforms that made the process smoother for both ends. Living in the digital era, many citizens have access to online social platforms where they can usually speak up on their own, with the chance that their opinion could be heard nationally and even globally. In such an era, Iran is not an exception either. Although Iranians have filtered internet access, they use VPNs to bypass the restrictions and access the free internet, sharing their opinions, voices, cries, compliments, memories, and all other experiences onaccessible online social networks.
+
+This new accessibility can be considered as a shortcut to democracy. Sharing the news and posts regarding urban spaces is an ongoing phenomenon that is more than just a shared media with a caption. It can be seen as acknowledging a new space, or the opposite, downgrading a new intervention in the city. The background of a city can now be traced within the online platforms run by individuals who captured it throughout time. This doesn't end with the past of urban spaces, but also how an urban space changes in real-time, which would have its own responses. How citizens react to an urban project is evident on social media, and how they perceive the transformed urban space as before. The urban space is not just a physical or mental entity; it's also digital.
+
+This study aims to tackle the matter of how citizens' lived experiences shared on social media form as urban digital memories. The digital memory creates newer concepts on top of the right to the city notion that can be called right to the memory. The project focuses on how the right to the memory can become a significant tool to validate urban interventions on spatial features through a digital public engagement and participation perspective.
 
 # Relevance
 
 ### Right to the memory as a right to the city
 
-The Right to the City was coined by the French philosopher, Henry @lefebvre1968/1996 during the era in which the social movements became viral among the young intellectuals and labor activists who’d been seeking social justice within the urban areas [@mitchell2003]. After Modernism, the ownership over the land in urban areas through a capitalist monopoly, kicked off dramatically. At that time politicians, social activists, urbanists, and philosophers realized the need for a just city and a healthy environment in between the city blocks is something crucial and, in other words, could be considered a right for the citizens who live in there and use its space [@habibi2016; @harvey2015; @lefebvre1968].
+The Right to the City was coined by the French philosopher, Henry @lefebvre1968, during the era in which the social movements became viral among the young intellectuals and labor activists who’d been seeking social justice within the urban areas [@mitchell2003]. After Modernism, the ownership of the land in urban areas through a capitalist monopoly kicked off dramatically. At that time, politicians, social activists, urbanists, and philosophers realized the need for a just city and a healthy environment between the city blocks is something crucial and, in other words, could be considered a right for the citizens who live in there and use its space [@habibi2016; @harvey2015; @lefebvre1968].
 
-Furthermore, the notion was developed by @harvey2015 who argued that city dwellers can fight for their right over the space and generally, over the city. This act works against the manipulation and trespassing of the public domain by private developers and governments who attempt to carry out capitalism all over the vacant spaces for profit. @harvey2015 suggested that this could be prevented by the public with social activities and demonstrations by knowing the Right to the City as their individual will to make a change in their living space and ultimately change themselves. Thus, the Right to the City is mostly interpreted as the right to public space. Who has access to it and who doesn’t, defines this right [@harvey2015 ; @habibi2016; @moroni2014].
+Furthermore, the notion was developed by @harvey2015, who argued that city dwellers can fight for their right over the space and generally, over the city. This act works against the manipulation and trespassing of the public domain by private developers and governments who attempt to carry out capitalism all over the vacant spaces for profit. @harvey2015 suggested that this could be prevented by the public with social activities and demonstrations by knowing the Right to the City as their individual will to make a change in their living space and ultimately change themselves. Thus, the Right to the City is mostly interpreted as the right to public space. Who has access to it and who doesn’t defines this right [@harvey2015; @habibi2016; @moroni2014].
 
-If we consider the right over public space derived from the concept of the right to the city. Once people have their lived-experiences on a space, it forms their memories of that space. Since memory and physical space can be imagined as intertwined existences, the memories are attached to the physical space while the space holds the memories within its boundaries as well (notions of sense of place etc.). Thus, having the right over a public space, automatically gives the right to the memories towards it at the same time. In other words, policy makers, designers or any other entity that holds the authority or power to change the space has to take into account the sensitivity of a public space not only based on general spatial values and qualities, but also with memories embedded within that space. It should be acknowledged that citizens have a right to the space, and they have right to their memories of that space as common goods too.
+If we consider the right over public space derived from the concept of the right to the city. Once people have their lived-experiences on a space, it forms their memories of that space. Since memory and physical space can be imagined as intertwined existences, the memories are attached to the physical space while the space holds the memories within its boundaries as well (notions of sense of place, etc.). Thus, having the right to a public space automatically gives the right to the memories of it at the same time. In other words, policy makers, designers, or any other entity that holds the authority or power to change the space have to take into account the sensitivity of a public space, not only based on general spatial values and qualities, but also with memories embedded within that space. It should be acknowledged that citizens have a right to the space, and they have the right to their memories of that space as common goods, too.
 
-Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having accessibility to the resources (@tedeschi2024).
+Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having access to the resources [@tedeschi2024].
 
-The abstract space described by Lefebvre (1991) limited to planning and design perspectives has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly-changing information [@shaw2017].
+The abstract space described by Lefebvre (1991), limited to planning and design perspectives, has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly changing information [@shaw2017].
 
-The technological development has brought new definitions of the right to the city concept. @tedeschi2024 argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing with which leading them to negotiate their social intakes and power over space with such non-human entity. This creates a different level of inequality in a digital dimension.
+The technological development has brought new definitions of the right to the city concept. @tedeschi2024 argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing, which leads them to negotiate their social intakes and power over space with such a non-human entity. This creates a different level of inequality in a digital dimension.
 
 inequalities of digital space
 
 ### Digital era (archival memories)
 
-In the digital age, the media has become a tool for any individual to express their thoughts, talk about their feelings, bring up ideas, share experiences and memories or cry out for their right as critical matter. One major feature of digital media is their archival potential. They are the database of memories of many individual and collective activities or events in a various set of contexts.
+In the digital age, the media has become a tool for any individual to express their thoughts, talk about their feelings, bring up ideas, share experiences and memories, or cry out for their right as critical matter. One major feature of digital media is their archival potential. They are the database of memories of many individual and collective activities or events in a variety of contexts.
 
-What archival memories can bring is not comparable to a curated, centrally organised museum set up excluded to visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet [@haskins2007]. Even such idea was somehow suggested by Lefebvre (2003) that having a self-management feature over a digital platform should be a right, even though it was considered as a right to urban resources and not something higher [@tedeschi2024].
+What archival memories can bring is not comparable to a curated, centrally organised museum set up exclusively for visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet [@haskins2007]. Even such an idea was somehow suggested by Lefebvre (2003) that having a self-management feature over a digital platform should be a right, even though it was considered as a right to urban resources and not something higher [@tedeschi2024].
 
-The importance of digital domain is not just about having horizontal archival memories made by numerous individuals, but the digital space itself as a phenomena that can trace the contents of a society regarding a physical space. @shaw2017 [pp. 909] brings up the importance of data flows in urban studies:
+The importance of the digital domain is not just about having horizontal archival memories made by numerous individuals, but the digital space itself as a phenomenon that can trace the contents of a society regarding a physical space. @shaw2017 [pp. 909] brings up the importance of data flows in urban studies:
 
-> "*Just as the urbanization of water is a processional notion which can uncover “stories about the city’s structure and development”, so can a reading of the city’s “political, social, and economic conduits” through which information flows also “carry the potential for an improved, more just, and more equitable right to the city”*"
+> "*Just as the urbanization of water is a processional notion which can uncover 'stories about the city’s structure and development', so can a reading of the city’s 'political, social, and economic conduits' through which information flows also “carry the potential for an improved, more just, and more equitable right to the city”*"
 
 ### Public Engagement (digital participation)
 
-Again, from the right to the city, @mitchell2003 highlights the right to the city which is *oeuvre*[^1], a piece of art, that each citizen contribute to it [@tedeschi2024, pp.3]. It is a piece of art, like a tapestry, with which city dwellers can create by sharing their lived experiences and lead that to actions [@tedeschi2024, pp.6; @currie2022; @martin2025]. Taking citizens' lived experiences and emotions towards a space through planning and design process would lead to a valued space, or the so-called place [@martin2025]. Moreover, the public participation has always better received with urban projects regardless of being effective or not [@martin2025].
+Again, from the right to the city, @mitchell2003 highlights the right to the city, which is *oeuvre*[^1], a piece of art, that each citizen contributes to [@tedeschi2024, pp.3]. It is a piece of art, like a tapestry, with which city dwellers can create by sharing their lived experiences and lead that to actions [@tedeschi2024, pp.6; @currie2022; @martin2025]. Taking citizens' lived experiences and emotions towards a space through the planning and design process would lead to a valued space, or the so-called place [@martin2025]. Moreover, the public participation has always better received with urban projects regardless of being effective or not [@martin2025].
 
 [^1]: A piece of art \[in French\]
 
-Even re-framing the Right to the City is led to co-design from governmental perspective towards shaping public space rather than just having citizens gaining more power and rights over their space [@tedeschi2024].
+Even re-framing the Right to the City leads to co-design from a governmental perspective towards shaping public space rather than just having citizens gain more power and rights over their space [@tedeschi2024].
 
-Taking the notions explained about the archival media, the autonomous authorship would lead to having a democratized media [@haskins2007; @martin2025]. This can be recognized as first steps towards public participation before engaging the stakeholders, mostly citizens or vulnerable groups. To understand the extent of participation, @arnstein2019 suggested the concept of "The Ladder of Participation" which indicates the level of public engagement and participation in the form of a ladder structure. This ladder starts with the least level of participation known as Therapy till the most ultimate form which is active citizen engagement on design process.
+Taking the notions explained about the archival media, the autonomous authorship would lead to having a democratized media [@haskins2007; @martin2025]. This can be recognized as the first steps towards public participation before engaging the stakeholders, mostly citizens or vulnerable groups. To understand the extent of participation, @arnstein2019 suggested the concept of "The Ladder of Participation," which indicates the level of public engagement and participation in the form of a ladder structure with changing levels. The ladder starts with the least level of participation known as Therapy till the most ultimate form, which is active citizen engagement on design process.
 
-Based on @arnstein2019 's ladder of participation, having the shared lived experiences of citizens on digital platforms may be a lower step, yet passively engaging position that is needed to be updated. Because this is not about active interaction of the planner / designer with citizens but reading or tracing citizens' emotions on an autonomous semi survey publicly available [@martin2025].
+Based on @arnstein2019 's ladder of participation, having the shared lived experiences of citizens on digital platforms may be a lower step, yet a passively engaging position that needs to be updated. Because this is not about active interaction of the planner/designer with citizens, but reading or tracing citizens' emotions on an autonomous semi-survey publicly available [@martin2025].
 
-One positive aspect of having the digital inputs, is the large scale of data. Despite of usually having limited number of active participants in urban projects, the digital platforms provide the opportunity to receive qualitative inputs from a larger scope and cover more citizens sharing their opinions and experiences [@martin2025; @fathullah2018].
+One positive aspect of having the digital inputs is the large scale of data. Despite usually having a limited number of active participants in urban projects, the digital platforms provide the opportunity to receive qualitative inputs from a larger scope and cover more citizens sharing their opinions and experiences [@martin2025; @fathullah2018].
 
-The digital participation is also supported by different studies [@martin2025; @haskins2007]. Also, @williamson2020 points out a further step of using the social media data on a participatory scale. They suggested the term of 'Frontloading' that refers to engaging the stakeholders on the early stages of planning through accessing the shared emotions and experiences on social media. (Read through MySydney case)
+The digital participation is also supported by different studies [@martin2025; @haskins2007]. Also, @williamson2020 points out a further step of using the social media data on a participatory scale. They suggested the term 'Frontloading' that refers to engaging the stakeholders in the early stages of planning through accessing the shared emotions and experiences on social media. (Read through MySydney case)
 
-inequalities of digital power through the social media
+inequalities of digital power through social media
 
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful or revolutionary, City Theater's Square[^2] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as a common property. There are spaces that get manipulated, transformed or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decision or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers this applies too. Right to the memory is a metaphor of collective / individual rights over space tangled to memories emerged within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary. City Theater's Square[^2] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers and governments holding the upper hand of power. Sometimes it's even ignored by them or does conflict with their main interests.
 
 [^2]: Teatré Shahr in Persian \[translated by the author\]
 
-The memory is a valuable lived-experience that holds evidences of a lived, conceived and perceived physical space for each individual (@shaw2017).
+The memory is a valuable lived-experience that holds evidence of a lived, conceived and perceived physical space for each individual [@shaw2017].
 
 Traces of urban space transformation through digital memory.
 
 #### Problem in a sentence
 
-The spatial memories are valuable intakes of a space that are taken for granted by the designers / decision-makers in their interventions causing erasure of the public space.
+The spatial memories are valuable intakes of a space that are taken for granted by the designers / decision-makers in their interventions, causing the erasure of the public space.
 
 # Research Objectives
 
-In the era with which digital online media holds a vast impact on urban lives, that ends up even becoming an autonomous memorial archive [@haskins2007]. Having such a large scale individual lived-experience from citizens, would help to gain a better understanding of citizen's reviews towards urban environments. Also, it's not only about the opinions, but how they experienced the space individually or collectively. This is a helpful step towards planning and design projects.
+In the era in which digital online media holds a vast impact on urban lives, it ends up even becoming an autonomous memorial archive [@haskins2007]. Having such a large-scale individual lived-experience from citizens would help to gain a better understanding of citizens' reviews towards urban environments. Also, it's not only about the opinions, but also about how they experienced the space individually or collectively. This is a helpful step towards planning and designing projects.
 
-Also, by the right to the city notions [@harvey2003; @lefebvre1968], it was discussed that memories of a space in which holds dozens of lived-experiences from various individuals or groups, turns the space to a valuable environment, a place [@martin2025]. Having a place is not limited to its physical existence, but also how it's cloned in the memories of those who had interactions with it. This would be the link that having the right to the city will be followed up by having the right to the memory.
+Also, by the right to the city notions [@harvey2003; @lefebvre1968], it was discussed that memories of a space that holds dozens of lived-experiences from various individuals or groups, turn the space into a valuable environment, a place [@martin2025]. Having a place is not limited to its physical existence, but also how it's cloned in the memories of those who had interactions with it. This would be the link that having the right to the city will be followed up by having the right to the memory.
 
-Having an already-expressed opinion or archived memories on open and accessible platforms, would aid the designers and planners to study a citizen perspective and eventually finding more efficient strategies towards the public engagement [@williamson2020]. The digital memory may not be the final solution, but will be a key starting point for many urban transformations aiming to be more inclusive and plural.
+Having an already-expressed opinion or archived memories on open and accessible platforms would aid the designers and planners to study a citizen perspective and eventually find more efficient strategies towards public engagement [@williamson2020]. The digital memory may not be the final solution, but it will be a key starting point for many urban transformations aiming to be more inclusive and plural.
 
-The objectives can be defined as below:
+The objectives can be defined as follows:
 
-1.  Public engagement increase through virtual spaces
+1.  Public engagement increase via virtual spaces (online digital platforms)
 2.  Inclusive design and planning
 3.  Digitally shared lived-experience validation as digital memories (right to the memory)
 4.  Design / Planning through urban data
@@ -92,50 +100,50 @@ The objectives can be defined as below:
 
 **How can digital memories shared by citizens help identify spatial values as potential conditions for interventions in Teatré Shahr Square?**
 
-1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former twitter) and Instagram?
+1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former Twitter) and Instagram?
 
-2.  What emotions can be traced from digital memories of City Theater square?
+2.  What emotions can be traced from digital memories of City Theater Square?
 
-3.  What spatial qualities could be referred to from the shared emotions of City Theater square?
+3.  What spatial qualities could be referred to from the shared emotions of City Theater Square?
 
-4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media?
+4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on social media?
 
-5.  How shared memories on social media inform design guidelines for the City Theater square?
+5.  How do shared memories on social media inform design guidelines for the City Theater Square?
 
-+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Descriptive / Analytical                                                                                                              | Normative                                                                                                                                                                                 |
-+:=====================================================================================================================================:+:=========================================================================================================================================================================================:+
-| 1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former twitter) and Instagram? | 4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media? |
-+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2.  What emotions can be traced from digital memories of City Theater square?                                                         | 5.  How shared memories on social media inform design guidelines for the City Theater square?                                                                                             |
-+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3.  What spatial qualities could be referred to from the shared emotions?                                                             |                                                                                                                                                                                           |
-+---------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Descriptive / Analytical                                                                                                              | Normative                                                                                                                                                                             |
++:=====================================================================================================================================:+:=====================================================================================================================================================================================:+
+| 1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former Twitter) and Instagram? | 4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on social media? |
++---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2.  What emotions can be traced from digital memories of City Theater Square?                                                         | 5.  How do shared memories on social media inform design guidelines for the City Theater Square?                                                                                      |
++---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3.  What spatial qualities could be referred to from the shared emotions?                                                             |                                                                                                                                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : *Table 1. Research questions classification*
 
-For a clearer understanding of how each sub question is going to be tackled, the corresponding methodology is briefly described within the following table.
+For a clearer understanding of how each sub-question is going to be tackled, the corresponding methodology is briefly described within the following table.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| Question                                                                                                                                                                                  | Methodology                                                                                                      |
-+:=========================================================================================================================================================================================:+:================================================================================================================:+
-| 1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former twitter) and Instagram?                                                     | Literature review, \                                                                                             |
-|                                                                                                                                                                                           | Data collection using scraping apps as strings of text, Topic modelling                                          |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| 2.  What emotions can be traced from digital memories of City Theater square?                                                                                                             | Sentiment analysis to recognize and classify emotions from texts extracted from Tweets and Instagram posts       |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| 3.  What spatial qualities could be referred to from the shared emotions?                                                                                                                 | Locating the spatial features referred by emotions through cognitive indicators                                  |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| 4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on the social media? | Classifying the values of spatial features referred by emotions into positive and negative                       |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| 5.  How shared memories on social media inform design guidelines for the City Theater square?                                                                                             | Creating design guidelines based on spatial qualities and interventions corresponding to negative spatial values |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| Question                                                                                                                                                                              | Methodology                                                                                                      |
++:=====================================================================================================================================================================================:+:================================================================================================================:+
+| 1.  How do digital memories narrate the lived-experiences of citizens in the City Theater square on X (former Twitter) and Instagram?                                                 | Literature review,\                                                                                              |
+|                                                                                                                                                                                       | Data collection using scraping apps as strings of text, Topic modelling                                          |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 2.  What emotions can be traced from digital memories of City Theater Square?                                                                                                         | Sentiment analysis to recognize and classify emotions from texts extracted from Tweets and Instagram posts       |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 3.  What spatial qualities could be referred to from the shared emotions?                                                                                                             | Locating the spatial features referred to by emotions through cognitive indicators                               |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 4.  What spatial values do citizens share about the City Theater square space transformation throughout time (before and after the latest intervention) as reflected on social media? | Classifying the values of spatial features referred to by emotions into positive and negative                    |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| 5.  How do shared memories on social media inform design guidelines for the City Theater Square?                                                                                      | Creating design guidelines based on spatial qualities and interventions corresponding to negative spatial values |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
 
 : *Table 2. Research questions and methodology*
 
 # Scope (Case Study)
 
-One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater^[\[1\]](#_ftn1)^ square[\[2\]](#_ftn2). As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets which are the longest NS / EW armatures of Tehran.
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater^[\[1\]](#_ftn1)^ square[\[2\]](#_ftn2). As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran.
 
 ![*Figure 1. Tehran’s overview and City Theater’s location within it\
 Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
@@ -143,25 +151,25 @@ Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
 ![*Figure 2. City Theater's building and plaza\
 Source: Hamshahri Online, 2024.*](images/4811609.jpg)
 
-The reason behind picking this specific public space is not only of its architectural quality as a public space, but its historical legacy with which holds many urban events, activities and daily-life patterns within itself. A public space at the heart of Iranian capital, Tehran, has always been a focal point for its dwellers.
+The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
 ^[\[1\]](#_ftnref1)^ Teatré Shahr in Persian \[Translated by the author\]
 
-[\[2\]](#_ftnref2) The square holds the city theater building within its space that could be considered as a semi-open public space in Tehran with all of the activities and events that take place downtown.
+[\[2\]](#_ftnref2) The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
 
 ------------------------------------------------------------------------
 
 # Conceptual Framework
 
-The initial conceptual framework will help to extract necessary criteria to run the semantic analysis on collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
+The initial conceptual framework will help to extract the necessary criteria to run the semantic analysis on the collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review, considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors [@martin2025].
 
 ![*Figure 3. Space to place transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
 
-The belonging factors can be identified as below in Fig. 4 which represents a very initial draft of spatial and contextual aspects that would make direct and in-direct impact of ones sense of belonging towards the environment in which they have been to and interacted within it.
+The belonging factors can be identified as below in Fig. 4, which represents a very initial draft of spatial and contextual aspects that would make a direct and indirect impact of ones sense of belonging towards the environment in which they have been and interacted within it.
 
-![*Figure 4. Sense of belonging spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
+![*Figure 4. Sense of belonging, spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
 
 -   Ecology: green & blue elements, living species
 
@@ -185,43 +193,43 @@ The belonging factors can be identified as below in Fig. 4 which represents a ve
 
 -   Identity: symbols, culture, language, lifestyle
 
-The memories of space or place that are turned to lived-experience and expressed through emotions on digital space are useful assets to analyze a space from a cognitive view.
+The memories of space or place that are turned into lived experience and expressed through emotions in digital space are useful assets to analyze a space from a cognitive view.
 
 The users share different experiences of their presence and interaction within the lived space on social media. As mentioned before, their posts and tweets would hold various emotions. The main gap would be how to trace the spatial feature out of these shared emotions.
 
-Thanks to the @lynch1964's cognitive analysis concepts and methods of the perceived space or city, the spatial features could be tracked and recognized by how the individuals described their situation or position of the space ad their mentions could be classified to Lynch’s cognitive features of nodes, lines, areas, edges and landmarks. The further workflow would be focused on relating different sentiments to each corresponding spatial feature of the context. For example, someone could have gone angry due to presence in a specific area with edges.
+Thanks to the @lynch1964's cognitive analysis concepts and methods of the perceived space or city, the spatial features could be tracked and recognized by how the individuals described their situation or position of the space ad their mentions could be classified to Lynch’s cognitive features of nodes, lines, areas, edges and landmarks. The further workflow would be focused on relating different sentiments to each corresponding spatial feature of the context. For example, someone could have gotten angry due to the presence in a specific area with edges.
 
-The sentimental classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design, and spaces that need improvement. This would help for further steps of design process and producing spatial conditions over spaces that are holding memories that can be recalled as a public good.
+The sentimental classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design, and spaces that need improvement. This would help with further steps of the design process and producing spatial conditions over spaces that hold memories that can be recalled as a public good.
 
 ## Conceptual Framework
 
-Furthermore, to integrate the adapted concepts out of the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
+Furthermore, to integrate the adapted concepts from the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
 
-![*Figure 7. Conceptual Framework*](images/conceptual framework_updated.jpeg)
+![*Figure 7. Conceptual Framework*](images/conceptual%20framework_updated.jpeg)
 
 The diagram depicts the three main concepts of the study, social media, digital memory and space, and how they are related to each other based on the defined methods.
 
-Starting from the social media, the data within the Tweets and Instagram posts are based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only the emotions address each spatial feature, but also they validate them. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space.
+Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also validate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space.
 
-Each of these validated features have made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms such as Tweets and Instagram posts on the social media regarding the physical space sphere. In that way, the impressions of the physical space traverse to the digital space (e.g. social media) and create a clone of the existing space.
+Each of these validated features has made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
 
 # Methodology (methods and planning)
 
-The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (former Twitter). The analysis frame will be concentrated on the latest interventions happened to the City Theater square. There are pre-intervention and post-intervention phases in which public shared their opinions, expressions, impressions as lived-experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
+The main target is to collect the data from posts and tweets shared by public profiles through social media platforms of Instagram and X (formerly Twitter). The analysis frame will be concentrated on the latest interventions happened in the City Theater Square. There are pre-intervention and post-intervention phases in which the public shared their opinions, expressions, and impressions as lived experiences when the square was intact versus when it was transformed through re-design procedures in the past two years of a time-stretched project.
 
-The main variable that will be collected is the text strings within tweets on X and post captions on Instagram using scraping application specialized for these platforms [^3] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specific as possible. Names like "Teatré Shahr", "Teatré Shahr square" or "Vali'asr intersection" would be used as ques to locate and collect any related data to the chosen case study.
+The main variable that will be collected is the text strings within tweets on X and post captions on Instagram using a scraping application specialized for these platforms [^3] considering the legal and regulatory procedures of online scraping. The data collection will follow a specified time-frame mentioned before and defined keywords to narrow the search domain as specifically as possible. Names like "Teatré Shahr", "Teatré Shahr square", or "Vali'asr intersection" would be used as keywords to identify and collect any related text data to the chosen case study.
 
 [^3]: Tweet scraper V2-X for Twitter and Instagram scraper
 
-After that, the data needed to be cleaned from unnecessary details or non-relative expressions, so the analysis would be applied appropriately. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework. By overlapping the driven criteria to semantically classified data, classified as various expressions of anger, sadness, happiness, fear etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved and what might be the alternatives of design for such public spaces.
+After that, the data needed to be cleaned of unnecessary details or non-relevant expressions, so the analysis would be applied appropriately. After that, the cleaned data will be classified based on sentiment values driven from the structured conceptual framework. By overlapping the driven criteria with semantically classified data, classified as various expressions of anger, sadness, happiness, fear, etc., the spatial qualities and design guiding values could be shaped or at least frame an overview of what is valuable and should be preserved, and what might be the alternatives of design for such public spaces.
 
 ## Methodological Framework
 
-Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as theoretical lens over the methodology and further steps of this study. The details and connections of each notion is illustrated in the following figure.
+Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![*Figure 5. Conceptual Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png){alt="Figure 5. Conceptual Framework"}
+![Figure 5. Conceptual Framework](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
-The memories shared on social media as available data will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
+The memories shared on social media, as available data, will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
 
 1.  Anger
 
@@ -239,18 +247,18 @@ Based on @lynch1964 's perceptive urban elements, each shared emotion would have
 4.  Area
 5.  Landmark
 
-After relating each emotion to their addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that are not correspondent. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already correspondent and have positive impacts on the society. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way but more interactive.
+After relating each emotion to its addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that do not correspond. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already corresponding and have positive impacts on society. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way, but more interactive.
 
 ## Expected Outcomes
 
-The expected outcomes are considered to be either as the results of data analysis, and spatial design guidelines or interventions on the case study, aka Teatré Shahr square.
+The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
 ![*Figure 7. Expected Outcomes*](images/Expected%20outcome.jpg)
 
-The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^4].
+The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^4].
 
 [^4]: An AI assistant platform meant for architectural design and presentation
 
-On the spatial category, the outcomes are followed up on the analysis outputs. The design guideline would be the first step of approaching the challenges by creating concise and straightforward guidelines for the public space that can also be used as a general design framework. After that, some detailed interventions followed by the structured guideline will be demonstrated using hand drawings, plans, sections or bird-eye view drawings of the integrated design work. These outcomes will be presented as integration of manual drawings and AI-generated images such as xFigura.
+On the spatial category, the outcomes are followed up on the analysis outputs. The design guideline would be the first step in approaching the challenges by creating concise and straightforward guidelines for the public space that can also be used as a general design framework. After that, some detailed interventions followed by the structured guideline will be demonstrated using hand drawings, plans, sections, or bird-eye view drawings of the integrated design work. These outcomes will be presented as integration of manual drawings and AI-generated images, such as xFigura.
 
 # Project timeframe
