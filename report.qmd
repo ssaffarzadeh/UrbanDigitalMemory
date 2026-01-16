@@ -293,7 +293,7 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![Figure 5. Conceptual Framework](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+![*Figure 5. Conceptual Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
 The memories shared on social media, as available data, will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
 
