@@ -9,6 +9,46 @@ bibliography: references.bib
 
 *Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
 
+# **List of Contents**
+
+-   [Introduction]
+
+-   [Problem Statement]
+
+    -   [Problem in a sentence]
+
+-   [Research Objectives]
+
+-   [Research Questions]
+
+-   [Scope (Case Study)]
+
+    -   [Teatré Shahr (City Theater)]
+
+    -   [X and Instagram]
+
+-   [Literature Review (Relevance)]
+
+    -   [Right to the memory as a right to the city]
+
+    -   [Digital era (archival memories)]
+
+    -   [Public Engagement (digital participation)]
+
+-   [Conceptual Framework]
+
+    -   [Framework]
+
+-   [Methodology (methods and planning)]
+
+    -   [Methodological Framework]
+
+    -   [Expected Outcomes]
+
+    -   [Project Timeframe]
+
+{{< pagebreak >}}
+
 # Introduction
 
 The urban environments have always been transforming through different eras. The transformations caused by designers and planners have undergone a metamorphosis, starting from blueprints to co-design with citizens [@arnstein2019; @horelli2024; @mueller2018]. In the past few years, the social justice approaches amplified the concentration on engaging the public in urban interventions. However, not all countries have a democratic structure to do so.
@@ -135,7 +175,7 @@ Based on these reasons, X and Instagram are chosen as the targeted social media 
 
 ------------------------------------------------------------------------
 
-# Relevance
+# Literature Review (Relevance)
 
 ### Right to the memory as a right to the city
 
@@ -291,4 +331,4 @@ On the spatial category, the outcomes are followed up on the analysis outputs. T
 
 {{< pagebreak >}}
 
-# Project timeframe
+## Project timeframe
