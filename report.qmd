@@ -1,5 +1,6 @@
 ---
-title: "MSc Urbanism Graduation Report Draft S. Saffarzadeh - 6227007"
+title: "MSc Urbanism Graduation Report Draft 
+S. Saffarzadeh - 6227007"
 format: html
 engine: knitr
 bibliography: references.bib
