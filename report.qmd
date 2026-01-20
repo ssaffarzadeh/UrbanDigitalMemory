@@ -148,15 +148,15 @@ One of the public squares which has always been under drastic tension between it
 
 ![Figure 1. Tehran’s overview and City Theater’s location within it. Source: Google Earth, 2024](images/teatre%20shahr.jpg)
 
-![Figure 2. City Theater's building and plaza. Source: Hamshahri Online, 2024.](images/4811609.jpg)
+![*Figure 2. City Theater's building and plaza. Source: Hamshahri Online, 2024*.](images/4811609.jpg)
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
 The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
 
-![Figure 8. City Theater Building of Tehran in 1971](images/City_Theater_of_Tehran_-_1971.jpg)
+![*Figure 3. City Theater Building of Tehran in 1971*](images/City_Theater_of_Tehran_-_1971.jpg)
 
-As can be seen in Figs. 2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
+As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
 
 ## X and Instagram[^4]
 
@@ -220,11 +220,11 @@ The initial conceptual framework will help to extract the necessary criteria to 
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors [@martin2025].
 
-![*Figure 3. Space to place transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
+![*Figure 4. Space to place transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
 
 The belonging factors can be identified as below in Fig. 4, which represents a very initial draft of spatial and contextual aspects that would make a direct and indirect impact of ones sense of belonging towards the environment in which they have been and interacted within it.
 
-![*Figure 4. Sense of belonging, spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
+![*Figure 5. Sense of belonging, spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
 
 -   Ecology: green & blue elements, living species
 
@@ -260,7 +260,7 @@ The sentimental classification of each feature would help to come up with valuab
 
 Furthermore, to integrate the adapted concepts from the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
 
-![*Figure 7. Conceptual Framework*](images/conceptual%20framework_updated.jpeg)
+![*Figure 6. Conceptual Framework*](images/conceptual%20framework_updated.jpeg)
 
 The diagram depicts the three main concepts of the study, social media, digital memory and space, and how they are related to each other based on the defined methods.
 
@@ -284,7 +284,7 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![*Figure 5. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+![*Figure 7. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
 The memories shared on social media, as available data, will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
 
@@ -312,7 +312,7 @@ After relating each emotion to its addressed physical elements within the space,
 
 The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
-![*Figure 7. Expected Outcomes*](images/Expected outcome-01.jpg)
+![*Figure 8. Expected Outcomes*](images/Expected Outcomes.png)
 
 The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^7].
 
