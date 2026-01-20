@@ -146,9 +146,11 @@ One of the public squares which has always been under drastic tension between it
 
 [^3]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
 
-![Figure 1. Tehran’s overview and City Theater’s location within it. Source: Google Earth, 2024](images/teatre%20shahr.jpg)
+![*Figure 1. Tehran’s overview and City Theater’s location within it. \
+Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
 
-![*Figure 2. City Theater's building and plaza. Source: Hamshahri Online, 2024*.](images/4811609.jpg)
+![*Figure 2. City Theater's building and plaza. \
+Source: Hamshahri Online, 2024*.](images/4811609.jpg)
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
@@ -266,6 +268,27 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also validate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space.
 
+The memories shared on social media, as available data, will be collected and go through the sentiment analysis of distinguishing various types of emotions and expressions that are chosen as below:
+
+1.  Anger
+
+2.  Sadness
+
+3.  Comfort
+
+4.  Happiness
+
+Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
+
+1.  Path
+2.  Node
+3.  Edge
+4.  District (areas with common character)
+5.  Landmark
+
+![*Figure 9. Lynch's cognitive urban elements for 'The Image of the City'.\
+Source: [Semanur Can, 2026](https://semanurcan.wordpress.com/2019/10/27/the-city-image-and-its-elements-by-kevin-lynch/).*](images/interactionofelement-2-e1569672351975.jpg)
+
 Each of these validated features has made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
 
 {{< pagebreak >}}
@@ -285,24 +308,6 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
 ![*Figure 7. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
-
-The memories shared on social media, as available data, will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
-
-1.  Anger
-
-2.  Sadness
-
-3.  Comfort
-
-4.  Happiness
-
-Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
-
-1.  Line
-2.  Node
-3.  Edge
-4.  Area
-5.  Landmark
 
 After relating each emotion to its addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that do not correspond. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already corresponding and have positive impacts on society. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way, but more interactive.
 
