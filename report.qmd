@@ -6,7 +6,7 @@ engine: knitr
 bibliography: references.bib
 ---
 
-# **Urban Digital Memory: A tool to evaluate spatial interventions over the public space - a study of Teatré Shahr sqr., Tehran**
+# **Urban Digital Memory: A tool to evaluate spatial interventions in public space - a study of Teatré Shahr Square, Tehran**
 
 *Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
 
@@ -314,7 +314,7 @@ After relating each emotion to its addressed physical elements within the space,
 
 The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
-![*Figure 7. Expected Outcomes*](images/Expected%20outcome.jpg)
+![*Figure 7. Expected Outcomes*](images/Expected outcome-01.jpg)
 
 The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^7].
 
