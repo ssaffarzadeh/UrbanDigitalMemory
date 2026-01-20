@@ -72,7 +72,7 @@ The memory is a valuable lived-experience that holds evidence of a lived, concei
 
 ![Figure 1. Fence placement around City Theater for reconstruction](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="580"}
 
-The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.2). As soon as the public found out about the intervention, a Twitter bombardment happened, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily wiped out without even asking about it.
+The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.2). As soon as the public found out about the intervention, a Twitter bombardment happened, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
 
 ![Figure 2. Demolishing the central space of City Theater's plaza for reconstruction](images/didhonar_2026-01.jfif){width="527"}
 
@@ -210,15 +210,13 @@ Based on @arnstein2019 's ladder of participation, having the shared lived exper
 
 One positive aspect of having the digital inputs is the large scale of data. Despite usually having a limited number of active participants in urban projects, the digital platforms provide the opportunity to receive qualitative inputs from a larger scope and cover more citizens sharing their opinions and experiences [@martin2025; @fathullah2018].
 
-The digital participation is also supported by different studies [@martin2025; @haskins2007]. Also, @williamson2020 points out a further step of using the social media data on a participatory scale. They suggested the term 'Frontloading' that refers to engaging the stakeholders in the early stages of planning through accessing the shared emotions and experiences on social media. (Read through MySydney case)
-
-inequalities of digital power through social media
+The digital participation is also supported by different studies [@martin2025; @haskins2007]. Also, @williamson2020 points out a further step of using the social media data on a participatory scale. They suggested the term 'Frontloading' that refers to engaging the stakeholders in the early stages of planning through accessing the shared emotions and experiences on social media. (Read through #MySydney case)
 
 ------------------------------------------------------------------------
 
 # Conceptual Framework
 
-The initial conceptual framework will help to extract the necessary criteria to run the semantic analysis on the collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review, considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
+The initial conceptual framework will help to extract the necessary criteria to run the sentiment analysis on the collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review, considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors [@martin2025].
 
@@ -286,7 +284,7 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![*Figure 5. Conceptual Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+![*Figure 5. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
 The memories shared on social media, as available data, will be collected and go through the sentimental analysis of distinguishing various types of emotions and expressions that are chosen as the four emotions:
 
