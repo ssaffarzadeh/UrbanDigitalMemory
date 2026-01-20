@@ -1,9 +1,8 @@
 ---
-title: "MSc Urbanism Graduation Report Draft 
-S. Saffarzadeh - 6227007"
+title: "MSc Urbanism Graduation Report Draft S. Saffarzadeh - 6227007"
 format: 
   pdf: 
-  toc: false
+    toc: true
     number-sections: true
     colorlinks: true
 engine: knitr
