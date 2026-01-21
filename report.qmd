@@ -60,6 +60,12 @@ The urban environments have always been transforming through different eras. The
 
 Iran is a country in western Asia, mostly known as the Middle East. The city of Tehran is the capital, with a population of nearly 9.7 million in 2025 [@macrotrends]. A dense urban area with hustle and bustle in its city center and various commercial, cultural, and official activities. The city is divided into 22 districts governed by the main municipality and each district has its own subset of local government organised by the central municipality. Within each district, there are several neighborhoods, the smallest official divisions, also governed by the district municipality through community development offices that are in direct connection with the local communities. However, this connection is not active.
 
+![*Figure 1. Iran and the Netherlands in the world*](images/map_world_iran.jpg){width="451"}
+
+![*Figure 2. Tehran Province in Iran*](images/map_Iran.jpeg){width="448"}
+
+![*Figure 3. Tehran's districts*](images/Tehran_districts_2.jpeg){width="446"}
+
 In countries like Iran, despite following the theories and works of citizen engagement in academia, the practice is far behind this mindset. Many urban development projects are implemented with a top-down approach, regardless of the responsible party. Whether a contractor, developer, designer, planner, or policy maker, none ever approached the public for their opinions on an urban project. There are minimal practices that tried to include citizens within their work by running surveys or interviews. Nevertheless, the number of participators have barely met the satisfaction of the affected population, which looked more like being manipulated [@arnstein2019]. The planning and design approaches in countries with less democratic political systems would have the least amount of successful public engagement through their process.
 
 Although active participation has never been an easy practice, there have been tools and platforms that made the process smoother for both ends. Living in the digital era, many citizens have access to online social platforms where they can usually speak up on their own, with the chance that their opinion could be heard nationally and even globally. In such an era, Iran is not an exception either. Although Iranians have filtered internet access, they use VPNs to bypass the restrictions and access the free internet, sharing their opinions, voices, cries, compliments, memories, and all other experiences unaccessible on online social networks.
@@ -77,7 +83,7 @@ There are urban spaces, specifically, public spaces that hold a large pool of co
 The memory is a valuable lived-experience that holds evidence of a lived, conceived, and perceived physical space for each individual [@shaw2017].
 
 ![*Figure 1. Fence placement around City Theater for reconstruction\
-Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="580"}
+Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="497"}
 
 The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.2). As soon as the public found out about the intervention, a Twitter bombardment happened, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
 
@@ -158,14 +164,14 @@ One of the public squares which has always been under drastic tension between it
 Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
 
 ![*Figure 2. City Theater's building and plaza.\
-Source: Hamshahri Online, 2024*.](images/4811609.jpg)
+Source: Hamshahri Online, 2024*.](images/4811609.jpg){width="558"}
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
 The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
 
 ![*Figure 3. City Theater Building of Tehran in 1971\
-Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg)
+Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg){width="564"}
 
 As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
 
