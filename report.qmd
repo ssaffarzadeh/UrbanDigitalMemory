@@ -74,6 +74,22 @@ This new accessibility can be considered as a shortcut to democracy. Sharing the
 
 This study aims to tackle the matter of how citizens' lived experiences shared on social media form as urban digital memories. The digital memory creates newer concepts on top of the right to the city notion that can be called right to the memory. The project focuses on how the right to the memory can become a significant tool to validate urban interventions on spatial features through a digital public engagement and participation perspective.
 
+## City Theater Plaza
+
+The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
+
+![*Figure 3. City Theater Building of Tehran in 1971\
+Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg){alt="Figure 3. City Theater Building of Tehran in 1971Source: Wikimedia, 2026." width="511"}
+
+![*Figure 2. City Theater's building and plaza.\
+Source: Hamshahri Online, 2024*.](images/4811609.jpg){alt="Figure 2. City Theater's building and plaza.Source: Hamshahri Online, 2024." width="508"}
+
+As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment.
+
+![*Figure x. City Theater Square transformations between 2000 and 2025*](images/imageries_blue.png){alt="Figure x. City Theater Square transformations between 2000 and 2025"}
+
+The City Theater plaza has been under several transformations in the past 25 years (Fig. x). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
+
 # Problem Statement
 
 There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^1] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests[@paccoud2016]. An example of it would be the Haussmannian boulevards that demolished the existing urban streets into wide and long boulevards with luxury retail shops on the sides and policing to oppress any opposition from citizens in the most dominant possible way [@harvey2006]. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers, and governments holding the upper hand of power. Sometimes it's even ignored by them, or does conflict with their main interests.
@@ -165,17 +181,9 @@ One of the public squares which has always been under drastic tension between it
 ![*Figure 1. Tehran’s overview and City Theater’s location within it.\
 Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
 
-![*Figure 2. City Theater's building and plaza.\
-Source: Hamshahri Online, 2024*.](images/4811609.jpg){width="558"}
-
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
-The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
-
-![*Figure 3. City Theater Building of Tehran in 1971\
-Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg){width="564"}
-
-As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment. Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
+Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
 
 ## X and Instagram[^4]
 
