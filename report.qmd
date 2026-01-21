@@ -68,15 +68,28 @@ Iran is a country in western Asia, mostly known as the Middle East. The city of 
 
 In countries like Iran, despite following the theories and works of citizen engagement in academia, the practice is far behind this mindset. Many urban development projects are implemented with a top-down approach, regardless of the responsible party. Whether a contractor, developer, designer, planner, or policy maker, none ever approached the public for their opinions on an urban project. There are minimal practices that tried to include citizens within their work by running surveys or interviews. Nevertheless, the number of participators have barely met the satisfaction of the affected population, which looked more like being manipulated [@arnstein2019]. The planning and design approaches in countries with less democratic political systems would have the least amount of successful public engagement through their process.
 
-Although active participation has never been an easy practice, there have been tools and platforms that made the process smoother for both ends. Living in the digital era, many citizens have access to online social platforms where they can usually speak up on their own, with the chance that their opinion could be heard nationally and even globally. In such an era, Iran is not an exception either. Although Iranians have filtered internet access, they use VPNs to bypass the restrictions and access the free internet, sharing their opinions, voices, cries, compliments, memories, and all other experiences unaccessible on online social networks.
+Although active participation has never been an easy practice, there have been tools and platforms that made the process smoother for both ends. Living in the digital era, many citizens have access to online social platforms where they can usually speak up on their own, with the chance that their opinion could be heard nationally and even globally. In such an era, Iran is not an exception either. Although Iranians have filtered internet access, they use VPNs to bypass the restrictions and access the free internet, sharing their opinions, voices, cries, compliments, memories, and all other experiences inaccessible on online social networks.
 
 This new accessibility can be considered as a shortcut to democracy. Sharing the news and posts regarding urban spaces is an ongoing phenomenon that is more than just a shared media with a caption. It can be seen as acknowledging a new space, or the opposite, downgrading a new intervention in the city. The background of a city can now be traced within the online platforms run by individuals who captured it throughout time. This doesn't end with the past of urban spaces, but also how an urban space changes in real-time, which would have its own responses. How citizens react to an urban project is evident on social media, and how they perceive the transformed urban space as before. The urban space is not just a physical or mental entity; it's also digital.
 
-This study aims to tackle the matter of how citizens' lived experiences shared on social media form as urban digital memories. The digital memory creates newer concepts on top of the right to the city notion that can be called right to the memory. The project focuses on how the right to the memory can become a significant tool to validate urban interventions on spatial features through a digital public engagement and participation perspective.
+This study aims to tackle the matter of how citizens' lived experiences shared on social media form as urban digital memories. The digital memory creates newer concepts on top of the right to the city notion that can be called right to the memory. **The project focuses on how the right to the memory can become a significant tool to validate urban interventions on spatial features through a digital public engagement and participation perspective.**
 
-## City Theater Plaza
+## City Theater of Tehran (Teatré Shahr-e Tehran)
 
-The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design from Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^1] Square[^2]. As can be seen in (Fig. x), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality.
+
+[^1]: Teatré Shahr in Persian \[Translated by the author\]
+
+[^2]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
+
+![*Figure x. City Theater Plaza's location in District 11*](images/city theater_2.jpeg){alt="Figure x. City Theater Plaza's location in Tehran" width="512"}
+
+The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design inspired by the Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
+
+![*Figure x. City Theater Square and Daneshjoo Park aerial photo in 1975\
+Source: [Ehsanrostamipour, 2023.](https://x.com/i/status/1741505739120590987)*](images/20260121_183415.jpg){width="464"}
+
+The City Theater used to look like a complex with its specific plaza in front of the theater's main building entrance (Fig x). The current Daneshjoo park, neighboring the Theater's building, was bigger than now, covering the northern side of the City Theater that touches Enghelab street. Based on the documentation, the layout in the image is the most original and initial spatial intervention of this space.
 
 ![*Figure 3. City Theater Building of Tehran in 1971\
 Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg){alt="Figure 3. City Theater Building of Tehran in 1971Source: Wikimedia, 2026." width="511"}
@@ -86,27 +99,34 @@ Source: Hamshahri Online, 2024*.](images/4811609.jpg){alt="Figure 2. City Theate
 
 As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment.
 
-![*Figure x. City Theater Square transformations between 2000 and 2025*](images/imageries_blue.png){alt="Figure x. City Theater Square transformations between 2000 and 2025"}
+![*Figure x. City Theater Square transformations between 2000 and 2025*](images/imageries_blue.png){alt="Figure x. City Theater Square transformations between 2000 and 2025" width="534"}
 
-The City Theater plaza has been under several transformations in the past 25 years (Fig. x). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
+The City Theater plaza has been under several transformations through decades (Fig. x). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
 
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^1] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests[@paccoud2016]. An example of it would be the Haussmannian boulevards that demolished the existing urban streets into wide and long boulevards with luxury retail shops on the sides and policing to oppress any opposition from citizens in the most dominant possible way [@harvey2006]. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers, and governments holding the upper hand of power. Sometimes it's even ignored by them, or does conflict with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests[@paccoud2016]. An example of it would be the Haussmannian boulevards that demolished the existing urban streets into wide and long boulevards with luxury retail shops on the sides and policing to oppress any opposition from citizens in the most dominant possible way [@harvey2006]. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers, and governments holding the upper hand of power. Sometimes it's even ignored by them, or does conflict with their main interests.
 
-[^1]: Teatré Shahr in Persian \[translated by the author\]
+[^3]: Teatré Shahr in Persian \[translated by the author\]
 
 The memory is a valuable lived-experience that holds evidence of a lived, conceived, and perceived physical space for each individual [@shaw2017].
 
 ![*Figure 1. Fence placement around City Theater for reconstruction\
-Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="497"}
-
-The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.2). As soon as the public found out about the intervention, a Twitter bombardment happened, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
+Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="454"}
 
 ![*Figure 2. Demolishing the central space of City Theater's plaza for reconstruction\
-Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){width="527"}
+Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){alt="Figure 2. Demolishing the central space of City Theater's plaza for reconstructionSource: Didhonar, 2026." width="461"}
 
-Traces of urban space transformation through digital memory.
+The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.x). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
+
+![*Figure x. People sharing their opinions on X (Formerly Twitter).\
+Sources: Forouzandeh1, 2025; Ehsanrostamipour, 2023 & 2024; Danielalefsefr, 2025; AzadehMokhtari, 2025.*](images/tweets.png)
+
+The citizens demonstrated their concerns to the officials and municipality regarding the fence placement and transformations of the City Theater on social media. However, the reconstruction project is ongoing and its end date is still unknown to the public. The users shared some images of redesign proposals for the plaza and directly addressed the matter of fence placement around the City Theater.
+
+Even some users brought up the artistic and cultural legacy that the City Theater has brought up since its foundation, with images of old newspapers in the 1970s announcing the famous plays being performed at the City Theater of Tehran (Fig. x). This can reflect how prestigious the City Theater space is to the public. How its preservation is critical as a cultural and social heritage.
+
+These are some examples of how the public encounters spatial interventions through a digital space to archive, review, evaluate, or express to keep themselves engaged with their city and urban life at times when their voices are not being heard actively.
 
 #### Problem in a sentence
 
@@ -168,20 +188,12 @@ For a clearer understanding of how each sub-question is going to be tackled, the
 
 # Scope (Case Study) {#scope-case-study}
 
-## Teatré Shahr (City Theater) {#teatré-shahr-city-theater}
-
-One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^2] Square[^3]. As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality.
-
-[^2]: Teatré Shahr in Persian \[Translated by the author\]
-
-[^3]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
-
-![*Figure x. City Theater Plaza's location in District 11*](images/city theater_2.jpeg){width="562"}
-
-![*Figure 1. Tehran’s overview and City Theater’s location within it.\
-Source: Google Earth, 2024*](images/teatre%20shahr.jpg)
+## City Theater Plaza {#teatré-shahr-city-theater}
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
+
+![*Figure 1. Tehran’s overview and City Theater’s location within it.\
+Source: Google Earth, 2024*](images/teatre%20shahr.jpg){alt="Figure 1. Tehran’s overview and City Theater’s location within it.Source: Google Earth, 2024"}
 
 Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
 
