@@ -58,7 +58,7 @@ bibliography: references.bib
 
 The urban environments have always been transforming through different eras. The transformations caused by designers and planners have undergone a metamorphosis, starting from blueprints to co-design with citizens [@arnstein2019; @horelli2024; @mueller2018]. In the past few years, the social justice approaches amplified the concentration on engaging the public in urban interventions. However, not all countries have a democratic structure to do so.
 
-Iran is a country in western Asia, mostly known as the Middle East. The city of Tehran is the capital, with a population of nearly 9.7 million in 2025 [@macrotrends]. A dense urban area with hustle and bustle in its city center and various commercial, cultural, and official activities. The city is divided into 22 districts governed by the main municipality and each district has its own subset of local government organised by the central municipality. Within each district, there are several neighborhoods, the smallest official divisions, also governed by the district municipality through community development offices that are in direct connection with the local communities. However, this connection is not active.
+Iran is a country in western Asia, mostly known as the Middle East. The city of Tehran is the capital, with a population of nearly 9.7 million in 2025 [@macrotrends]. A dense urban area with hustle and bustle in its city center and various commercial, cultural, and official activities. The city is divided into 22 districts governed by the main municipality, and each district has its own subset of local government organised by the central municipality. Within each district, there are several neighborhoods, the smallest official divisions, also governed by the district municipality through community development offices that are in direct connection with the local communities. However, this connection is not active.
 
 ![*Figure 1. Iran and the Netherlands in the world*](images/map_world_iran.jpg){width="451"}
 
@@ -104,15 +104,15 @@ As can be seen in Figs. 6 & 7, the building and the plaza surrounding it have fa
 ![*Figure 8. City Theater Square transformations between 2000 and 2025.\
 Source: Google Earth Engine, 2026.*](images/imageries_blue.png){width="534"}
 
-The City Theater plaza has been under several transformations through decades (Fig. 8). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
+The City Theater plaza has been under several transformations over the decades (Fig. 8). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access, and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
 
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests[@paccoud2016]. An example of it would be the Haussmannian boulevards that demolished the existing urban streets into wide and long boulevards with luxury retail shops on the sides and policing to oppress any opposition from citizens in the most dominant possible way [@harvey2006]. The citizens don't have any agency over the space to make decisions, or at least to be informed clearly about the interventions or changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers, and governments holding the upper hand of power. Sometimes it's even ignored by them, or does conflict with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently doesn't have any right or authority over the space and the memories within it as common property. Some spaces get manipulated, transformed, or even demolished by government enforced by economic or political interests[@paccoud2016; @solnit2001]. An example could be the Haussmannian boulevards that demolished the existing urban streets into wide and long boulevards with luxury retail shops on the sides and policing to oppress any opposition from citizens in the most dominant possible way [@harvey2006]. All of the valuable memories and the space known to the public were all lost in a glimpse of an eye [@solnit2001]. The citizens don't have any agency over the space, and the corresponding memory, to make decisions, or at least to be informed clearly about the interventions and changes made by the actors on the higher ground. Not only with the actors, but also with the decision makers, this applies too. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond made between the space and its dwellings and visitors by memories, emotions, presence, and activities that shaped each person's lived-experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policy makers, and governments holding the upper hand of power. Sometimes it's even ignored by them, or does conflict with their main interests.
 
 [^3]: Teatré Shahr in Persian \[translated by the author\]
 
-The memory is a valuable lived-experience that holds evidence of a lived, conceived, and perceived physical space for each individual [@shaw2017].
+The memory is a valuable lived-experience that holds evidence of a lived, conceived, and perceived physical space for each individual [@shaw2017]. Having the cognitive perception of the space recorded in an open platform that can be shared with other individuals has been discussed in the literature. As @solnit2001 aesthetically showcases the typicality in urban daily life that may be only engraved in literature, it can emerge in the digital space as well. Social media has the capacity to store the most typical and daily routines of individuals written by themselves, like a diary.
 
 ![*Figure 9. Fence placement around City Theater for reconstruction\
 Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="454"}
@@ -120,7 +120,7 @@ Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg)
 ![*Figure 10. Demolishing the central space of City Theater's plaza for reconstruction.\
 Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){width="461"}
 
-The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig. 9). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig. 10). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
+The spatial transformation of City Theater's plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig. 9). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig. 10). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
 
 ![*Figure 11. People sharing their opinions on X (Formerly Twitter).\
 Sources: Forouzandeh1, 2025; Ehsanrostamipour, 2023 & 2024; Danielalefsefr, 2025; AzadehMokhtari, 2025.*](images/tweets.png)
@@ -236,6 +236,8 @@ The importance of the digital domain is not just about having horizontal archiva
 
 > "*Just as the urbanization of water is a processional notion which can uncover 'stories about the city’s structure and development', so can a reading of the city’s 'political, social, and economic conduits' through which information flows also “carry the potential for an improved, more just, and more equitable right to the city”*"
 
+The data flows of urban life have the potential to reflect many aspects of dynamics, struggles and synergies through the history of the city. Not only the past, but also, thanks to real-time communications, the present state of the city. @solnit2001 [pp. 91] also points out the historical importance of urban space, or more precisely, the streets, as *"repositories of history"* that are lived in. The lived experiences within these repositories can be shared and recorded in the social networks as valued, recognized spaces that hold history within them.
+
 ### Public Engagement (digital participation) {#public-engagement-digital-participation}
 
 Again, from the right to the city, @mitchell2003 highlights the right to the city, which is *oeuvre*[^5], a piece of art, that each citizen contributes to [@tedeschi2024, pp.3]. It is a piece of art, like a tapestry, with which city dwellers can create by sharing their lived experiences and lead that to actions [@tedeschi2024, pp.6; @currie2022; @martin2025]. Taking citizens' lived experiences and emotions towards a space through the planning and design process would lead to a valued space, or the so-called place [@martin2025]. Moreover, the public participation has always better received with urban projects regardless of being effective or not [@martin2025].
@@ -274,7 +276,7 @@ The belonging factors can be identified as below in Fig. 4, which represents a v
 
 -   Sitting space: edges, fountain, benches
 
--   Landmarks: City Theater building, statues, and fountain
+-   Landmarks: City Theater building, statues, and a fountain
 
 -   Visibility: Eye view sheds, landmarks, corridors,
 
@@ -308,7 +310,7 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 **Space:** The existing physical space that, in this case, can be considered as the public space, or to be precise, City Theater's plaza in Tehran, which holds various activities, spatial elements, and mobility within. Users of social media interact with the space. The result of this interaction is expressed in another sphere by them.
 
-**Social Media:** Social media is a fragment of a larger sphere called digital space that includes many other domains with various activities, characteristics and users. The study's focus is on the social media platforms (i.e., X & Instagram) in which users share their expressions, opinions, attachments, and, in general, their lived experience of the space as a memory. These memories are shared as Tweets and Instagram posts with footage, images, or plain descriptions. These data will be scraped from their platforms as text strings (only the textual contents) that address the space with the keywords City Theater or City Theater's intersection to be collected.
+**Social Media:** Social media is a fragment of a larger sphere called digital space that includes many other domains with various activities, characteristics, and users. The study's focus is on the social media platforms (i.e., X & Instagram) in which users share their expressions, opinions, attachments, and, in general, their lived experience of the space as a memory. These memories are shared as Tweets and Instagram posts with footage, images, or plain descriptions. These data will be scraped from their platforms as text strings (only the textual contents) that address the space with the keywords City Theater or City Theater's intersection to be collected.
 
 **Digital Memories:** The scraped and collected data are literally the memories of the space in the past (or, as it is called, the past space). Any of the memories refers to the space. But that's not all of the input. Each of them holds a specific expression, for it is a personal experience. The various memories can be classified based on how they were expressed, followed by one or multiple emotions.
 
@@ -324,17 +326,17 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Having these classes, the emotions can be categorized as negative or positive feelings.
 
-+----------------------+----------------------+
-| Emotion Categories   | Value Classification |
-+:====================:+:====================:+
-| Anger                | Negative             |
-+----------------------+----------------------+
-| Sadness              | Negative             |
-+----------------------+----------------------+
-| Comfort              | Positive             |
-+----------------------+----------------------+
-| Happiness            | Positive             |
-+----------------------+----------------------+
++---------------------+----------------------+
+| Emotion Categories  | Value Classification |
++:===================:+:====================:+
+| Anger               | Negative             |
++---------------------+----------------------+
+| Sadness             | Negative             |
++---------------------+----------------------+
+| Comfort             | Positive             |
++---------------------+----------------------+
+| Happiness           | Positive             |
++---------------------+----------------------+
 
 : *Table 3. Categories and Classifications of Emotions*
 
@@ -375,7 +377,7 @@ Based on the above-mentioned notions and theoretical backgrounds, the conceptual
 
 ![*Figure 16. Methodological Framework.*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
-Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space and they rate them by expressing their emotions that are stored as digital memories.
+Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space, and they rate them by expressing their emotions that are stored as digital memories.
 
 After relating each emotion to its addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that do not correspond to the public properly. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already corresponding spaces and cause public presence, which leads to the space's livability. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way, but more interactive.
 
