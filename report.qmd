@@ -58,6 +58,8 @@ bibliography: references.bib
 
 The urban environments have always been transforming through different eras. The transformations caused by designers and planners have undergone a metamorphosis, starting from blueprints to co-design with citizens [@arnstein2019; @horelli2024; @mueller2018]. In the past few years, the social justice approaches amplified the concentration on engaging the public in urban interventions. However, not all countries have a democratic structure to do so.
 
+Iran is a country in western Asia, mostly known as the Middle East. The city of Tehran is the capital, with a population of nearly 9.7 million in 2025 [@macrotrends]. A dense urban area with hustle and bustle in its city center and various commercial, cultural, and official activities. The city is divided into 22 districts governed by the main municipality and each district has its own subset of local government organised by the central municipality. Within each district, there are several neighborhoods, the smallest official divisions, also governed by the district municipality through community development offices that are in direct connection with the local communities. However, this connection is not active.
+
 In countries like Iran, despite following the theories and works of citizen engagement in academia, the practice is far behind this mindset. Many urban development projects are implemented with a top-down approach, regardless of the responsible party. Whether a contractor, developer, designer, planner, or policy maker, none ever approached the public for their opinions on an urban project. There are minimal practices that tried to include citizens within their work by running surveys or interviews. Nevertheless, the number of participators have barely met the satisfaction of the affected population, which looked more like being manipulated [@arnstein2019]. The planning and design approaches in countries with less democratic political systems would have the least amount of successful public engagement through their process.
 
 Although active participation has never been an easy practice, there have been tools and platforms that made the process smoother for both ends. Living in the digital era, many citizens have access to online social platforms where they can usually speak up on their own, with the chance that their opinion could be heard nationally and even globally. In such an era, Iran is not an exception either. Although Iranians have filtered internet access, they use VPNs to bypass the restrictions and access the free internet, sharing their opinions, voices, cries, compliments, memories, and all other experiences unaccessible on online social networks.
@@ -146,7 +148,7 @@ For a clearer understanding of how each sub-question is going to be tackled, the
 
 ## Teatré Shahr (City Theater) {#teatré-shahr-city-theater}
 
-One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^2] Square[^3]. As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran.
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^2] Square[^3]. As can be seen in (Fig. 2), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality.
 
 [^2]: Teatré Shahr in Persian \[Translated by the author\]
 
@@ -291,6 +293,20 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Having these classes, the emotions can be categorized as negative or positive feelings.
 
++-----------------------+----------------------+
+| Emotion Categories    | Value Classification |
++:=====================:+:====================:+
+| Anger                 | Negative             |
++-----------------------+----------------------+
+| Sadness               | Negative             |
++-----------------------+----------------------+
+| Comfort               | Positive             |
++-----------------------+----------------------+
+| Happiness             | Positive             |
++-----------------------+----------------------+
+
+: *Table 2. Categories and Classifications of Emotions*
+
 **Spatial Features:** Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
 
 1.  Path
@@ -327,6 +343,8 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
 ![*Figure 7. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+
+Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space and they rate them by expressing their emotions that are stored as digital memories.
 
 After relating each emotion to its addressed physical elements within the space, the emotions towards anger or sadness can be considered as spaces that do not correspond to the public properly. Thus, they may need spatial improvements or interventions. The second approach would be focused on spaces that caused happiness or comfort shared by users on social media. Those spaces are already corresponding spaces and cause public presence, which leads to the space's livability. They can be considered as valuable spaces at the same time that their spatial characteristics should be processed and applied as design qualities for spaces that do not hold the same quality within Teatré Shahr square. All of this process happens within its context, which is Teatré Shahr in this case, and each step has interrelations with the environment chosen as the study area. Hopefully, in the design steps, the relation would be circular and not one-way, but more interactive.
 
