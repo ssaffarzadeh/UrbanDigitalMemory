@@ -5,7 +5,7 @@ format: html
     #toc: true
     #number-sections: true
     #colorlinks: true
-toci: true
+toc: true
 engine: knitr
 bibliography: references.bib
 ---
@@ -76,32 +76,35 @@ This study aims to tackle the matter of how citizens' lived experiences shared o
 
 ## City Theater of Tehran (Teatré Shahr-e Tehran)
 
-One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^1] Square[^2]. As can be seen in (Fig. x), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality.
+One of the public squares which has always been under drastic tension between its users and the ones who want to change it is the City Theater[^1] Square[^2]. As can be seen in (Fig. x), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality (Fig. 4).
 
 [^1]: Teatré Shahr in Persian \[Translated by the author\]
 
 [^2]: The square holds the city theater building within its space, which could be considered a semi-open public space in Tehran, with all of the activities and events that take place downtown.
 
-![*Figure x. City Theater Plaza's location in District 11*](images/city theater_2.jpeg){alt="Figure x. City Theater Plaza's location in Tehran" width="512"}
+![*Figure 4. City Theater Plaza's location in Tehran\
+Source: Google Map Satellite, 2026.*](images/city%20theater_2.jpeg){width="512"}
 
 The City Theater Square holds one of the oldest theaters in Tehran, dating back to the 1970s. The City Theater of Tehran building was built as an art and cultural complex. City Theater was not only a venue, but also a taste of the contemporary design inspired by the Iranian architecture[@wikipedia2026; @mohit2026]. The presence of the building with its surroundings formed a public space since the complex was ready for productivity.
 
-![*Figure x. City Theater Square and Daneshjoo Park aerial photo in 1975\
+![*Figure 5. City Theater Plaza and Daneshjoo Park aerial photo in 1975.\
 Source: [Ehsanrostamipour, 2023.](https://x.com/i/status/1741505739120590987)*](images/20260121_183415.jpg){width="464"}
 
-The City Theater used to look like a complex with its specific plaza in front of the theater's main building entrance (Fig x). The current Daneshjoo park, neighboring the Theater's building, was bigger than now, covering the northern side of the City Theater that touches Enghelab street. Based on the documentation, the layout in the image is the most original and initial spatial intervention of this space.
+The City Theater used to look like a complex with its specific plaza in front of the theater's main building entrance (Fig 5). The current Daneshjoo park, neighboring the Theater's building, was bigger than now, covering the northern side of the City Theater that touches Enghelab street. Based on the documentation of a user who shared the aerial image in X (formerly Twitter), the spatial layout in the image is the most original and initial spatial intervention of this space.
 
-![*Figure 3. City Theater Building of Tehran in 1971\
-Source: Wikimedia, 2026.*](images/City_Theater_of_Tehran_-_1971.jpg){alt="Figure 3. City Theater Building of Tehran in 1971Source: Wikimedia, 2026." width="511"}
+![*Figure 6. City Theater Building of Tehran in 1971.\
+Source: Wikimedia, 2026.\
+*](images/City_Theater_of_Tehran_-_1971.jpg){width="511"}
 
-![*Figure 2. City Theater's building and plaza.\
-Source: Hamshahri Online, 2024*.](images/4811609.jpg){alt="Figure 2. City Theater's building and plaza.Source: Hamshahri Online, 2024." width="508"}
+![*Figure 7. City Theater's building and plaza.\
+Source: Hamshahri Online, 2024.*](images/4811609.jpg){width="508"}
 
-As can be seen in Figs.2 & 3, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment.
+As can be seen in Figs. 6 & 7, the building and the plaza surrounding it have faced many transformations, such as the spatial composition, accessibility, mobility, vegetation, and urban furniture. City Theater Square has always been a central point of the daily urban life of Tehran. Moreover, the square has been the ground of various social and political events since its establishment.
 
-![*Figure x. City Theater Square transformations between 2000 and 2025*](images/imageries_blue.png){alt="Figure x. City Theater Square transformations between 2000 and 2025" width="534"}
+![*Figure 8. City Theater Square transformations between 2000 and 2025.\
+Source: Google Earth Engine, 2026.*](images/imageries_blue.png){width="534"}
 
-The City Theater plaza has been under several transformations through decades (Fig. x). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
+The City Theater plaza has been under several transformations through decades (Fig. 8). Various types of small and medium interventions have been implemented within its space. From removing statues to constructing the underground path, pedestrian access and the metro station entrance. Some of these transformations are traceable through satellite imagery of Google Earth's engine. However, the satellite images have been captured since the 2000s. Yet, they portray significant spatial interventions, whether inside the plaza or outside, around the square and main streets of Tehran.
 
 # Problem Statement
 
@@ -111,20 +114,20 @@ There are urban spaces, specifically, public spaces that hold a large pool of co
 
 The memory is a valuable lived-experience that holds evidence of a lived, conceived, and perceived physical space for each individual [@shaw2017].
 
-![*Figure 1. Fence placement around City Theater for reconstruction\
+![*Figure 9. Fence placement around City Theater for reconstruction\
 Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="454"}
 
-![*Figure 2. Demolishing the central space of City Theater's plaza for reconstruction\
-Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){alt="Figure 2. Demolishing the central space of City Theater's plaza for reconstructionSource: Didhonar, 2026." width="461"}
+![*Figure 10. Demolishing the central space of City Theater's plaza for reconstruction.\
+Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){width="461"}
 
-The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig.1). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig.x). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
+The spatial transformation of the plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited the pedestrian accessibility to the square (Fig. 9). A redevelopment project began, and its objective was focused on the redesign of City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig. 10). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
 
-![*Figure x. People sharing their opinions on X (Formerly Twitter).\
+![*Figure 11. People sharing their opinions on X (Formerly Twitter).\
 Sources: Forouzandeh1, 2025; Ehsanrostamipour, 2023 & 2024; Danielalefsefr, 2025; AzadehMokhtari, 2025.*](images/tweets.png)
 
 The citizens demonstrated their concerns to the officials and municipality regarding the fence placement and transformations of the City Theater on social media. However, the reconstruction project is ongoing and its end date is still unknown to the public. The users shared some images of redesign proposals for the plaza and directly addressed the matter of fence placement around the City Theater.
 
-Even some users brought up the artistic and cultural legacy that the City Theater has brought up since its foundation, with images of old newspapers in the 1970s announcing the famous plays being performed at the City Theater of Tehran (Fig. x). This can reflect how prestigious the City Theater space is to the public. How its preservation is critical as a cultural and social heritage.
+Even some users brought up the artistic and cultural legacy that the City Theater has brought up since its foundation, with images of old newspapers in the 1970s announcing the famous plays being performed at the City Theater of Tehran (Fig. 11). This can reflect how prestigious the City Theater space is to the public. How its preservation is critical as a cultural and social heritage.
 
 These are some examples of how the public encounters spatial interventions through a digital space to archive, review, evaluate, or express to keep themselves engaged with their city and urban life at times when their voices are not being heard actively.
 
@@ -192,8 +195,8 @@ For a clearer understanding of how each sub-question is going to be tackled, the
 
 The reason behind picking this specific public space is not only its architectural quality as a public space, but its historical legacy, which holds many urban events, activities, and daily-life patterns within itself. A public space at the heart of the Iranian capital, Tehran, has always been a focal point for its dwellers.
 
-![*Figure 1. Tehran’s overview and City Theater’s location within it.\
-Source: Google Earth, 2024*](images/teatre%20shahr.jpg){alt="Figure 1. Tehran’s overview and City Theater’s location within it.Source: Google Earth, 2024"}
+![*Figure 12. Tehran’s overview and City Theater’s location within it.\
+Source: Google Earth, 2024.*](images/teatre%20shahr.jpg)
 
 Thus, it holds a large scale of digital memories within itself to collect and study. Also, due to a lack of an explicit online platform for citizens to share their digital memories regarding a specific urban space, the current study focuses on the most popular and recognized public space. This will increase the chance of related data availability and collection.
 
@@ -217,9 +220,9 @@ Furthermore, the notion was developed by @harvey2015, who argued that city dwell
 
 If we consider the right over public space derived from the concept of the right to the city. Once people have their lived-experiences on a space, it forms their memories of that space. Since memory and physical space can be imagined as intertwined existences, the memories are attached to the physical space while the space holds the memories within its boundaries as well (notions of sense of place, etc.). Thus, having the right to a public space automatically gives the right to the memories of it at the same time. In other words, policy makers, designers, or any other entity that holds the authority or power to change the space have to take into account the sensitivity of a public space, not only based on general spatial values and qualities, but also with memories embedded within that space. It should be acknowledged that citizens have a right to the space, and they have the right to their memories of that space as common goods, too.
 
-Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having access to the resources [@tedeschi2024].
+Based on the same theoretical principles, the right to the city has always been discussed by Harvey (1993) to exceed further than just having access to the resources [Harvey (1993) as cited in @tedeschi2024].
 
-The abstract space described by Lefebvre (1991), limited to planning and design perspectives, has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly changing information [@shaw2017].
+The abstract space described by Lefebvre (1991), limited to planning and design perspectives, has changed into a rapid representation in various forms through digital information. The space is no longer an abstraction of a physical entity, but it is regenerated and transformed in a digital domain based on its rapidly changing information [Lefebvre (1991) as cited in @shaw2017].
 
 The technological development has brought new definitions of the right to the city concept. @tedeschi2024 argues that algorithms have a right over space, for they produce and update information regarding physical space rapidly. This makes the accessibility and experience for its dwellers either disruptive or reinforcing, which leads them to negotiate their social intakes and power over space with such a non-human entity. This creates a different level of inequality in a digital dimension.
 
@@ -227,7 +230,7 @@ The technological development has brought new definitions of the right to the ci
 
 In the digital age, the media has become a tool for any individual to express their thoughts, talk about their feelings, bring up ideas, share experiences and memories, or cry out for their right as critical matter. One major feature of digital media is their archival potential. They are the database of memories of many individual and collective activities or events in a variety of contexts.
 
-What archival memories can bring is not comparable to a curated, centrally organised museum set up exclusively for visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet [@haskins2007]. Even such an idea was somehow suggested by Lefebvre (2003) that having a self-management feature over a digital platform should be a right, even though it was considered as a right to urban resources and not something higher [@tedeschi2024].
+What archival memories can bring is not comparable to a curated, centrally organised museum set up exclusively for visitors as the audience, but an independent multi-voice platform that anyone holding a digital device can share and publish to other users throughout the internet [@haskins2007]. Even such an idea was somehow suggested by Lefebvre (2003, as cited in @tedeschi2024) that having a self-management feature over a digital platform should be a right, even though it was considered as a right to urban resources and not something higher.
 
 The importance of the digital domain is not just about having horizontal archival memories made by numerous individuals, but the digital space itself as a phenomenon that can trace the contents of a society regarding a physical space. @shaw2017 [pp. 909] brings up the importance of data flows in urban studies:
 
@@ -257,11 +260,11 @@ The conceptual framework will help to extract the necessary criteria to run the 
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors [@martin2025].
 
-![*Figure 4. Space to place the transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
+![*Figure 13. Space to place the transformation Diagram*](images/CamScanner%2012-19-2024%2019.48_10-01.jpg)
 
 The belonging factors can be identified as below in Fig. 4, which represents a very initial draft of spatial and contextual aspects that would make a direct and indirect impact of ones sense of belonging towards the environment in which they have been and interacted within it.
 
-![*Figure 5. Sense of belonging, spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
+![*Figure 14. Sense of belonging, spatial and contextual affecting factors*](images/CamScanner%2012-19-2024%2019.48_9.jpg)
 
 -   Ecology: green & blue elements, living species
 
@@ -297,7 +300,7 @@ The sentiment classification of each feature would help to come up with valuable
 
 Furthermore, to integrate the adapted concepts from the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
 
-![*Figure 6. Conceptual Framework*](images/Artboard%203-100.jpg)
+![*Figure 15. Conceptual Framework*](images/Artboard%203-100.jpg)
 
 The diagram depicts the three main concepts of the study, social media, digital memory, and space, and how they are related to each other based on the defined methods and processes.
 
@@ -321,19 +324,19 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Having these classes, the emotions can be categorized as negative or positive feelings.
 
-+-----------------------+----------------------+
-| Emotion Categories    | Value Classification |
-+:=====================:+:====================:+
-| Anger                 | Negative             |
-+-----------------------+----------------------+
-| Sadness               | Negative             |
-+-----------------------+----------------------+
-| Comfort               | Positive             |
-+-----------------------+----------------------+
-| Happiness             | Positive             |
-+-----------------------+----------------------+
++----------------------+----------------------+
+| Emotion Categories   | Value Classification |
++:====================:+:====================:+
+| Anger                | Negative             |
++----------------------+----------------------+
+| Sadness              | Negative             |
++----------------------+----------------------+
+| Comfort              | Positive             |
++----------------------+----------------------+
+| Happiness            | Positive             |
++----------------------+----------------------+
 
-: *Table 2. Categories and Classifications of Emotions*
+: *Table 3. Categories and Classifications of Emotions*
 
 **Spatial Features:** Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
 
@@ -343,8 +346,8 @@ Having these classes, the emotions can be categorized as negative or positive fe
 4.  District (areas with common character)
 5.  Landmark
 
-![*Figure 7. Lynch's cognitive urban elements from the book 'The Image of the City'.\
-Source: [Semanur Can, 2026](https://semanurcan.wordpress.com/2019/10/27/the-city-image-and-its-elements-by-kevin-lynch/).*](images/interactionofelement-2-e1569672351975.jpg){alt="Figure 9. Lynch's cognitive urban elements for 'The Image of the City'.Source: Semanur Can, 2026." width="400"}
+![*Figure 15. Lynch's cognitive urban elements from 'The Image of the City'.\
+Source: Semanur Can, 2026.*](images/interactionofelement-2-e1569672351975.jpg){width="400"}
 
 The urban elements are addressed directly or indirectly by the users within their digital memories. This addressing comes with an evaluation, which is their emotions towards the spatial features. Based on this and the extracted emotions, the negative and positive ratings can be related to their corresponding urban elements that were recognized mentally by the valuers. This relational process helps to make the positive or negative associations within the space.
 
@@ -370,7 +373,7 @@ After that, the data needed to be cleaned of unnecessary details or non-relevant
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, for it will be a stepping stone as a theoretical lens over the methodology and further steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![*Figure 7. Methodological Framework*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+![*Figure 16. Methodological Framework.*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
 
 Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space and they rate them by expressing their emotions that are stored as digital memories.
 
@@ -382,7 +385,7 @@ After relating each emotion to its addressed physical elements within the space,
 
 The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
-![*Figure 8. Expected Outcomes*](images/Expected%20Outcomes.png){width="500"}
+![*Figure 17. Expected Outcomes.*](images/Expected%20Outcomes.png){width="500"}
 
 The outcomes would be categorized into results of the sentiment analysis of text strings collected from tweets as an archive of emotions, along with their linked spatial features that were matched together based on cognitive indicators of urban space perception. This leads to having valued spatial features based on emotions as negative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^7].
 
