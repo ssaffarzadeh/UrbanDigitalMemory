@@ -1,10 +1,11 @@
 ---
 title: "MSc Urbanism Graduation Report Draft S. Saffarzadeh - 6227007"
-format: 
-  pdf: 
-    toc: true
-    number-sections: true
-    colorlinks: true
+format: html
+  #pdf: 
+    #toc: true
+    #number-sections: true
+    #colorlinks: true
+toci: true
 engine: knitr
 bibliography: references.bib
 ---
@@ -221,7 +222,7 @@ The digital participation is also supported by different studies [@martin2025; @
 
 # Conceptual Framework
 
-The initial conceptual framework will help to extract the necessary criteria to run the sentiment analysis on the collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review, considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
+The conceptual framework will help to extract the necessary criteria to run the sentiment analysis on the collected data text strings from the targeted platforms. The conceptual framework is based on the principles driven out in the literature review, considering the spatial qualities of how a space would picture memories and lived-experiences of citizens when they interact with it. And, how this can be identified and classified through semantic analysis of string data on online platforms.
 
 The initial concept would be the transformation of space to place through people's interactions that shapes sense of belonging towards their environment based on several spatial and contextual factors [@martin2025].
 
@@ -259,19 +260,25 @@ The users share different experiences of their presence and interaction within t
 
 Thanks to the @lynch1964's cognitive analysis concepts and methods of the perceived space or city, the spatial features could be tracked and recognized by how the individuals described their situation or position of the space ad their mentions could be classified to Lynch’s cognitive features of nodes, lines, areas, edges and landmarks. The further workflow would be focused on relating different sentiments to each corresponding spatial feature of the context. For example, someone could have gotten angry due to the presence in a specific area with edges.
 
-The sentimental classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design, and spaces that need improvement. This would help with further steps of the design process and producing spatial conditions over spaces that hold memories that can be recalled as a public good.
+The sentiment classification of each feature would help to come up with valuable places and how they were designed, as a corresponding design to the public that results in livability and place-making. Also, spaces that need improvement will be identified as well. Based on the feelings that address the specific feature, the association of physical space and emotions within the memory will result in positive or negative values. This would help with further steps of the design process and producing spatial conditions over spaces that hold memories that can be recalled as a public good.
 
 ## Framework
 
 Furthermore, to integrate the adapted concepts from the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
 
-![*Figure 6. Conceptual Framework*](images/Artboard 3-100.jpg)
+![*Figure 6. Conceptual Framework*](images/Artboard%203-100.jpg)
 
-The diagram depicts the three main concepts of the study, social media, digital memory and space, and how they are related to each other based on the defined methods.
+The diagram depicts the three main concepts of the study, social media, digital memory and space, and how they are related to each other based on the defined methods and processes.
 
-Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also validate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space.
+### Definitions and processes
 
-The memories shared on social media, as available data, will be collected and go through the sentiment analysis of distinguishing various types of emotions and expressions that are chosen as below:
+**Space:** The existing physical space that in this case, can be considered as the public space or to be precise, City Theater's plaza in Tehran, which holds various activities, spatial elements and mobility within. Users of social media interact with the space. The result of this interaction is expressed in another sphere by them.
+
+**Social Media:** Social media is a fragment of a larger sphere called digital space that includes many other domains with various activities, characteristics and users. The study's focus is on the social media platforms (i.e., X & Instagram) in which users share their expressions, opinions, attachments, and, in general, their lived experience of the space as a memory. These memories are shared as Tweets and Instagram posts with footage, images, or plain descriptions. These data will be scraped from their platforms as text strings (only the textual contents) that address the space with the keywords City Theater or City Theater's intersection to be collected.
+
+**Digital Memories:** The scraped and collected data are literally the memories of the space in the past (or, as it is called, the past space). Any of the memories refers to the space. But that's not all of the input. Each of them holds a specific expression, for it is a personal experience. The various memories can be classified based on how they were expressed, followed by one or multiple emotions.
+
+**Extracted Emotions:** The emotions within digital memories can be extracted and classified using sentiment analysis. The emotions within digital memories will be identified based on textual expressions. Each word or phrase addresses a feeling or experience that can be classified into the following items:
 
 1.  Anger
 
@@ -281,7 +288,9 @@ The memories shared on social media, as available data, will be collected and go
 
 4.  Happiness
 
-Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
+Having these classes, the emotions can be categorized as negative or positive feelings.
+
+**Spatial Features:** Based on @lynch1964 's perceptive urban elements, each shared emotion would have one or multiple corresponding spatial features that affected the person's cognition and co-created their lived-experience. The features are as follows:
 
 1.  Path
 2.  Node
@@ -289,10 +298,16 @@ Based on @lynch1964 's perceptive urban elements, each shared emotion would have
 4.  District (areas with common character)
 5.  Landmark
 
-![*Figure 9. Lynch's cognitive urban elements for 'The Image of the City'.\
-Source: [Semanur Can, 2026](https://semanurcan.wordpress.com/2019/10/27/the-city-image-and-its-elements-by-kevin-lynch/).*](images/interactionofelement-2-e1569672351975.jpg)
+![*Figure 7. Lynch's cognitive urban elements for 'The Image of the City'.\
+Source: [Semanur Can, 2026](https://semanurcan.wordpress.com/2019/10/27/the-city-image-and-its-elements-by-kevin-lynch/).*](images/interactionofelement-2-e1569672351975.jpg){alt="Figure 9. Lynch's cognitive urban elements for 'The Image of the City'.Source: Semanur Can, 2026." width="500"}
 
-Each of these validated features has made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
+The urban elements are addressed directly or indirectly by the users within their digital memories. This addressing comes with an evaluation, which is their emotions towards the spatial features. Based on this and the extracted emotions, the negative and positive ratings can be related to their corresponding urban elements that were recognized mentally by the valuers. This relational process helps to make the positive or negative associations within the space.
+
+**Positive / Negative Associations:** The associations made through the relational process will give out the spatial features that are considered to have negative or positive values. Features with negative ratings require improvements and interventions. While the ones with positive ratings might have design qualities to be recognized, preserved, or reused through interventions within the space, the original context of this study.
+
+Overall, as can be seen in Fig. 7, the cycle can go on from the original space after the interventions based on the positive/negative associations are made. The transformed spatial features within the space can make an impression on their valuers that shapes their lived-experience of the space, again. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms of Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
+
+The past, transforming and existing space is not only shaped mentally. But also, that mental recognition of space is represented in social media, shared within the digital space.
 
 {{< pagebreak >}}
 

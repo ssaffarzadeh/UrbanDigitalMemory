@@ -1,0 +1,8 @@
+---
+title: "dump"
+format: html
+---
+
+Starting from social media, the data within the Tweets and Instagram posts is based in the virtual digital space that can be traced back to the digital memories. That is the second sphere that holds the lived-experiences within the texts that were extracted in the form of emotions using the sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived in the form of simple objects such as lines, nodes, landmarks, etc. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on the people experiencing their interaction with the space and they rate them by expressing their emotions that are stored as digital memories.
+
+Each of these evaluated features has made an impression on their valuers that shaped their lived-experience of the space. Therefore, following the impressions, a sense of place builds up as it goes through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts on social media, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
