@@ -302,7 +302,7 @@ The sentiment classification of each feature would help identify valuable places
 
 Furthermore, to integrate the adapted concepts from the literature review, as a guiding theme for the research and design process, a conceptual framework was illustrated in the following diagram.
 
-![*Figure 15. Conceptual Framework*](images/Artboard%203-100.jpg)
+![*Figure 15. Conceptual Framework*](images/Artboard%203-100.jpg){#conceptual_frame}
 
 The diagram depicts the three main concepts of the study, social media, digital memory, and space, and how they are related to each other based on the defined methods and processes.
 
@@ -349,13 +349,13 @@ Having these classes, the emotions can be categorized as negative or positive fe
 5.  Landmark
 
 ![*Figure 15. Lynch's cognitive urban elements from 'The Image of the City'.\
-Source: Semanur Can, 2026.*](images/interactionofelement-2-e1569672351975.jpg){width="400"}
+Source: Semanur Can, 2026.*](images/interactionofelement-2-e1569672351975.jpg){#lynch_elements width="400"}
 
 The urban elements are addressed, directly or indirectly, by users in their digital memories. This addressing comes with an evaluation of their emotions towards the spatial features. Based on this and the extracted emotions, the negative and positive ratings can be linked to the corresponding urban elementsrecognized mentally by the valuers. This relational process helps create positive or negative associations within the space.
 
-**Positive**/Negative Associations: The associations made through the relational process will reveal spatial features with negative or positive values. Features with negative ratings require improvements and interventions. While the ones with positive ratings might have design qualities to be recognized, preserved, or reused through interventions within the space, the original context of this study is.
+**Positive/Negative Associations:** The associations made through the relational process will reveal spatial features with negative or positive values. Features with negative ratings require improvements and interventions. While the ones with positive ratings might have design qualities to be recognized, preserved, or reused through interventions within the space, the original context of this study is.
 
-Overall, as shown in Fig. 7, the cycle can continue in the original space after the interventions based on positive/negative associations are applied. The transformed spatial features within the space can make an impression on their valuers, shaping their lived experience of the space again. Therefore, as impressions accumulate, a sense of place builds as it moves through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
+Overall, as shown in [Fig. 15](#conceptual_frame), the cycle can continue in the original space after the interventions based on positive/negative associations are applied. The transformed spatial features within the space can make an impression on their valuers, shaping their lived experience of the space again. Therefore, as impressions accumulate, a sense of place builds as it moves through the space and its elements. The impressions emerge in different forms, such as Tweets and Instagram posts, regarding the physical space sphere. In that way, the impressions of the physical space are transferred to the digital space (i.e., social media) and create a clone of the existing space.
 
 The past, the transforming, and the existing space are not shaped onlymentally. But also, that mental recognition of space is represented in social media, shared within the digital space.
 
@@ -363,7 +363,7 @@ The past, the transforming, and the existing space are not shaped onlymentally. 
 
 # Methodology (methods and planning) {#methodology-methods-and-planning}
 
-The main target is to collect data from posts and tweets shared by public profiles on Instagram and X (formerly Twitter). The analysis will focus on the latest interventions inCity Theater Square. There are pre-intervention and post-intervention phases in which the public shared their opinions, expressions, and impressions as lived experiences, both when the square was intact and when it was transformed through redesign procedures over the past two years of a time-stretched project [@aleksandar].
+The main target is to collect data from posts and tweets shared by public profiles on Instagram and X (formerly Twitter). The analysis will focus on the latest interventions in City Theater Square. There are pre-intervention and post-intervention phases in which the public shared their opinions, expressions, and impressions as lived experiences, both when the square was intact and when it was transformed through redesign procedures over the past two years of a time-stretched project [@aleksandar].
 
 The main variable that will be collected is the text strings within tweets on X and post captions on Instagram, using a scraping application specialized for these platforms [^6] considering the legal and regulatory procedures of online scraping. The data collection will follow the specified time frame mentioned previously and usedefined keywords to narrow the search domain as specifically as possible. Names like "Teatré Shahr", "Teatré Shahr square", or "Vali'asr intersection" would be used as keywords to identify and collect any related text data to the chosen case study[@williamson2020].
 
@@ -375,7 +375,7 @@ After that, the data needed to be cleaned of unnecessary details and irrelevant 
 
 Based on the above-mentioned notions and theoretical backgrounds, the conceptual framework is structured, serving as a theoretical lens for the methodology and subsequent steps of this study. The details and connections of each notion are illustrated in the following figure.
 
-![*Figure 16. Methodological Framework.*](images/Screenshot%202026-01-11%20at%2019.05.48.png)
+![*Figure 16. Methodological Framework.*](images/Screenshot%202026-01-11%20at%2019.05.48.png){#method_framework}
 
 Starting with social media, the data in Tweets and Instagram posts is rooted in the virtual digital space and can be traced back todigital memories. That is the second sphere, which holds the lived experiences within the texts, extracted as emotions using sentiment analysis. Four main considered emotions also refer to spatial features that can be identified using the cognitive approaches. The space is perceived as simple objects such as lines, nodes, and landmarks. Not only do the emotions address each spatial feature, but they also evaluate it. There are physical elements that may have negative effects (Angry or Sad) or positive effects (Happy or Comfortable) on people experiencing their interaction with the space, and they rate them by expressing emotionsstored as digital memories.
 
@@ -387,7 +387,7 @@ After relating each emotion to its addressed physical elements within the space,
 
 The expected outcomes are considered to be either the results of data analysis, spatial design guidelines, or interventions on the case study, aka Teatré Shahr square.
 
-![*Figure 17. Expected Outcomes.*](images/Expected%20Outcomes.png){width="500"}
+![*Figure 17. Expected Outcomes.*](images/Expected%20Outcomes.png){#expected_outcome width="500"}
 
 The outcomes would be categorized into results of sentiment analysis of text strings collected from tweets, serving as an archive of emotions, along with their linked spatial features, matchedbased on cognitive indicators of urban space perception. This leads to valuing spatial features based on emotions as eithernegative or positive elements within the space. These values will be localized based on their in-text descriptions of the space in the form of hand drawings, map drawings, and images generated via xFigura [^7].
 
@@ -398,5 +398,7 @@ On the spatial category, the outcomes are followed up on the analysis outputs. T
 {{< pagebreak >}}
 
 ## Project time frame
+
+![*Figure 18. Project's timeline*](images/Timeframe.jpg){#timeline}
 
 # References
