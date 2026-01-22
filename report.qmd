@@ -1,7 +1,8 @@
 ---
 title: "MSc Urbanism Graduation Report Draft S. Saffarzadeh - 6227007"
+subtitle: "Urbanism Graduation Studio 2025-26, BK, TU Delft"
 format: html
-    pdf: 
+  pdf: 
      toc: true
       number-sections: true
       colorlinks: true
