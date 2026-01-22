@@ -4,6 +4,7 @@ subtitle: "AR4U020 - Urbanism Graduation Studio 2025-26, BK, TU Delft"
 format:
   pdf:
     toc: true
+    lof: false
     number-sections: false
     colorlinks: true
 engine: knitr
