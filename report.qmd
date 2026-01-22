@@ -297,17 +297,12 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Having these classes, the emotions can be categorized as negative or positive feelings.
 
-+--------------------+----------------------+
 | Emotion Categories | Value Classification |
-+:==================:+:====================:+
-| Anger              | Negative             |
-+--------------------+----------------------+
-| Sadness            | Negative             |
-+--------------------+----------------------+
-| Comfort            | Positive             |
-+--------------------+----------------------+
-| Happiness          | Positive             |
-+--------------------+----------------------+
+|:------------------:|:--------------------:|
+|       Anger        |       Negative       |
+|      Sadness       |       Negative       |
+|      Comfort       |       Positive       |
+|     Happiness      |       Positive       |
 
 : *Table 3. Categories and Classifications of Emotions*
 
