@@ -14,6 +14,10 @@ bibliography: references.bib
 
 *Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
 
+## Abstract
+
+This project seeks to examine the capabilities of citizens' lived experiences shared on online social media platforms and digital memories to evaluate the spatial features of a public square in Tehran. This evaluation is based on emotions expressed on social media accounts about the public space, whether they have positive or negative effects. The data will be collected as text strings from Instagram and X (formerly Twitter) using the Apify scraping app. The collected text data will undergo sentiment analysis to extract emotions such as anger, happiness, sadness, and comfort. The classified emotions will be linked to the spatial features they address through a cognitive approach to spatial perception. The linked emotions and spatial features shape the elements in the public space as either positive or negative. At the end, the design guidelines and evaluation qualities will be explored in the case study. The project will bring the concept of rights over public space not only as a physical or mental entity, but also as a digital memory, based on the fact that public space is validated bypeople in digital spaces, which grants them the right to the memory as well. The other aspect is the public engagement opportunities provided through digital spaces that give an initial view to designers, planners and decision makers of citizens towards an urban space.
+
 {{< pagebreak >}}
 
 # Introduction
