@@ -1,5 +1,5 @@
 ---
-title: "MSc Urbanism Graduation Report Draft S. Saffarzadeh - 6227007"
+title: "Graduation Report Draft S. Saffarzadeh - 6227007"
 subtitle: "AR4U020 - Urbanism Graduation Studio 2025-26, BK, TU Delft"
 format:
   pdf:
@@ -10,47 +10,9 @@ engine: knitr
 bibliography: references.bib
 ---
 
-# **Urban Digital Memory: A tool to evaluate spatial interventions in public space - a study of Teatré Shahr Square, Tehran**
+# **Urban Digital Memory: A tool to evaluate spatial interventions in public space - a study of Teatré Shahr Square, Tehran.**
 
 *Keywords (draft): Digital Memory, Right to the city, Social Media, Public Engagement, Digital Participation*
-
-# **List of Contents**
-
--   [Introduction]
-
--   [Problem Statement]
-
-    -   [Problem in a sentence]
-
--   [Research Objectives]
-
--   [Research Questions]
-
--   [Scope (Case Study)](#scope-case-study)
-
-    -   [Teatré Shahr (City Theater)](#teatré-shahr-city-theater)
-
-    -   [X and Instagram]
-
--   [Literature Review (Relevance)](#literature-review-relevance)
-
-    -   [Right to the memory as a right to the city]
-
-    -   [Digital era (archival memories)](#digital-era-archival-memories)
-
-    -   [Public Engagement (digital participation)](#public-engagement-digital-participation)
-
--   [Conceptual Framework]
-
-    -   [Framework]
-
--   [Methodology (methods and planning)](#methodology-methods-and-planning)
-
-    -   [Methodological Framework]
-
-    -   [Expected Outcomes]
-
-    -   [Project Timeline]
 
 {{< pagebreak >}}
 
@@ -410,5 +372,7 @@ On the spatial category, the outcomes are followed up on the analysis outputs. T
 The Initial project's timeline is depicted in the following diagram, aligned with Assessments (AKA A). The upcoming one to two months will be focused on the data gathering and analysis to structure the design, the guidelines and detailed interventions.
 
 ![*Figure 18. Project's timeline*](images/Timeframe.jpg){#timeline}
+
+{{< pagebreak >}}
 
 # References
