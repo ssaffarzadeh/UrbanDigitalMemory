@@ -4,7 +4,7 @@ subtitle: "AR4U020 - Urbanism Graduation Studio 2025-26, BK, TU Delft"
 format:
   pdf:
     toc: true
-    number-sections: true
+    number-sections: false
     colorlinks: true
 engine: knitr
 bibliography: references.bib
@@ -108,6 +108,8 @@ Source: Google Earth Engine, 2026.*](images/imageries_blue.png){width="534"}
 
 The City Theater plaza has undergone several transformations over the decades (Fig. 8). Various small- and medium-scale interventions have been implemented within its space, from removing statues to constructing the underground path, pedestrian access, and the metro station entrance. Some of these transformations are traceable through Google Earth's satellite imagery. However, the satellite images have been captured since the 2000s. Yetthey make significant spatial interventions, whether inside the plaza or outside, around the square and the main streets of Tehran.
 
+{{< pagebreak >}}
+
 # Problem Statement
 
 There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently has no right or authority over the space and its memories as common property. Some spaces are manipulated, transformed, or even demolished by governments, driven by economic or political interests[@paccoud2016; @solnit2001]. An example could be the Haussmannian boulevards, which demolished existing urban streets, creating wide, long boulevards lined with luxury retail shops and police to oppress any citizen opposition in the most dominant way possible[@harvey2006]. All of the valuable memories and the space known to the public were lost in the blink of an eye [@solnit2001]. The citizens don't have any agency over the space or its corresponding memory to make decisions, or at least to be clearly informed about the interventions and changes made by the actors on higher ground. Not only to the actors but also to the decision-makers; this applies as well. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond between the space and its dwellings and visitors, shaped by memories, emotions, presence, and activities that have shaped each person's lived experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policymakers, and governments holding the upper hand. Sometimes it's even ignored by them, or it conflicts with their main interests.
@@ -135,7 +137,9 @@ These are some examples of how the public encounters spatial interventions throu
 
 #### Problem in a sentence
 
-Spatial memories are valuable insights into a space that are taken for granted by designers/decision-makers in their interventions, leading to the erasure ofpublic space.
+Spatial memories are valuable insights into a space that are taken for granted by designers/decision-makers in their interventions, leading to the erasure of public space.
+
+{{< pagebreak >}}
 
 # Research Objectives
 
@@ -189,7 +193,7 @@ To clarify how each sub-question will be addressed, the corresponding methodolog
 
 : *Table 2. Sub-questions classification and methodology*
 
-------------------------------------------------------------------------
+{{< pagebreak >}}
 
 # Scope (Case Study) {#scope-case-study}
 
@@ -210,7 +214,7 @@ Multiple social media platforms hold vast amounts of data about digital memories
 
 Based on these reasons, X and Instagram are chosen as the targeted social media platforms to collect their digital memories of City Theater Square and to analyze the textsin tweets and Instagram posts.
 
-------------------------------------------------------------------------
+{{< pagebreak >}}
 
 # Literature Review (Relevance) {#literature-review-relevance}
 
@@ -256,7 +260,7 @@ One positive aspect of having the digital inputs is the large scale of data. Des
 
 Digital participation is also supported by various studies [@martin2025; @haskins2007]. Also, @williamson2020 points out a further step: using social media data on a participatory scale. They suggested the term 'Frontloading', which refers to engaging stakeholders in the early stages of planning by accessingshared emotions and experiences on social media. (Read through #MySydney case)
 
-------------------------------------------------------------------------
+{{< pagebreak >}}
 
 # Conceptual Framework
 
@@ -299,6 +303,8 @@ Users share different experiences of their presence and interactions within the 
 Thanks to @lynch1964's cognitive analysis concepts and methods of the perceived space or city, the spatial features could be tracked and recognized by how the individuals described their situation or position of the space, and their mentions could be classified into Lynch’s cognitive features of nodes, lines, areas, edges, and landmarks. The subsequent workflow would focus on relating different sentiments to their corresponding spatial features in the context. For example, someone could have gotten angry due to the presence of edges in a specific area.
 
 The sentiment classification of each feature would help identify valuable places and how they were designed, with a corresponding design for the public that results in livability and placemaking. Also, spaces that need improvement will be identified. Based on the feelings that address the specific feature, the association between physical space and emotions in memory will result in positive or negative values. This would help with the further steps of the design process and with producing spatial conditions in spaces that hold memories that can be recalled as a public good.
+
+{{< pagebreak >}}
 
 ## Framework
 
