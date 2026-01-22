@@ -72,11 +72,13 @@ Although active participation has never been easy, tools and platforms have made
 
 This new accessibility can be considered as a shortcut to democracy. Sharing news and posts about urban spaces is an ongoing phenomenon that goes beyond a single media post with a caption. It can be seen as acknowledging a new space, or, conversely, as downgrading a new intervention in the city. The background of a city can now be traced through online platforms run by individuals who captured it over time. This doesn't end with the past of urban spaces, but also with how urban spaces change in real time, which would have its own responses. How citizens react to an urban project is evident on social media, and how they perceive the transformed urban space is evident as well. The urban space is not just a physical or mental entity; it's also digital.
 
-This study aims to examine how citizens' lived experiences shared on social media formurban digital memories. The digital memory creates new concepts on top of the right to the city notion, which can be called the right to the memory. **The project focuses on how the right to the memory can serve as a significant tool for validating urban interventions in spatial features through a digital public engagement and participation perspective.**
+This study aims to examine how citizens' lived experiences shared on social media form urban digital memories. Digital memory creates new concepts on top of the notion of the right to the city, which can be called the right to the memory. **The project focuses on how the right to the memory can serve as a significant tool for validating urban interventions in spatial features through a digital public engagement and participation perspective.**
+
+![*The Urban Digital Memory*](images/-space-.png)
 
 ## City Theater of Tehran (Teatré Shahr-e Tehran)
 
-One of the public squares that has always been under intense tension between its users and those who want to change it isCity Theater[^1] Square[^2]. As can be seen in (Fig. x), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality (Fig. 4).
+One of the public squares that has always been the site of intense tension between its users and those who want to change it is City Theater[^1] Square[^2]. As can be seen in (Fig. 4), the square is in the intersection of Vali’asr and Enghelab streets, which are the longest NS / EW armatures of Tehran. The space is located in District 11 of Tehran's municipality.
 
 [^1]: Teatré Shahr in Persian \[Translated by the author\]
 
@@ -108,11 +110,11 @@ The City Theater plaza has undergone several transformations over the decades (F
 
 # Problem Statement
 
-There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently doesn't have any right or authority over the space and its memories as common property. Some spaces are manipulated, transformed, or even demolished by governments, driven by economic or political interests[@paccoud2016; @solnit2001]. An example could be the Haussmannian boulevards, which demolished existing urban streets, creating wide, long boulevards lined with luxury retail shops and police to oppress any citizen opposition in the most dominant way possible[@harvey2006]. All of the valuable memories and the space known to the public were lost in the blink of an eye [@solnit2001]. The citizens don't have any agency over the spaceor its corresponding memory to make decisions, or at least to be clearly informedabout the interventions and changes made by the actors on the higher ground. Not only to the actors but also to the decision-makers; this also applies. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond between the space and its dwellings and visitors, shaped by memories, emotions, presence, and activities that have shaped each person's lived experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policymakers, and governments holding the upper hand in power. Sometimes it's even ignored by them, or it conflicts with their main interests.
+There are urban spaces, specifically, public spaces that hold a large pool of collective and individual memories within them, either tragic, joyful, or revolutionary [@solnit2009]. City Theater's Square[^3] is not an exception. However, the public apparently has no right or authority over the space and its memories as common property. Some spaces are manipulated, transformed, or even demolished by governments, driven by economic or political interests[@paccoud2016; @solnit2001]. An example could be the Haussmannian boulevards, which demolished existing urban streets, creating wide, long boulevards lined with luxury retail shops and police to oppress any citizen opposition in the most dominant way possible[@harvey2006]. All of the valuable memories and the space known to the public were lost in the blink of an eye [@solnit2001]. The citizens don't have any agency over the space or its corresponding memory to make decisions, or at least to be clearly informed about the interventions and changes made by the actors on higher ground. Not only to the actors but also to the decision-makers; this applies as well. Right to the memory is a metaphor of collective/individual rights over space tied to memories that emerge within it. This represents a bond between the space and its dwellings and visitors, shaped by memories, emotions, presence, and activities that have shaped each person's lived experience in that space. Nevertheless, this connection is taken for granted by the actors, designers, policymakers, and governments holding the upper hand. Sometimes it's even ignored by them, or it conflicts with their main interests.
 
 [^3]: Teatré Shahr in Persian \[translated by the author\]
 
-The memory is a valuable lived experience that holds evidence of a physical space, conceived and perceived by each individual [@shaw2017]. The cognitive perception of space, recorded on an open platform that can be shared with others, has been discussed in the literature. As @solnit2001 aesthetically showcases the typicality in urban daily life that may be only engraved in literature, it can emerge in the digital space as well. Social media can store individuals' most typical daily routines, written by them, like a diary.
+The memory is a valuable lived experience that holds evidence of a physical space, conceived and perceived by each individual [@shaw2017]. The cognitive perception of space, recorded on an open platform for sharing with others, has been discussed in the literature. As @solnit2001 aesthetically showcases the typicality in urban daily life that may be only engraved in literature, it can emerge in the digital space as well. Social media can store individuals' most typical daily routines, written by them, like a diary.
 
 ![*Figure 9. Fence placement around City Theater for reconstruction\
 Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg){width="454"}
@@ -120,7 +122,7 @@ Source: Wikimedia, 2026.*](images/Théâtre_municipal_de_Téhéran_(1)_2024.jpg)
 ![*Figure 10. Demolishing the central space of City Theater's plaza for reconstruction.\
 Source: Didhonar, 2026.*](images/didhonar_2026-01.jfif){width="461"}
 
-The spatial transformation of City Theater's plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited pedestrian access to the square (Fig. 9). A redevelopment project began, with the objective of redesigningCity Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig. 10). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
+The spatial transformation of City Theater's plaza is ongoing. In the past two years, City Theater faced one of the most drastic transformations since its establishment. It was when a long fence divided the adjacent pathways in the southern street and limited pedestrian access to the square (Fig. 9). A redevelopment project began to redesign City Theater's plaza. As a matter of fact, no citizen was aware of this project until its design proposal was shared with the public. The design proposal depicted a completely new spatial layout for the plaza. And, as part of the reconstruction, a part of the central space was demolished (Fig. 10). As soon as the public found out about the intervention, they reacted immediately by writing Tweets, consisting of dissatisfied or even angry opinions mentioning how precious the fountain and the plaza were to them, and that was easily transformed without even asking about it.
 
 ![*Figure 11. People sharing their opinions on X (Formerly Twitter).\
 Sources: Forouzandeh1, 2025; Ehsanrostamipour, 2023 & 2024; Danielalefsefr, 2025; AzadehMokhtari, 2025.*](images/tweets.png)
@@ -326,17 +328,17 @@ The diagram depicts the three main concepts of the study, social media, digital 
 
 Having these classes, the emotions can be categorized as negative or positive feelings.
 
-+---------------------+----------------------+
-| Emotion Categories  | Value Classification |
-+:===================:+:====================:+
-| Anger               | Negative             |
-+---------------------+----------------------+
-| Sadness             | Negative             |
-+---------------------+----------------------+
-| Comfort             | Positive             |
-+---------------------+----------------------+
-| Happiness           | Positive             |
-+---------------------+----------------------+
++--------------------+----------------------+
+| Emotion Categories | Value Classification |
++:==================:+:====================:+
+| Anger              | Negative             |
++--------------------+----------------------+
+| Sadness            | Negative             |
++--------------------+----------------------+
+| Comfort            | Positive             |
++--------------------+----------------------+
+| Happiness          | Positive             |
++--------------------+----------------------+
 
 : *Table 3. Categories and Classifications of Emotions*
 
@@ -397,7 +399,9 @@ On the spatial category, the outcomes are followed up on the analysis outputs. T
 
 {{< pagebreak >}}
 
-## Project time frame
+## Project Timeline
+
+The Initial project's timeline is depicted in the following diagram, aligned with Assessments (AKA A). The upcoming one to two months will be focused on the data gathering and analysis to structure the design, the guidelines and detailed interventions.
 
 ![*Figure 18. Project's timeline*](images/Timeframe.jpg){#timeline}
 
