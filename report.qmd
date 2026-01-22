@@ -30,7 +30,7 @@ bibliography: references.bib
 
     -   [Teatré Shahr (City Theater)](#teatré-shahr-city-theater)
 
-    -   \[X and Instagram\]
+    -   [X and Instagram]
 
 -   [Literature Review (Relevance)](#literature-review-relevance)
 
@@ -50,7 +50,7 @@ bibliography: references.bib
 
     -   [Expected Outcomes]
 
-    -   \[Project Timeframe\]
+    -   [Project Timeline]
 
 {{< pagebreak >}}
 
