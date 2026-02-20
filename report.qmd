@@ -1,11 +1,11 @@
 ---
 title: "Graduation Report Draft S. Saffarzadeh - 6227007"
 subtitle: "AR4U020 - Urbanism Graduation Studio 2025-26, BK, TU Delft"
-format:
-  pdf:
-    toc: true
-    number-sections: false
-    colorlinks: true
+format: docx
+  #pdf:
+    #toc: true
+    #number-sections: false
+    #colorlinks: true
 engine: knitr
 bibliography: references.bib
 ---
