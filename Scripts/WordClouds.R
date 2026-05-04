@@ -14,7 +14,7 @@ df_eng <- read.csv("output/Py_results/plot_topics_english.csv")
 
 # 3. Filter and Prepare
 spatial_plot_data <- df_eng |>
-  filter(explicity == "Explicit")|>
+  filter(explicitness == "Explicit")|>
   mutate(eng_name = str_wrap(eng_name, width = 30)) # Wrap long names for better fit
 
 
@@ -22,7 +22,7 @@ spatial_plot_data <- df_eng |>
 p_spatial <- ggplot(spatial_plot_data, aes(label = English_Word, size = Score, color = factor(Topic))) +
   geom_text_wordcloud_area(rm_outside = FALSE, shape = "circle") +
   scale_size_area(max_size = 25) + 
-  facet_wrap(~eng_name, ncol = 5) + 
+  facet_wrap(~eng_name, ncol = 4) + 
   theme_minimal() +
   theme(
     strip.text = element_text(size = 10, face = "bold", color = "darkslategrey"),

@@ -1,155 +1,4 @@
-# synth <- read.csv("data/Newest_tehran_city_theater_square_dataset.csv", stringsAsFactors = FALSE)
 
-# Define the emoji-to-text map
-# emoji_map <- c(
-#   "😊" = "happy",
-#   "😢" = "sad",
-#   "😠" = "angry",
-#   "😡" = "super angry",
-#   "😍" = "love",
-#   "🌿" = "nature",
-#   "😂" = "laughing",
-#   "😞" = "unhappy",
-#   "😎" = "cool",
-#   "😨" = "scared",
-#   "😤" = "frustrated",
-#   "💔" = "sad",      # Cracked heart emoji for sadness
-#   "❤️" = "love",    # Normal heart emoji for love
-#   "💖" = "love",     # Heart with sparks emoji for love
-#   "😐" = "neutral",
-#   "😕" = "confused",
-#   "😌" = "content",
-#   "😔" = "sorrowful",
-#   "😏" = "smirking",
-#   "😒" = "unamused",
-#   "😣" = "worried",
-#   "😥" = "disappointed",
-#   "😇" = "innocent",
-#   "😈" = "devilish",
-#   "🤔" = "uncertain",
-#   "🙄" = "awkward"
-# )
-
-
-
-
-# # Local emoji dictionary
-# emoji_map <- c(
-#   # Happy
-#   "😊" = "happy", "😃" = "happy", "😄" = "happy", "😁" = "happy", "😆" = "happy",
-# 
-#   # Sad
-#   "😢" = "sad", "😭" = "sad", "😞" = "sad", "😟" = "sad", "😥" = "sad", "😔" = "sad",
-#   "😣" = "sad", "😖" = "sad", "💔" = "sad",
-# 
-#   # Angry
-#   "😠" = "angry", "😡" = "super angry",
-# 
-#   # Love
-#   "😍" = "love", "❤️" = "love", "💖" = "love", "💘" = "love", "💝" = "love",
-#   "💗" = "love", "💓" = "love",
-# 
-#   # Nature
-#   "🌿" = "nature", "🌳" = "nature", "🌲" = "nature", "🌴" = "nature",
-#   "🌵" = "nature", "🍃" = "nature", "🌷" = "nature", "🌸" = "nature",
-#   "🌺" = "nature", "🌼" = "nature", "🌻" = "nature",
-# 
-#   # Laughing
-#   "😂" = "laughing",
-# 
-#   # Neutral
-#   "😐" = "neutral", "😑" = "neutral",
-# 
-#   # Confused
-#   "😕" = "confused", "🤔" = "confused",
-# 
-#   # Cool
-#   "😎" = "cool",
-# 
-#   # Scared
-#   "😨" = "scared", "😰" = "scared",
-# 
-#   # Frustrated
-#   "😤" = "frustrated",
-# 
-#   # Content
-#   "😌" = "content",
-# 
-#   # Sorrowful
-#   "😢" = "sorrowful",
-# 
-#   # Smirking
-#   "😏" = "smirking",
-# 
-#   # Unamused
-#   "😒" = "unamused",
-# 
-#   # Disappointed
-#   "😞" = "disappointed",
-# 
-#   # Innocent
-#   "😇" = "innocent",
-# 
-#   # Devilish
-#   "😈" = "devilish",
-# 
-#   # Uncertain
-#   "🤨" = "uncertain",
-# 
-#   # Awkward
-#   "🙄" = "awkward",
-# 
-#   # Excited
-#   "😃" = "excited",
-# 
-#   # Surprised
-#   "😲" = "surprised", "😮" = "surprised",
-# 
-#   # Tired
-#   "😪" = "tired", "🥱" = "tired",
-# 
-#   # Sick
-#   "🤒" = "sick", "🤢" = "disgusted",
-# 
-#   # Celebrate
-#   "🎉" = "celebrate",
-# 
-#   # Party
-#   "🎊" = "party",
-# 
-#   # Fire
-#   "🔥" = "fire",
-# 
-#   # Star
-#   "⭐" = "star", "🌟" = "star",
-# 
-#   # Weather
-#   "☀️" = "sunny", "🌧️" = "rainy", "❄️" = "snowy", "🌈" = "rainbow",
-# 
-#   # Travel
-#   "✈️" = "travel", "🌍" = "travel",
-# 
-#   # Food
-#   "🍕" = "food", "🍔" = "food", "🍟" = "food", "🍝" = "food",
-# 
-#   # Drink
-#   "☕" = "coffee", "🍷" = "wine", "🍹" = "cocktail",
-# 
-#   # Animals
-#   "🐶" = "dog", "🐱" = "cat", "🐦" = "bird", "🐟" = "fish"
-# )
-
-
-# # Function to replace emojis with text
-# replace_emojis <- function(text) {
-#   for (emoji in names(emoji_map)) {
-#     text <- stringr::str_replace_all(text, fixed(emoji), emoji_map[[emoji]])
-#   }
-#   return(text)
-# }
-# 
-# # Apply emoji replacement
-# synth$text <- sapply(synth$text, replace_emojis)
 
 oldspatialtopic_names <- c( "0" = "General Street Life & Nostalgia",
                             "1" = "Neighborhood Hubs & Squares (Nazi Abad)",
@@ -214,3 +63,37 @@ alltopic_after24 <- tweets|>
   view()
 
 
+
+### First edition of data ready for visualization
+
+# 1. Prepare the data: Grouping by sentiment and topic
+plot_data_ct24 <- spatial_tweets |>
+  filter(explicitness == "Explicit")|>
+  filter(type == "ct" & timeline == "Before_24")|>
+  group_by(sentiment_label, eng_name) |>
+  summarise(topic_count = n(), .groups = "drop") |>
+  mutate(topic_pct = (topic_count / sum(topic_count)) * 100)|>
+  # Reordering topics within each sentiment block for better visual flow
+  mutate(eng_name = reorder(eng_name, topic_count, sum),
+         label_text = paste0(round(topic_pct, 1), "% (",(topic_count),")"))
+
+
+# 2. Create the plot
+ggplot(plot_data_ct24, aes(x = eng_name, y = topic_count, fill = sentiment_label)) +
+  geom_col(show.legend = FALSE) +
+  # The "Call-outs": Adding counts above the bars
+  geom_text(aes(label = label_text), 
+            hjust = -0.2, # Push text slightly to the right of the bar
+            size = 3) +
+  # Create the three "Blocks" based on sentiment
+  facet_wrap(~sentiment_label, scales = "free_y") + 
+  # Flip coordinates because topic names are long
+  coord_flip() +
+  # Aesthetics and Labels
+  theme_minimal() +
+  labs(title = "Spatial Topic Frequency by Sentiment",
+       subtitle = "Tehran 2024 - 2026",
+       x = "Spatial Topics",
+       y = "Number of Tweets") +
+  # Adjusting the Y-axis (which is now the top axis) to give room for labels
+  scale_y_continuous(expand = expansion(mult = c(0, .65)))
