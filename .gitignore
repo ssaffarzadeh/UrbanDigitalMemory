@@ -1,6 +1,15 @@
 .Rproj.user
 .Rhistory
 .RData
+farsi.RData
+highlight_visuals.RData
+over-under.RData
+translation_main.RData
+visualisation_merged_data.RData
+wordcloud.RData
+all_visuals.RData
+cleaningTweets_keywords.RData
+correlation.RData
 .Ruserdata
 .qmd
 .html
