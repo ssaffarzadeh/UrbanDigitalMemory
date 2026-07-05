@@ -147,8 +147,8 @@ ggplot(plot_data_ct24, aes(x = eng_name, y = topic_count,
                      guide = "none") +
   geom_text(aes(label = label_text), 
             hjust = -0.1, 
-            size = 3.5,
-            color = "white") + 
+            size = 4.0,
+            color = "black") + 
   facet_wrap(~sentiment_label, scales = "fixed") + 
   coord_flip() +
   theme_minimal() +
@@ -163,23 +163,23 @@ ggplot(plot_data_ct24, aes(x = eng_name, y = topic_count,
        x = "Spatial Topics",
        y = "Number of Tweets (Absolute Count)") +
   theme(
-    strip.text = element_text(size = 9, face = "bold", color = "white"),
+    strip.text = element_text(size = 11, face = "bold", color = "black"),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
-    panel.grid.minor  = element_line(color = "gray40"),
+    plot.background  = element_rect(fill = "white"),
+    panel.grid.major  = element_line(color = "gray80"),   
+    panel.grid.minor  = element_line(color = "gray90"),
     ## axis
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 10, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
-    axis.title = element_text(color = "white", face = "bold"),
+    axis.text = element_text(color = "black"),
+    axis.text.y = element_text(size = 14, hjust = 1, color = "black"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "black"),
+    axis.title = element_text(size = 12, color = "black", face = "bold"),
     ## title and subtitle
-    plot.title = element_text(color = "white"),
-    plot.subtitle = element_text(color = "white")
+    plot.title = element_text(color = "black"),
+    plot.subtitle = element_text(color = "black")
   ) +
   # Expand the horizontal axis to prevent the percentage labels from being cut off
-  scale_y_continuous(expand = expansion(mult = c(0, 0.2)))
+  scale_y_continuous(expand = expansion(mult = c(0, 0.25)))
 
 
 
@@ -217,8 +217,8 @@ ggplot(plot_data_ct26, aes(x = eng_name, y = topic_count,
   show.legend = FALSE) +
   geom_text(aes(label = label_text), 
             hjust = -0.1, 
-            size = 3.5,
-            color = "white") + 
+            size = 4.0,
+            color = "black") + 
   facet_wrap(~sentiment_label, scales = "fixed") + 
   coord_flip() +
   theme_minimal() +
@@ -228,20 +228,20 @@ ggplot(plot_data_ct26, aes(x = eng_name, y = topic_count,
     "positive" = "#5cb85c"
   )) + 
   theme(
-    strip.text = element_text(size = 9, face = "bold", color = "white"),
+    strip.text = element_text(size = 11, face = "bold", color = "black"),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
-    panel.grid.minor  = element_line(color = "gray40"),
+    plot.background  = element_rect(fill = "white"),
+    panel.grid.major  = element_line(color = "gray80"),   
+    panel.grid.minor  = element_line(color = "gray90"),
     ## axis
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 10, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
-    axis.title = element_text(color = "white", face = "bold"),
+    axis.text = element_text(color = "black"),
+    axis.text.y = element_text(size = 14, hjust = 1, color = "black"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "black"),
+    axis.title = element_text(size = 12, color = "black", face = "bold"),
     ## title and subtitle
-    plot.title = element_text(color = "white"),
-    plot.subtitle = element_text(color = "white")
+    plot.title = element_text(color = "black"),
+    plot.subtitle = element_text(color = "black")
   ) +
   labs(title = "Localised Spatial Topic Frequency by Sentiments for City Theater 2024 - 2026",
        subtitle = "Tweet distributions per topic | Tweet Count: 316 | Total: 582",
@@ -249,7 +249,7 @@ ggplot(plot_data_ct26, aes(x = eng_name, y = topic_count,
        x = "Spatial Topics",
        y = "Number of Tweets (Absolute Count)") +
   # Expand the horizontal axis to prevent the percentage labels from being cut off
-  scale_y_continuous(expand = expansion(mult = c(0, 0.2)))
+  scale_y_continuous(expand = expansion(mult = c(0, 0.3)))
 
 
 
@@ -630,7 +630,7 @@ ggplot(plot_data_timeline_before, aes(x = eng_name, y = topic_count,
                                        "Valiasr / Tajrish Tree Preservation & Urban Ecology",
                                        "Metro Infrastructure & Tajrish Station"
   )), show.legend = FALSE) +
-  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "white") +
+  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "black") +
   # Split by Scale (Type) and Sentiment
   facet_grid(~sentiment_label, scales = "fixed") +
   scale_alpha_manual(values = c("TRUE" = 1.0, "FALSE" = 0.25), guide = "none") +
@@ -642,22 +642,22 @@ ggplot(plot_data_timeline_before, aes(x = eng_name, y = topic_count,
        ## nrow before: 870 // nrows after: 924
        x = "Spatial Topics", 
        y = "Tweet Count") +
-  theme(strip.text = element_text(face = "bold", size = 10, color = "white"),
+  theme(strip.text = element_text(face = "bold", size = 10, color = "black"),
               strip.background = element_blank(),
               panel.background = element_rect(fill = NA, color = NA),
-              plot.background  = element_rect(fill = "gray20"),
-              panel.grid.major  = element_line(color = "gray40"),
-              panel.grid.minor = element_line(color = "gray30"),
+              plot.background  = element_rect(fill = "white"),
+              panel.grid.major  = element_line(color = "gray80"),
+              panel.grid.minor = element_line(color = "gray90"),
               ## axis
-              axis.text = element_text(color = "white"),
-              axis.text.y = element_text(size = 11, hjust = 1, color = "white"),
-              axis.text.x = element_text(hjust = 0.9, color = "white"),
-              axis.title = element_text(color = "white", face = "bold"),
+              axis.text = element_text(color = "black"),
+              axis.text.y = element_text(size = 12, hjust = 1, color = "black"),
+              axis.text.x = element_text(hjust = 0.9, color = "black"),
+              axis.title = element_text(color = "black", face = "bold"),
               ## title and subtitle
-              plot.title = element_text(color = "white"),
-              plot.subtitle = element_text(color = "white")
+              plot.title = element_text(color = "black"),
+              plot.subtitle = element_text(color = "black")
         ) +
-  scale_y_continuous(expand = expansion(mult = c(0, .2)))
+  scale_y_continuous(expand = expansion(mult = c(0, .3)))
 
 
 # Combined Scales after24
@@ -670,7 +670,7 @@ ggplot(plot_data_timeline_after, aes(x = eng_name, y = topic_count, fill = senti
                                        "Valiasr / Tajrish Tree Preservation & Urban Ecology",
                                        "Metro Infrastructure & Tajrish Station")),
            show.legend = FALSE) +
-  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "white") +
+  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "black") +
   # Split by Scale (Type) and Sentiment
   facet_grid(~sentiment_label, scales = "fixed") +
   scale_alpha_manual(values = c("TRUE" = 1.0, "FALSE" = 0.25), guide = "none") +
@@ -681,22 +681,22 @@ ggplot(plot_data_timeline_after, aes(x = eng_name, y = topic_count, fill = senti
        ## nrow before: 870 // nrows after: 924
        x = "Spatial Topics", 
        y = "Tweet Count") +
-  theme(strip.text = element_text(face = "bold", size = 10, color = "white"),
+  theme(strip.text = element_text(face = "bold", size = 10, color = "black"),
         strip.background = element_blank(),
         panel.background = element_rect(fill = NA, color = NA),
-        plot.background  = element_rect(fill = "gray20"),
-        panel.grid.major  = element_line(color = "gray40"),
-        panel.grid.minor = element_line(color = "gray30"),
+        plot.background  = element_rect(fill = "white"),
+        panel.grid.major  = element_line(color = "gray80"),
+        panel.grid.minor = element_line(color = "gray90"),
         ## axis
-        axis.text = element_text(color = "white"),
-        axis.text.y = element_text(size = 11, hjust = 1, color = "white"),
-        axis.text.x = element_text(hjust = 0.9, color = "white"),
-        axis.title = element_text(color = "white", face = "bold"),
+        axis.text = element_text(color = "black"),
+        axis.text.y = element_text(size = 12, hjust = 1, color = "black"),
+        axis.text.x = element_text(hjust = 0.9, color = "black"),
+        axis.title = element_text(color = "black", face = "bold"),
         ## title and subtitle
-        plot.title = element_text(color = "white"),
-        plot.subtitle = element_text(color = "white")
+        plot.title = element_text(color = "black"),
+        plot.subtitle = element_text(color = "black")
         ) +
-  scale_y_continuous(expand = expansion(mult = c(0, .3)))
+  scale_y_continuous(expand = expansion(mult = c(0, .35)))
 
 # 1. Prepare the master data (No timeline filter)
 plot_data_all <- spatial_tweets |>
@@ -737,6 +737,7 @@ topic_distribution <- spatial_tweets|>
   ungroup() |>
   mutate(eng_name = reorder(eng_name, topic_count, sum))
 
+
 ## General Topic Distribution
 ggplot(topic_distribution, aes(x = eng_name, y = topic_count)) +
   geom_col(show.legend = FALSE, fill = "#5556a5") +
@@ -745,7 +746,7 @@ ggplot(topic_distribution, aes(x = eng_name, y = topic_count)) +
             hjust = -0.15, 
             size = 4,
             # angle = 45,
-            color = "white",
+            color = "black",
             fontface = "italic") +
   # facet_grid(type ~ timeline, scales = "free_y", space = "free_y") + 
   coord_flip() +
@@ -762,20 +763,20 @@ ggplot(topic_distribution, aes(x = eng_name, y = topic_count)) +
   theme(
     # strip.background = element_rect(fill = "whitesmoke", color = "gray80"),
     # strip.text = element_text(size = 9, face = "bold"),
-    panel.grid.minor = element_blank(),
     # strip.background = element_rect(fill = "whitesmoke", color = "gray80"),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray40"),   
+    plot.background  = element_rect(fill = NA), #gray20 for dark
+    panel.grid.major  = element_line(color = "gray80"),  #gray40 for dark 
+    panel.grid.minor = element_line(color = "gray90"),
     ## axis
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 10, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
-    axis.title = element_text(color = "white", face = "bold"),
+    axis.text = element_text(color = "black"),
+    axis.text.y = element_text(size = 11, hjust = 1, color = "black"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "black"),
+    axis.title = element_text(color = "black", face = "bold"),
     ## title and subtitle
-    plot.title = element_text(color = "white"),
-    plot.subtitle = element_text(color = "white")
+    plot.title = element_text(color = "black"),
+    plot.subtitle = element_text(color = "black")
   )
 
 
@@ -801,9 +802,9 @@ ggplot(topic_distribution_explicit, aes(x = eng_name, y = topic_count)) +
   # Adding the labels as "call-outs"
   geom_text(aes(label = label_text), 
             hjust = -0.15, 
-            size = 3.5,
+            size = 4.0,
             # angle = 45,
-            color = "white",
+            color = "white", #white #black for light theme
             fontface = "italic") +
   coord_flip() +
   theme_minimal() +
@@ -818,13 +819,13 @@ ggplot(topic_distribution_explicit, aes(x = eng_name, y = topic_count)) +
     strip.text = element_text(size = 12, face = "bold"),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray40"),   
-    panel.grid.minor  = element_line(color = "gray50"),
+    plot.background  = element_rect(fill = "gray20"), #white for light theme, # gray20 for dark
+    panel.grid.major  = element_line(color = "gray40"),  #gray40 for dark, gray80 for light
+    panel.grid.minor  = element_line(color = "gray50"), #gray 50 for dark, gray90 for light
     ## axis
     axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 10, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
+    axis.text.y = element_text(size = 13, hjust = 1, color = "white"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "white"),
     axis.title = element_text(color = "white", face = "bold"),
     ## title and subtitle
     plot.title = element_text(color = "white"),
@@ -855,7 +856,7 @@ ggplot(topic_distribution_explicit_sentiment, aes(x = eng_name, y = topic_count,
   # Adding the labels as "call-outs"
   geom_text(aes(label = label_text), 
             hjust = -0.15, 
-            size = 2.8,
+            size = 3.0,
             # angle = 45,
             color = "white",
             fontface = "italic") +
@@ -882,52 +883,13 @@ ggplot(topic_distribution_explicit_sentiment, aes(x = eng_name, y = topic_count,
     panel.grid.minor  = element_line(color = "gray60"),
     ## axis
     axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 8, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
+    axis.text.y = element_text(size = 13, hjust = 1, color = "white"),
+    axis.text.x = element_text(size = 11,hjust = 0.9, color = "white"),
     axis.title = element_text(color = "white", face = "bold"),
     ## title and subtitle
     plot.title = element_text(color = "white"),
     plot.subtitle = element_text(color = "white")
     )
-
-
-## Topic Distribution per sentiments with fixed blocks dark themed
-ggplot(topic_distribution_explicit_sentiment, 
-       aes(x = eng_name, y = topic_count, fill = sentiment_label)) +
-  # 1. THE FIX: position = "fill" makes all bars the same length (0 to 1)
-  geom_col(position = "fill", show.legend = TRUE) +
-  # 2. Adjust text to show proportions inside the blocks
-  # Note: position_fill(vjust = 0.5) puts the text in the middle of each color block
-  geom_text(aes(label = label_text), 
-            position = position_fill(vjust = 0.5), 
-            size = 2.8,
-            color = "white", 
-            fontface = "bold") +
-  coord_flip() +
-  # Distinct Urban Sentiment Palette
-  scale_fill_manual(values = c("negative" = "#d9534f", 
-                               "neutral" = "#999999",
-                               "positive" = "#5cb85c"),
-                    name = "Sentiment") +
-  # 3. Format Y axis as percentages (0% to 100%)
-  scale_y_continuous(labels = scales::percent,
-                     expand = expansion(mult = c(0, 0.05))) +
-  theme(
-    plot.background = element_rect(fill = "gray20", color = NA),
-    panel.background = element_rect(fill = NA, color = NA),
-    panel.grid.major = element_line(color = "gray40"),   
-    panel.grid.minor = element_line(color = "gray50"),
-    text = element_text(color = "white"),
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 10),
-    legend.position = "bottom",
-    legend.background = element_rect(fill = "gray20", color = NA),
-    legend.text = element_text(color = "white")
-  ) +
-  labs(title = "Tehran Localised Spatial Topic-Sentiment Distribution",
-       subtitle = "Tweet Frequency per Topic & Sentiments | Total Tweets: 1,794",
-       x = "Spatial Topics",
-       y = "Tweet Volume")
 
 
 ## Topic Distribution per sentiments with fixed blocks light themed
@@ -939,8 +901,8 @@ ggplot(topic_distribution_explicit_sentiment,
   # Note: position_fill(vjust = 0.5) puts the text in the middle of each color block
   geom_text(aes(label = label_text), 
             position = position_fill(vjust = 0.5), 
-            size = 2.8,
-            color = "black", 
+            size = 4.0,
+            color = "white", #white for dark
             fontface = "bold") +
   coord_flip() +
   # Distinct Urban Sentiment Palette
@@ -952,23 +914,23 @@ ggplot(topic_distribution_explicit_sentiment,
   scale_y_continuous(labels = scales::percent,
                      expand = expansion(mult = c(0, 0.05))) +
   theme(
-    plot.background = element_rect(fill = "white", color = NA),
+    plot.background = element_rect(fill = "gray20", color = NA), #gray20 for dark
     panel.background = element_rect(fill = NA, color = NA),
-    panel.grid.major = element_line(color = "gray50"),   
-    panel.grid.minor = element_line(color = "gray60"),
-    text = element_text(color = "black"),
-    axis.text = element_text(color = "black"),
-    axis.text.y = element_text(size = 10),
+    panel.grid.major = element_line(color = "gray40"), #gray40 for dark, gray80 for light
+    panel.grid.minor = element_line(color = "gray50"), #gray50 for dark, gray90 for light
+    text = element_text(color = "white"),
+    axis.text = element_text(color = "white"),
+    axis.text.y = element_text(size = 13),
+    axis.text.x = element_text(size = 11),
+    axis.title = element_text(face = "bold"),
     legend.position = "bottom",
-    legend.background = element_rect(fill = NA, color = NA),
-    legend.text = element_text(color = "black")
+    legend.background = element_rect(fill = NA, color = NA), #gray20 for dark
+    legend.text = element_text(size = 11, color = "white", face = "bold")
   ) +
   labs(title = "Tehran Localised Spatial Topic-Sentiment Distribution",
        subtitle = "Tweet Frequency per Topic & Sentiments | Total Tweets: 1,794",
        x = "Spatial Topics",
        y = "Tweet Volume")
-
-
 
 
 ## Integrated Matrix of scale
@@ -1027,13 +989,15 @@ plot_data_combined_scales24 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(),
             avg_score = mean(sentiment_score),
+            sentiment_total = sum(sentiment_score),
             .groups = "drop") |>
-  complete(sentiment_label, eng_name, fill = list(topic_count = 0, avg_score = 0)) |>
+  complete(sentiment_label, eng_name, 
+           fill = list(sentiment_total = 0, topic_count = 0, avg_score = 0)) |>
   group_by(eng_name) |> 
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
-    label_text = paste0(round(topic_pct, 1), "% (", round(avg_score, 2),")")
+    label_text = paste0(round(sentiment_total, 1), " (", round(avg_score, 2),")")
   ) |>
   ungroup() |>
   mutate(eng_name = reorder(eng_name, topic_total, sum))
@@ -1043,13 +1007,15 @@ plot_data_combined_scales26 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(),
             avg_score = mean(sentiment_score),
+            sentiment_total = sum(sentiment_score),
             .groups = "drop") |>
-  complete(sentiment_label, eng_name, fill = list(topic_count = 0, avg_score = 0)) |>
+  complete(sentiment_label, eng_name,
+           fill = list(sentiment_total = 0, topic_count = 0, avg_score = 0)) |>
   group_by(eng_name) |> 
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
-    label_text = paste0(round(topic_pct, 1), "% (", round(avg_score, 2),")")
+    label_text = paste0(round(sentiment_total, 1), " (", round(avg_score, 2),")")
   ) |>
   ungroup() |>
   mutate(eng_name = reorder(eng_name, topic_total, sum))
@@ -1068,7 +1034,7 @@ ggplot(plot_data_combined_scales24, aes(x = eng_name, y = topic_count,
     "Metro Infrastructure & Tajrish Station")),
     show.legend = FALSE) +
   scale_alpha_manual(values = c("TRUE" = 1, "FALSE" = 0.25), guide = "none") +
-  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "white") +
+  geom_text(aes(label = label_text), hjust = -0.2, size = 4, color = "black") +
   # Split by Scale (Type) and Sentiment
   facet_grid(~sentiment_label, scales = "fixed") + 
   coord_flip() +
@@ -1076,7 +1042,8 @@ ggplot(plot_data_combined_scales24, aes(x = eng_name, y = topic_count,
                                "neutral" = "#999999",
                                "positive" = "#5cb85c")) +
   labs(title = "Overal Localised Spatial Tweets: Before 2024",
-       subtitle = "Tweet Frequency (Mean Sentiment Score) | Total Tweets: 870",
+       subtitle = "Total Sentiment Score (Mean Sentiment Score) | Total Tweets: 870",
+       # Tweet Frequency
        x = "Spatial Topics", 
        y = "Tweet Count") +
   theme(
@@ -1084,19 +1051,19 @@ ggplot(plot_data_combined_scales24, aes(x = eng_name, y = topic_count,
     strip.background = element_blank(),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
-    panel.grid.minor  = element_line(color = "gray40"),
+    plot.background  = element_rect(fill = "white"),#gray20 for dark
+    panel.grid.major  = element_line(color = "gray80"), #gray40 for dark #gray80 for light 
+    panel.grid.minor  = element_line(color = "gray90"), #gray50 for dark #gray90 for light
     ## axis
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 11, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
-    axis.title = element_text(color = "white", face = "bold"),
+    axis.text = element_text(color = "black"),
+    axis.text.y = element_text(size = 13, hjust = 1, color = "black"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "black"),
+    axis.title = element_text(size = 14, color = "black", face = "bold"),
     ## title and subtitle
-    plot.title = element_text(color = "white"),
-    plot.subtitle = element_text(color = "white")
+    plot.title = element_text(color = "black"),
+    plot.subtitle = element_text(color = "black")
     ) +
-  scale_y_continuous(expand = expansion(mult = c(0, .25)))
+  scale_y_continuous(expand = expansion(mult = c(0, .33)))
 
 
 # Overall after mean score
@@ -1111,7 +1078,7 @@ ggplot(plot_data_combined_scales26, aes(x = eng_name, y = topic_count,
     "Valiasr / Tajrish Tree Preservation & Urban Ecology",
     "Metro Infrastructure & Tajrish Station")),
     show.legend = FALSE) +
-  geom_text(aes(label = label_text), hjust = -0.2, size = 3.5, color = "white") +
+  geom_text(aes(label = label_text), hjust = -0.2, size = 4, color = "black") +
   # Split by Scale (Type) and Sentiment
   facet_grid(~sentiment_label, scales = "fixed") +
   scale_alpha_manual(values = c("TRUE" = 1, "FALSE" = 0.25), guide = "none") +
@@ -1121,27 +1088,28 @@ ggplot(plot_data_combined_scales26, aes(x = eng_name, y = topic_count,
                                "positive" = "#5cb85c")) +
   theme_minimal() +
   labs(title = "Overal Localised Spatial Tweets: After 2024",
-       subtitle = "Tweet Frequency (Mean Sentiment Score) | Total Tweets: 924",
+       subtitle = "Total Sentiment Score (Mean Sentiment Score) | Total Tweets: 924",
+       # Tweet Frequency
        x = "Spatial Topics", 
        y = "Tweet Count") +
   theme(
-    strip.text = element_text(size = 11, face = "bold", color = "white"),
+    strip.text = element_text(size = 11, face = "bold", color = "black"),
     strip.background = element_blank(),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
-    plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
-    panel.grid.minor  = element_line(color = "gray40"),
+    plot.background  = element_rect(fill = "white"),
+    panel.grid.major  = element_line(color = "gray80"),   
+    panel.grid.minor  = element_line(color = "gray90"),
     ## axis
-    axis.text = element_text(color = "white"),
-    axis.text.y = element_text(size = 11, hjust = 1, color = "white"),
-    axis.text.x = element_text(hjust = 0.9, color = "white"),
-    axis.title = element_text(color = "white", face = "bold"),
+    axis.text = element_text(color = "black"),
+    axis.text.y = element_text(size = 13, hjust = 1, color = "black"),
+    axis.text.x = element_text(size = 11, hjust = 0.9, color = "black"),
+    axis.title = element_text(size = 14, color = "black", face = "bold"),
     ## title and subtitle
-    plot.title = element_text(color = "white"),
-    plot.subtitle = element_text(color = "white")
+    plot.title = element_text(color = "black"),
+    plot.subtitle = element_text(color = "black")
   ) +
-  scale_y_continuous(expand = expansion(mult = c(0, .2)))
+  scale_y_continuous(expand = expansion(mult = c(0, .33)))
 
 
 
@@ -1221,22 +1189,22 @@ before_topics <- spatial_tweets |>
 after_topics <- spatial_tweets|>
   filter(explicity == "Explicit")|>
   filter(timeline == "After_24")
-
-# Including percentage for before 24
-before_stats <- before_topics |>
-  group_by(eng_name, type) |>
-  summarise(count = n(), .groups = "drop") |>
-  mutate(pct_of_period = (count / nrow(before_topics)) * 100) |>
-  arrange(desc(pct_of_period))
-
-after_stats <- after_topics|>
-  group_by(sentiment_label, eng_name, type)|>
-  summarise(count = n(), .groups = "drop")|>
-  mutate(pct_of_period = (count / nrow(after_topics)) * 100)|>
-  arrange(desc(pct_of_period))
-
-print(before_stats)
-print(after_stats)
+# 
+# # Including percentage for before 24
+# before_stats <- before_topics |>
+#   group_by(eng_name, type) |>
+#   summarise(count = n(), .groups = "drop") |>
+#   mutate(pct_of_period = (count / nrow(before_topics)) * 100) |>
+#   arrange(desc(pct_of_period))
+# 
+# after_stats <- after_topics|>
+#   group_by(sentiment_label, eng_name, type)|>
+#   summarise(count = n(), .groups = "drop")|>
+#   mutate(pct_of_period = (count / nrow(after_topics)) * 100)|>
+#   arrange(desc(pct_of_period))
+# 
+# print(before_stats)
+# print(after_stats)
 
 
 # 2. Create the matrices (Topics vs. Sentiment)
@@ -1281,9 +1249,26 @@ ct_matrix <- spatial_tweets|>
   select(type, sentiment_label)|>
   table()
 
+ct_table <- spatial_tweets|>
+  filter(explicitness == "Explicit" & type == "ct")|>
+  select(timeline, sentiment_label)|>
+  table()
+  
+print(ct_table)
+
 print("CT timeline-sentiment comparison")
-print(ct_matrix)
-chisq.test(ct_matrix)
+print(ct_table)
+chisq.test(ct_table)
+
+
+teh_table <- spatial_tweets|>
+  filter(explicitness == "Explicit" & type == "not_ct")|>
+  select(timeline, sentiment_label)|>
+  table()
+
+print("Tehran timeline-sentiment comparison")
+print(teh_table)
+chisq.test(teh_table)
 
 
 not_ct_matrix24 <- spatial_tweets|>
