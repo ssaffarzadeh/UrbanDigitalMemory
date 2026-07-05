@@ -4,9 +4,9 @@
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
-library(igraph)
-library(ggraph)
-library(corrr)
+# library(igraph)
+# library(ggraph)
+# library(corrr)
 library(tidygraph)
 
 spatial_columns <- c('prob_topic_0', 'prob_topic_1', 'prob_topic_2', 'prob_topic_4',
@@ -137,6 +137,7 @@ spatial_matrix_data |>
 
 spatial_matrix_data2 |> 
   ggplot(aes(x = eng_name, y = place_name)) +
+  geom_col(aes(alpha = eng_name %in% c()))
   geom_point(aes(size = mean_prob), color = "steelblue", alpha = 0.6) +
   facet_wrap(~factor(timeline, levels = c("Before_24", "After_24"))) +
   theme_minimal() +

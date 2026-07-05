@@ -128,7 +128,8 @@ keywords <- c(
 )
 
 
-# 2. Initial Clean: Remove noise but keep Farsi text intact
+# 2. Initial Clean: Remove noise but keep Farsi text intact: Removing URLs, Hashtags,
+
 clean1 <- raw_data |>
   mutate(
     # Remove URLs, Mentions, and Hashtags
@@ -153,6 +154,7 @@ original_count <- nrow(clean1)
 new_count <- nrow(deduplicated)
 cat("Removed", original_count - new_count, "duplicate tweets.")
 
+# Detec any foreign language in the dataframe
 deduplicated <- deduplicated |>
   mutate(
     lang = detect_language(text)
