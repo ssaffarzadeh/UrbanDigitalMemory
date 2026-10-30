@@ -1,17 +1,20 @@
 # In R, install and run the necessary libraries
-# install.packages(c("gghighlight", "tidyverse", "dplyr", "ggplot2") 
+# install.packages(c("gghighlight", "tidyverse", "dplyr", "ggplot2")
 # remove the # sign to install the packages only for the first time
 library(tidyverse)
 library(dplyr)
 library(ggplot2)
 library(gghighlight)
 
+topics <- read.csv("output/Py_results/plot_topics_english.csv")
+tweets <- read.csv("output/full_data_translated_keyprob_sentiments.csv")
+
 # Define our Spatial General Topic IDs from processed final topic # numbers in combined vector
 spatial_ids <- c(0, 1, 2, 4, 5, 11, 12, 13, 16, 18, 19, 21, 22, 30, 31, 32, 37, 41, 46, 52, 55, 76, 82, 84, 86, 88, 93)
 
 # Define the localised topics
 spatial_ids_explicit <- c(0, 2, 5, 11, 13, 16, 18, 19, 30, 31, 32, 37, 86)
-#  We’d better replace the topic names with the refined versions for clarity and 
+#  We’d better replace the topic names with the refined versions for clarity and
 # consistency in the visualizations
 spatialtopic_names <- c( "0" = "Tehran / Valiasr Street Life & Nostalgia",
                          "1" = "Neighborhood Hubs & Squares",
@@ -40,7 +43,7 @@ spatialtopic_names <- c( "0" = "Tehran / Valiasr Street Life & Nostalgia",
                          "86" = "Tajrish-Valiasr Walks",
                          "88" = "Tehran's Historical Gates",
                          "93" = "Tehran Cafes")
-# We can already prepare the topics to create the word clouds after refining the 
+# We can already prepare the topics to create the word clouds after refining the
 # English topic titles
 # filter and prepare spatial topics
 spatial_topics <- topics |>
@@ -51,7 +54,7 @@ topics_for_cloud <- spatial_topics|>
   mutate(eng_name = spatialtopic_names[as.character(Topic)])|>
   mutate(explicitness = case_when(Topic %in% spatial_ids_explicit ~ "Explicit",
                                   TRUE ~ "Non-explicit"))|>
-  select(Topic, eng_name, explicitness, Score, Count, English_Word, 
+  select(Topic, eng_name, explicitness, Score, Count, English_Word,
          English_Representation)
 # Write the output topic as .csv for wordcloud and further
 # analytical steps
@@ -70,7 +73,7 @@ spatial_tweets <- tweets |>
   mutate(year = year(parse_date_time(createdAt, "a b d H:M:S z Y")))|>
   filter(year != "2021")|>
   mutate(timeline = if_else(year < 2024, "Before_24", "After_24"))|>
-  select(doc_id, text, txtenglish, Topic, eng_name, Count, 
+  select(doc_id, text, txtenglish, Topic, eng_name, Count,
          sentiment_label, sentiment_score, explicitness, type, year, timeline, createdAt,
          all_of(spatial_columns))
 # You can save the processed data right away at this stage.
@@ -85,9 +88,9 @@ plot_data_ct24 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(), .groups = "drop") |>
   complete(sentiment_label, eng_name, fill = list(topic_count = 0)) |>
-  
+
   # Row-wise percentage (Topic-based)
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     # If the topic has at least one tweet, calculate %; otherwise, 0
@@ -110,18 +113,18 @@ ggplot(plot_data_ct24, aes(x = eng_name, y = topic_count,
   show.legend = FALSE) +
   scale_alpha_manual(values = c("TRUE" = 1.0, "FALSE" = 0.3),
                      guide = "none") +
-  geom_text(aes(label = label_text), 
-            hjust = -0.1, 
+  geom_text(aes(label = label_text),
+            hjust = -0.1,
             size = 3.5,
-            color = "white") + 
-  facet_wrap(~sentiment_label, scales = "fixed") + 
+            color = "white") +
+  facet_wrap(~sentiment_label, scales = "fixed") +
   coord_flip() +
   theme_minimal() +
   scale_fill_manual(values = c(
     "neutral" = "#969696",
     "negative" = "#d9534f",
     "positive" = "#5cb85c"
-  )) + 
+  )) +
   labs(title = "Localised Spatial Topic Frequency by Sentiments for City Theater 2022 - 2024",
        subtitle = "Tweet distributions per topic | Tweet Count: 266, Total: 582",
        ## nrows ct 24: 266 // Total ct: 582
@@ -132,7 +135,7 @@ ggplot(plot_data_ct24, aes(x = eng_name, y = topic_count,
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
     plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
+    panel.grid.major  = element_line(color = "gray50"),
     panel.grid.minor  = element_line(color = "gray40"),
     ## axis
     axis.text = element_text(color = "white"),
@@ -153,7 +156,7 @@ plot_data_ct26 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(), .groups = "drop") |>
   complete(sentiment_label, eng_name, fill = list(topic_count = 0)) |>
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
@@ -172,24 +175,24 @@ ggplot(plot_data_ct26, aes(x = eng_name, y = topic_count,
     "Performing Arts & Festivals (City Theater)"
   )),
   show.legend = FALSE) +
-  geom_text(aes(label = label_text), 
-            hjust = -0.1, 
+  geom_text(aes(label = label_text),
+            hjust = -0.1,
             size = 3.5,
-            color = "white") + 
-  facet_wrap(~sentiment_label, scales = "fixed") + 
+            color = "white") +
+  facet_wrap(~sentiment_label, scales = "fixed") +
   coord_flip() +
   theme_minimal() +
   scale_fill_manual(values = c(
     "neutral" = "#969696",
     "negative" = "#d9534f",
     "positive" = "#5cb85c"
-  )) + 
+  )) +
   theme(
     strip.text = element_text(size = 9, face = "bold", color = "white"),
     ## panel & background
     panel.background = element_rect(fill = NA, color = NA),
     plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
+    panel.grid.major  = element_line(color = "gray50"),
     panel.grid.minor  = element_line(color = "gray40"),
     ## axis
     axis.text = element_text(color = "white"),
@@ -217,7 +220,7 @@ plot_data_teh24 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(), .groups = "drop") |>
   complete(sentiment_label, eng_name, fill = list(topic_count = 0)) |>
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
@@ -232,7 +235,7 @@ plot_data_teh26 <- spatial_tweets |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(), .groups = "drop") |>
   complete(sentiment_label, eng_name, fill = list(topic_count = 0)) |>
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
@@ -258,13 +261,13 @@ ggplot(plot_data_teh26, aes(x = eng_name, y = topic_count,
     "Metro Infrastructure & Tajrish Station"
   )),
   show.legend = FALSE) +
-  geom_text(aes(label = label_text), 
-            hjust = -0.1, 
+  geom_text(aes(label = label_text),
+            hjust = -0.1,
             size = 3.5,
             color = "white") +
-  scale_alpha_manual(values = c("TRUE" = 1.0, "FALSE" = 0.25), 
+  scale_alpha_manual(values = c("TRUE" = 1.0, "FALSE" = 0.25),
                      guide = "none") +
-  facet_wrap(~sentiment_label, scales = "fixed") + 
+  facet_wrap(~sentiment_label, scales = "fixed") +
   coord_flip() +
   theme_minimal() +
   scale_fill_manual(values = c(
@@ -277,7 +280,7 @@ ggplot(plot_data_teh26, aes(x = eng_name, y = topic_count,
     # panel & background
     panel.background = element_rect(fill = NA, color = NA),
     plot.background  = element_rect(fill = "gray20"),
-    panel.grid.major  = element_line(color = "gray50"),   
+    panel.grid.major  = element_line(color = "gray50"),
     panel.grid.minor  = element_line(color = "gray40"),
     ## axis
     axis.text = element_text(color = "white"),
@@ -287,7 +290,7 @@ ggplot(plot_data_teh26, aes(x = eng_name, y = topic_count,
     ## title and subtitle
     plot.title = element_text(color = "white"),
     plot.subtitle = element_text(color = "white")
-  ) + 
+  ) +
   labs(title = "Localised Spatial Topic Frequency by Sentiments for Tehran 2024 - 2026",
        subtitle = "Tweet distributions per topic | Tweet Count: 608 | Total: 1212",
        # nrows teh 26: 608 // Total ct: 1212
@@ -304,9 +307,9 @@ plot_data_combined_scales24 <- spatial_tweets |>
             avg_score = mean(sentiment_score),
             sentiment_total = sum(sentiment_score),
             .groups = "drop") |>
-  complete(sentiment_label, eng_name, 
+  complete(sentiment_label, eng_name,
            fill = list(sentiment_total = 0, topic_count = 0, avg_score = 0)) |>
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
@@ -324,7 +327,7 @@ plot_data_combined_scales26 <- spatial_tweets |>
             .groups = "drop") |>
   complete(sentiment_label, eng_name,
            fill = list(sentiment_total = 0, topic_count = 0, avg_score = 0)) |>
-  group_by(eng_name) |> 
+  group_by(eng_name) |>
   mutate(
     topic_total = sum(topic_count),
     topic_pct = ifelse(topic_total > 0, (topic_count / topic_total) * 100, 0),
