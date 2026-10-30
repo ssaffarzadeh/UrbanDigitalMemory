@@ -3,6 +3,7 @@
 *.Ruserdata
 *.qmd
 *.html
+*.RData
 UrbanDigitalMemory.Rproj
 process_data.RData
 Scripts/Data_Cleaning.R
