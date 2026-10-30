@@ -4,7 +4,7 @@
 .Ruserdata
 .qmd
 .html
-.Rproj
+/.Rproj
 /process_data.RData
-Data_Cleaning.R
+Scripts/Data_Cleaning.R
 /Data
