@@ -4,7 +4,5 @@
 .Ruserdata
 .qmd
 .html
-data/
-output/
-All_Scripts/
-images/
+.R
+/Data
