@@ -1,9 +1,9 @@
-.Rproj.user
-.Rhistory
-.Ruserdata
-.qmd
-.html
-/UrbanDigitalMemory.Rproj
-/process_data.RData
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.qmd
+*.html
+*.Rproj
+*.RData
 Scripts/Data_Cleaning.R
-/Data
+Data/
