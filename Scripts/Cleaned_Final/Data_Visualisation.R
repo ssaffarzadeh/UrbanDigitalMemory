@@ -10,10 +10,10 @@ topics <- read.csv("output/Py_results/plot_topics_english.csv")
 tweets <- read.csv("output/full_data_translated_keyprob_sentiments.csv")
 
 # Define our Spatial General Topic IDs from processed final topic # numbers in combined vector
-spatial_ids <- c(0, 1, 2, 4, 5, 11, 12, 13, 16, 18, 19, 21, 22, 30, 31, 32, 37, 41, 46, 52, 55, 76, 82, 84, 86, 88, 93)
+spatial_ids <- c(0, 1, 2, 4, 5, 11, 12, 13, 16, 18, 19, 21, 22, 30, 31, 32, 37, 41, 46, 52, 55, 76, 82, 86, 88, 93)
 
 # Define the localised topics
-spatial_ids_explicit <- c(0, 2, 5, 11, 13, 16, 18, 19, 30, 31, 32, 37, 86)
+spatial_ids_local <- c(0, 2, 5, 11, 13, 16, 18, 19, 30, 31, 32, 37, 86)
 #  We’d better replace the topic names with the refined versions for clarity and
 # consistency in the visualizations
 spatialtopic_names <- c( "0" = "Tehran / Valiasr Street Life & Nostalgia",
@@ -39,7 +39,6 @@ spatialtopic_names <- c( "0" = "Tehran / Valiasr Street Life & Nostalgia",
                          "55" = "Historical Squares (Ashura)",
                          "76" = "Contemporary Urban History",
                          "82" = "Cafe Culture & Solitude",
-                         "84" = "Homa Self-Immolation in Tajrish",
                          "86" = "Tajrish-Valiasr Walks",
                          "88" = "Tehran's Historical Gates",
                          "93" = "Tehran Cafes")
@@ -52,13 +51,14 @@ spatial_topics <- topics |>
 # exporting the classified topics to create wordclouds
 topics_for_cloud <- spatial_topics|>
   mutate(eng_name = spatialtopic_names[as.character(Topic)])|>
-  mutate(explicitness = case_when(Topic %in% spatial_ids_explicit ~ "Explicit",
-                                  TRUE ~ "Non-explicit"))|>
-  select(Topic, eng_name, explicitness, Score, Count, English_Word,
+  mutate(contextuality = case_when(Topic %in% spatial_ids_explicit ~ "Local",
+                                  TRUE ~ "General"))|>
+  select(Topic, eng_name, contextuality, Score, Count, English_Word,
          English_Representation)
 # Write the output topic as .csv for wordcloud and further
 # analytical steps
 write.csv(topics_for_cloud , "output/Py_results/plot_topics_english.csv")
+
 # Further processing with the analyzed tweets; temporal,
 # categorical classifications and organization, topic name updates
 # etc.
@@ -68,13 +68,13 @@ spatial_tweets <- tweets |>
   mutate(Topic = final_topic)|>
   left_join(counttopics, by = "Topic")|>
   mutate(eng_name = spatialtopic_names[as.character(Topic)]) |>
-  mutate(explicitness = case_when(Topic %in% spatial_ids_explicit ~ "Explicit",
-                                  TRUE ~ "Non-explicit"))|>
+  mutate(contextuality = case_when(Topic %in% spatial_ids_local ~ "Local",
+                                  TRUE ~ "General"))|>
   mutate(year = year(parse_date_time(createdAt, "a b d H:M:S z Y")))|>
   filter(year != "2021")|>
   mutate(timeline = if_else(year < 2024, "Before_24", "After_24"))|>
   select(doc_id, text, txtenglish, Topic, eng_name, Count,
-         sentiment_label, sentiment_score, explicitness, type, year, timeline, createdAt,
+         sentiment_label, sentiment_score, contextuality, type, year, timeline, createdAt,
          all_of(spatial_columns))
 # You can save the processed data right away at this stage.
 # Remove the Hash sign, so you can run the line.
@@ -83,7 +83,7 @@ write.csv(spatial_tweets,"output/Py_results/mostfinal_analysis_output.csv")
 # Prepare the City Theater data for 2022-24 topic-sentiments for
 # the plot
 plot_data_ct24 <- spatial_tweets |>
-  filter(explicitness == "Explicit") |>
+  filter(contextuality == "Local") |>
   filter(type == "ct" & timeline == "Before_24") |>
   group_by(sentiment_label, eng_name) |>
   summarise(topic_count = n(), .groups = "drop") |>
