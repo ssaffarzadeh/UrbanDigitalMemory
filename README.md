@@ -1,11 +1,12 @@
 [![License: PolyForm_Noncommercial_1.0.0](https://img.shields.io/badge/License-PolyForm_Noncommercial_1.0.0-purple)](https://polyformproject.org/licenses/noncommercial/1.0.0) [![License: GNU_General_Public_License_Version_3](https://img.shields.io/badge/License-GPLv3-yellow)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 # Urbanism Master Thesis Project
-This is the code repository for the urbanism master's graduation project from BK, TU Delft.
+This repository contains the code for the urbanism master's graduation project from BK, TU Delft.
 
 Please find the R & Python scripts in the /Scripts directory.
 You can access the dataset on [4TU.Research Data](https://doi.org/10.4121/60d059e9-991f-4887-802f-3e28e41eb962.v1)
-Further information regarding the workflow and scripts is available below.
+
+More information on the workflow and scripts is below.
 
 # Urban Digital Memory: Leveraging Social Media Data on Public Spaces to Inform Urban Design Processes
 
